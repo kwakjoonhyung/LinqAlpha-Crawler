@@ -345,10 +345,13 @@ If you encounter rate limiting:
 ```
 LinqAlpha-Crawler/
 ├── main.py                   # CLI entry point & pipeline orchestration
+├── check_models.py           # Utility to list available Fireworks AI models
+├── test_api.py               # Simple connection test for LLM API
+├── test_crawler.py           # Standalone test script for crawler validation
 ├── requirements.txt          # Python dependencies (pip)
 ├── environment.yaml          # Conda environment file (recommended)
 ├── .env.example              # Environment configuration template
-├── README.md                 # This documentation
+├── README.md                 # Project documentation
 └── src/
     ├── __init__.py           # Package initialization
     ├── config.py             # Settings, constants, tab mappings
