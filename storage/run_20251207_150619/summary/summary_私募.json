@@ -1,0 +1,946 @@
+{
+  "metadata": {
+    "tab": "私募",
+    "job_name": "run_20251207_150619",
+    "total_summaries": 30,
+    "new_summaries_this_save": 30,
+    "last_updated": "2025-12-07T06:44:43.818063"
+  },
+  "summaries": [
+    {
+      "post_id": "c27d1e7f0c38ba8f",
+      "post_hash": "5f0d7b3a27ead16b",
+      "tab": "私募",
+      "summary": "Investors discuss various market trends, including the performance of specific funds and stocks, as well as the potential for future growth in sectors like technology and consumption.",
+      "key_points": [
+        "幻方量化基金表现出色，年内收益率超过50%",
+        "消费品和医药行业被认为是长期牛市的关键领域",
+        "私募投资人如但斌和梁文峰在市场中发挥着重要作用",
+        "投资者关注地产行业和AI概念",
+        "市场表现出对技术和消费的强烈兴趣"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market, highlighting the success of certain funds and the potential for growth in key sectors.",
+      "processed_at": "2025-12-07T06:38:56.241893",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 懒人养基修改于12-05 11:08 · 来自雪球 优选偏债基金，构建自己的固收+组合 在《业绩超稳的固收+基金不多，都在这里了》与《年年正收益的固收+基金，就这么几只》两篇文章中，我们分别从 \"2020 年以来每个年度跑赢偏债混合型基金..."
+    },
+    {
+      "post_id": "5f2d59621e2b34da",
+      "post_hash": "f23081f59401f942",
+      "tab": "私募",
+      "summary": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 懒人养基修改于12-05 11:08 ... (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Technology",
+        "Healthcare",
+        "Consumer",
+        "Finance",
+        "Real Estate",
+        "Manufacturing"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.7142857142857143,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:39:13.339692",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 懒人养基修改于12-05 11:08 · 来自雪球 优选偏债基金，构建自己的固收+组合 在《业绩超稳的固收+基金不多，都在这里了》与《年年正收益的固收+基金，就这么几只》两篇文章中，我们分别从 \"2020 年以来每个年度跑赢偏债混合型基金..."
+    },
+    {
+      "post_id": "d823f83644fbbfd7",
+      "post_hash": "8783a858bd5ca006",
+      "tab": "私募",
+      "summary": "The author discusses stable and profitable bond funds, recommending a few top picks.",
+      "key_points": [
+        "The author discusses stable and profitable bond funds, recommending a few top picks.",
+        "The author highlights the importance of diversification in investment portfolios."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for stable returns from these bond funds, highlighting their historical performance and the importance of diversification in investment portfolios.",
+      "processed_at": "2025-12-07T06:39:19.587898",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "懒人养基修改于12-05 11:08 · 来自雪球 优选偏债基金，构建自己的固收+组合 在《业绩超稳的固收+基金不多，都在这里了》与《年年正收益的固收+基金，就这么几只》两篇文章中，我们分别从 \"2020 年以来每个年度跑赢偏债混合型基金指数\" 和 \"每年年度都是正收益\" 两个维度，筛选出 5只 \"超稳基金\" 和 20 只 \"年年正收益基金\"。 今天，我..."
+    },
+    {
+      "post_id": "8afa95e0625434db",
+      "post_hash": "1ede9e5f33ae1bdf",
+      "tab": "私募",
+      "summary": "Author discusses lazy portfolio strategy and stock picks.",
+      "key_points": [
+        "Lazy portfolio strategy",
+        "Stock picks"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about lazy portfolio strategy and stock picks.",
+      "processed_at": "2025-12-07T06:39:31.252290",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "懒人养基修改于12-05 11:08 · 来自雪球"
+    },
+    {
+      "post_id": "ac1d0f67477a820f",
+      "post_hash": "77a2c65b2b3352ac",
+      "tab": "私募",
+      "summary": "The author recommends debt funds and building a stable income portfolio.",
+      "key_points": [
+        "偏债基金",
+        "固收+组合"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the stability and profitability of these funds.",
+      "processed_at": "2025-12-07T06:39:43.448053",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "优选偏债基金，构建自己的固收+组合 在《业绩超稳的固收+基金不多，都在这里了》与《年年正收益的固收+基金，就这么几只》两篇文章中，我们分别从 \"2020 年以来每个年度跑赢偏债混合型基金指数\" 和 \"每年年度都是正收益\" 两个维度，筛选出 5只 \"超稳基金\" 和 20 只 \"年年正收益基金\"。 今天，我..."
+    },
+    {
+      "post_id": "4036faa243dc5319",
+      "post_hash": "ba6ae36e9ea95c5f",
+      "tab": "私募",
+      "summary": "The post discusses Xu Xiaoming's low-key investment approach and his ability to thrive in the market.",
+      "key_points": [
+        "Xu Xiaoming's low-key investment approach",
+        "His ability to thrive in the market"
+      ],
+      "tickers": [],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Xu Xiaoming's investment strategy and his ability to maintain a low profile while achieving success.",
+      "processed_at": "2025-12-07T06:39:55.530637",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "不肯媚俗的心修改于12-05 10:46 · 来自iPhone 投资是比谁的命多！ 徐翔的朋友回忆：有一个节假日，徐翔和自己的朋友们一起去澳门赌场进行放松娱乐，结果大家每个人都百万输赢，徐翔手里却仅仅只拿着5万筹码。而且就依靠这点筹码他在大厅里足足玩了三天，最终他剩下的钱还可以买一件阿玛尼外套。 行事低调的知名私募投资人、 重阳投资创..."
+    },
+    {
+      "post_id": "10ca5c2033023428",
+      "post_hash": "d1cfefd0cc92c659",
+      "tab": "私募",
+      "summary": "Author discusses Kweichow Moutai and Ping An Bank, focusing on value investing and white liquor.",
+      "key_points": [
+        "Kweichow Moutai is a solid value play.",
+        "Ping An Bank has a strong financial position."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their value and financial strength.",
+      "processed_at": "2025-12-07T06:40:07.706166",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "不肯媚俗的心修改于12-05 10:46 · 来自iPhone"
+    },
+    {
+      "post_id": "78b32df41d82a8cb",
+      "post_hash": "4ca8f015411544e8",
+      "tab": "私募",
+      "summary": "Xu Xiang's friend recalls how Xu Xiang, a low-key private investor, won big at a Macau casino with just 50k chips, outlasting friends who lost millions.",
+      "key_points": [
+        "Xu Xiang won big at a Macau casino with 50k chips.",
+        "He outlasted friends who lost millions."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Xu Xiang's exceptional investment skills and ability to outperform others in a high-stakes setting.",
+      "processed_at": "2025-12-07T06:40:19.775021",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "投资是比谁的命多！ 徐翔的朋友回忆：有一个节假日，徐翔和自己的朋友们一起去澳门赌场进行放松娱乐，结果大家每个人都百万输赢，徐翔手里却仅仅只拿着5万筹码。而且就依靠这点筹码他在大厅里足足玩了三天，最终他剩下的钱还可以买一件阿玛尼外套。 行事低调的知名私募投资人、 重阳投资创..."
+    },
+    {
+      "post_id": "6077336e80824cf9",
+      "post_hash": "ac07aec113889abf",
+      "tab": "私募",
+      "summary": "轮船小水手 discusses his investment strategy, focusing on top fund managers like Ray Dalio.",
+      "key_points": [
+        "He follows fund managers like Ray Dalio and sells Kweichow Moutai to buy NVIDIA.",
+        "He aims to become a top fund manager, not for fame but for excellence."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about his investment strategy, citing the success of selling Kweichow Moutai to buy NVIDIA.",
+      "processed_at": "2025-12-07T06:40:31.674712",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "轮船小水手修改于昨天11:46 · 来自iPhone 但斌24年被全雪球痛骂 但是他卖了茅台买英伟达的操作结果似乎还不错 我一直在密切关注着所有的基金经理 并非是蹭热度（我不需要粉丝更不需要流量变现） 只因为早就励志以全球最顶尖的基金经理标准要求自己 （虽然永远不会发私募） 所以必须观察他们 我也密切关注桥水..."
+    },
+    {
+      "post_id": "4bfba9c4e1719263",
+      "post_hash": "15d1662040fa48e3",
+      "tab": "私募",
+      "summary": "Kweichow Moutai and Ping An Bank are discussed in the context of value investing and white liquor.",
+      "key_points": [
+        "Kweichow Moutai is a strong value stock.",
+        "Ping An Bank is a solid financial institution."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth and stability.",
+      "processed_at": "2025-12-07T06:40:43.759527",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "轮船小水手修改于昨天11:46 · 来自iPhone"
+    },
+    {
+      "post_id": "b5400c52b3fcddb5",
+      "post_hash": "10386d1895481422",
+      "tab": "私募",
+      "summary": "But Bin sold Kweichow Moutai for NVIDIA, and it seems to be doing well. He’s been tracking top fund managers for years, not just for clout.",
+      "key_points": [
+        "But Bin sold Kweichow Moutai for NVIDIA, and it seems to be doing well.",
+        "He’s been tracking top fund managers for years, not just for clout."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about But Bin’s investment strategy, noting that selling Kweichow Moutai for NVIDIA seems to be doing well.",
+      "processed_at": "2025-12-07T06:40:56.150153",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌24年被全雪球痛骂 但是他卖了茅台买英伟达的操作结果似乎还不错 我一直在密切关注着所有的基金经理 并非是蹭热度（我不需要粉丝更不需要流量变现） 只因为早就励志以全球最顶尖的基金经理标准要求自己 （虽然永远不会发私募） 所以必须观察他们 我也密切关注桥水..."
+    },
+    {
+      "post_id": "b92c0a3f8fc3ed8d",
+      "post_hash": "ad9f9457338113a5",
+      "tab": "私募",
+      "summary": "Jesse Livermore's book reveals that long-term winners often come from consumer and pharma sectors, which are currently underappreciated.",
+      "key_points": [
+        "Long-term winners come from consumer and pharma sectors.",
+        "General Mills is an example of this phenomenon."
+      ],
+      "tickers": [
+        "GIS"
+      ],
+      "companies": [
+        "General Mills"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author highlights the underappreciation of consumer and pharma sectors, which are historically strong performers.",
+      "processed_at": "2025-12-07T06:41:07.509311",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "泽元投资修改于12-02 10:06 · 来自雪球 杰西米·西格尔教授在《投资者的未来》一书中，揭示了一个现象。 自标准普尔指数编制以来，能够长期穿越牛熊周期，取得骄人回报的企业，往往来自于消费品和医药行业。 而在当下美股甚至全球市场中，消费行业属于最不被市场重视和看好的板块之一。 通用磨坊（GIS）就是这样的一个典型，..."
+    },
+    {
+      "post_id": "b8bfdb5040435395",
+      "post_hash": "eb221a48b60a2f4e",
+      "tab": "私募",
+      "summary": "Author discusses value investing and white liquor stocks.",
+      "key_points": [
+        "Author discusses value investing and white liquor stocks.",
+        "Author expresses optimism about the future of the market."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market’s potential for long-term growth and the value of certain stocks.",
+      "processed_at": "2025-12-07T06:41:19.877012",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "泽元投资修改于12-02 10:06 · 来自雪球"
+    },
+    {
+      "post_id": "ad2c5860989b2c0b",
+      "post_hash": "a11a28fc08833596",
+      "tab": "私募",
+      "summary": "杰西米·西格尔教授在《投资者的未来》一书中，揭示了一个现象。 自标准普尔指数编制以来，能够长期穿越牛熊周期，取得骄人回报的企业，往往来自于消费品和医药行业。 而在当下美股甚至全球市场中，消费行业... (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Healthcare",
+        "Consumer"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.6666666666666666,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:41:37.621500",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "杰西米·西格尔教授在《投资者的未来》一书中，揭示了一个现象。 自标准普尔指数编制以来，能够长期穿越牛熊周期，取得骄人回报的企业，往往来自于消费品和医药行业。 而在当下美股甚至全球市场中，消费行业属于最不被市场重视和看好的板块之一。 通用磨坊（GIS）就是这样的一个典型，..."
+    },
+    {
+      "post_id": "f414554c41de094f",
+      "post_hash": "f4c8c4d49d836c65",
+      "tab": "私募",
+      "summary": "A private equity firm, Fantang Quantitative, has a product that outperformed the market by 30% in 11 months.",
+      "key_points": [
+        "The product outperformed the market by 30% in 11 months.",
+        "The author is optimistic about the performance."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the performance of Fantang Quantitative's product, which outperformed the market by 30% in 11 months.",
+      "processed_at": "2025-12-07T06:41:43.618674",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "仓都加满修改于12-04 20:36 · 来自雪球 一张知名量化的收益图，在业内疯传 近日，一张知名私募——幻方量化的旗下产品收益图，在业内疯传。 一、 从图中可以看出，其旗下多只指数增强产品年内收益率超过50%，而同期无论是中证500指数、还是中证1000指数，年内涨幅只在21%-22%左右。 也就是说，11个月的超额收益做到了30%左右，这已是一个惊人的数字。 为什..."
+    },
+    {
+      "post_id": "e88f075655ac5690",
+      "post_hash": "b7866e37e8013d48",
+      "tab": "私募",
+      "summary": "Author is bullish on Kweichow Moutai and Ping An Bank, citing value investing and white liquor trends.",
+      "key_points": [
+        "Kweichow Moutai is a solid value play.",
+        "Ping An Bank has a strong financial position."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their value potential and strong financials.",
+      "processed_at": "2025-12-07T06:41:55.749063",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "仓都加满修改于12-04 20:36 · 来自雪球"
+    },
+    {
+      "post_id": "0c265774fa5e59fe",
+      "post_hash": "8e7a0a44e0368c80",
+      "tab": "私募",
+      "summary": "A renowned quant fund's performance chart is going viral in the industry. The fund's index-enhanced products have seen over 50% returns this year, outpacing the CSI 500 and CSI 1000 indexes by a significant margin.",
+      "key_points": [
+        "The fund's products have outperformed the market with returns over 50% this year.",
+        "The performance is a remarkable achievement, especially considering the market's relatively flat growth."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the fund's performance, highlighting the impressive returns and the potential for continued growth.",
+      "processed_at": "2025-12-07T06:42:08.239380",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "一张知名量化的收益图，在业内疯传 近日，一张知名私募——幻方量化的旗下产品收益图，在业内疯传。 一、 从图中可以看出，其旗下多只指数增强产品年内收益率超过50%，而同期无论是中证500指数、还是中证1000指数，年内涨幅只在21%-22%左右。 也就是说，11个月的超额收益做到了30%左右，这已是一个惊人的数字。 为什..."
+    },
+    {
+      "post_id": "1086983fb0d8f148",
+      "post_hash": "8ee86ea52b78288d",
+      "tab": "私募",
+      "summary": "Charlie Munger: Failure is a chance to learn, not to cry.",
+      "key_points": [
+        "Failure is a chance to learn, not to cry.",
+        "The difference lies in how you handle failure."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for growth and learning from failures.",
+      "processed_at": "2025-12-07T06:42:19.397691",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于昨天22:10 · 来自iPhone 查理·芒格：如何从失败中提取智慧？ 我活了将近一个世纪，目睹了太多人的崛起与陨落。有些人被失败击垮，一蹶不振，有些人却能从中淬炼出惊人的智慧。愈老愈纯，愈老愈富。这其中的差别不在于他们遭遇失败的次数，而在于他们处理失败的方式。大多数人视失败为耻辱。急于掩盖或遗忘。但真正的..."
+    },
+    {
+      "post_id": "6feec2c30ad5b986",
+      "post_hash": "f29b48673556e47b",
+      "tab": "私募",
+      "summary": "Butbin says Kweichow Moutai is a solid value play, citing its strong brand and white liquor market.",
+      "key_points": [
+        "Kweichow Moutai has a strong brand and a growing white liquor market.",
+        "Ping An Bank is a solid financial play with a stable dividend yield."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's value potential and Ping An Bank's financial stability.",
+      "processed_at": "2025-12-07T06:42:31.786531",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于昨天22:10 · 来自iPhone"
+    },
+    {
+      "post_id": "708ba0cf4a8dbb88",
+      "post_hash": "42849439198aab69",
+      "tab": "私募",
+      "summary": "Charlie Munger on how to learn from failure.",
+      "key_points": [
+        "Failure is a stepping stone to wisdom.",
+        "Most people fear failure and hide it, but the wise learn from it."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "Personal Growth"
+      ],
+      "sectors": [
+        "Finance",
+        "Education"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for personal growth through failure.",
+      "processed_at": "2025-12-07T06:42:43.564594",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "查理·芒格：如何从失败中提取智慧？ 我活了将近一个世纪，目睹了太多人的崛起与陨落。有些人被失败击垮，一蹶不振，有些人却能从中淬炼出惊人的智慧。愈老愈纯，愈老愈富。这其中的差别不在于他们遭遇失败的次数，而在于他们处理失败的方式。大多数人视失败为耻辱。急于掩盖或遗忘。但真正的..."
+    },
+    {
+      "post_id": "9fc4c3f1a709bceb",
+      "post_hash": "c628beb73c7fd25a",
+      "tab": "私募",
+      "summary": "The author believes that the recent surge in profitable quant funds is due to the government taking over DS, allowing these funds to be backed by massive social security, pension, and treasury funds.",
+      "key_points": [
+        "Many quant funds have been forced to exit due to the T+1 market and the ban on reverse repo.",
+        "DeepSeek's founder, Liang Wenfeng, has managed to achieve an average return of 50% with his quant strategies.",
+        "The author believes that this is not a fair market, but rather a 'hunting ground' for those with technical advantages.",
+        "The author is critical of the government's actions, calling it a 'jungle' where only a few can thrive."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "sentiment_reasoning": "The author expresses skepticism and criticism towards the government's actions, calling it a 'jungle' where only a few can thrive.",
+      "processed_at": "2025-12-07T06:42:56.366690",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "suiyuan0420修改于12-05 02:00 · 来自Android 有木有一种可能，年初监管禁止了转融通中的转融券，T+1市场交易制度之下，绝大多数私募量化因为失去券源了，导致集体清盘了，连幻方都官宣要退出量化了，而现在突然冒出这么多只大幅盈利的幻方量化基金，大概率是DS被收为国资后，这些基金都是由大量社保，养老金，证金，财政部等等郭嘉队包装出来... @钢铁慈父： 谁的牛市？梁文峰..."
+    },
+    {
+      "post_id": "0b5fc8ba7b6650ca",
+      "post_hash": "accdd5e56fcd9750",
+      "tab": "私募",
+      "summary": "suiyuan0420 thinks Kweichow Moutai and Ping An Bank are solid bets.",
+      "key_points": [
+        "Kweichow Moutai is a white liquor giant with strong fundamentals.",
+        "Ping An Bank is a top-tier bank with a solid dividend yield."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, citing their strong fundamentals and dividend yields.",
+      "processed_at": "2025-12-07T06:43:07.834804",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "suiyuan0420修改于12-05 02:00 · 来自Android"
+    },
+    {
+      "post_id": "c3b92710b2ea7257",
+      "post_hash": "3a7b2da099a5cf1d",
+      "tab": "私募",
+      "summary": "The post discusses how DeepSeek's founder, Liang Wenfeng, has been making huge profits with his fantasy fund, while the rest of the market is struggling.",
+      "key_points": [
+        "Liang Wenfeng's fantasy fund has made huge profits, with an average return of 50%.",
+        "The fund has been able to do this due to its access to a large amount of social security, pension, and government funds."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": 0.2,
+      "sentiment_reasoning": "The author expresses skepticism about the market, calling it a 'hunting ground' for those with technical advantages, and questioning the fairness of the system.",
+      "processed_at": "2025-12-07T06:43:20.202236",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "有木有一种可能，年初监管禁止了转融通中的转融券，T+1市场交易制度之下，绝大多数私募量化因为失去券源了，导致集体清盘了，连幻方都官宣要退出量化了，而现在突然冒出这么多只大幅盈利的幻方量化基金，大概率是DS被收为国资后，这些基金都是由大量社保，养老金，证金，财政部等等郭嘉队包装出来... @钢铁慈父： 谁的牛市？梁文峰量化“开挂”，散户的被疯狂收割！ 当A股指数在震荡中虚涨，散户们还在为几分钱..."
+    },
+    {
+      "post_id": "aabaefe25332b958",
+      "post_hash": "3f30cbd82180f246",
+      "tab": "私募",
+      "summary": "@钢铁慈父： (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Manufacturing"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": -0.5,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:43:37.362785",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "@钢铁慈父："
+    },
+    {
+      "post_id": "4ddc0ecd3a0d8ebc",
+      "post_hash": "72ab64080d5735c6",
+      "tab": "私募",
+      "summary": "Author shares their thoughts on the current market and mentions a few stocks.",
+      "key_points": [
+        "Author believes the market is undervalued and mentions a few stocks as potential buys.",
+        "Author discusses the recent performance of the stocks and their potential for growth."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market and the potential for these stocks to perform well.",
+      "processed_at": "2025-12-07T06:43:43.672417",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "12-04 23:43 · 转发 14 · 讨论 405 · 赞 407"
+    },
+    {
+      "post_id": "605a05ec1aa1e882",
+      "post_hash": "37d01970e6d44f59",
+      "tab": "私募",
+      "summary": "The author discusses their investment strategy in the real estate sector, focusing on property rental income and diversified holdings.",
+      "key_points": [
+        "They hold property rental income as a better model than project development.",
+        "Their portfolio is highly diversified."
+      ],
+      "tickers": [
+        "SZ000001"
+      ],
+      "companies": [
+        "Vanke"
+      ],
+      "themes": [
+        "Value Investing",
+        "Real Estate"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about their investment strategy, highlighting the benefits of property rental income and diversified holdings.",
+      "processed_at": "2025-12-07T06:43:55.766728",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "泽元投资修改于12-04 11:04 · 来自雪球 经常有人问我们，我们持有的地产行业里面有没有vanke。 对于地产行业，我们过去说过两个持仓特点。 第一，认为持有物业收租的模式好于项目开发的模式。 第二，持仓高度分散。 比如我们今年持有的一个大悦城地产，因为被私有化退市了，所以可以拿出来简单说说。 大悦城地产的核..."
+    },
+    {
+      "post_id": "9bce47a5c0afdb20",
+      "post_hash": "7f873516bfd7b557",
+      "tab": "私募",
+      "summary": "Author discusses value investing and the potential of white liquor stocks.",
+      "key_points": [
+        "Value investing is a solid strategy.",
+        "White liquor stocks are underrated."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about value investing and white liquor stocks, highlighting their potential for long-term growth.",
+      "processed_at": "2025-12-07T06:44:07.569974",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "泽元投资修改于12-04 11:04 · 来自雪球"
+    },
+    {
+      "post_id": "aab7bba8e591fec5",
+      "post_hash": "4683c202a1336e65",
+      "tab": "私募",
+      "summary": "The author discusses their real estate holdings, focusing on the benefits of property rental over project development and portfolio diversification.",
+      "key_points": [
+        "They emphasize the advantages of holding rental properties over developing projects.",
+        "They highlight the importance of portfolio diversification in their real estate holdings."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the real estate market, particularly the rental model, and the benefits of diversification in their holdings.",
+      "processed_at": "2025-12-07T06:44:20.128872",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "经常有人问我们，我们持有的地产行业里面有没有vanke。 对于地产行业，我们过去说过两个持仓特点。 第一，认为持有物业收租的模式好于项目开发的模式。 第二，持仓高度分散。 比如我们今年持有的一个大悦城地产，因为被私有化退市了，所以可以拿出来简单说说。 大悦城地产的核..."
+    },
+    {
+      "post_id": "175ec4fbddbabc2e",
+      "post_hash": "cd57afb392143a81",
+      "tab": "私募",
+      "summary": "Investors are bullish on Google Chain and Commercial Aerospace, citing big-name investors like Buting and Berkshire Hathaway.",
+      "key_points": [
+        "Google Chain is a core long-term play, with big-name investors like Buting and Berkshire Hathaway.",
+        "Commercial Aerospace is a short-term trading opportunity, with stocks like SZ000001 and SH600519."
+      ],
+      "tickers": [
+        "SZ000001",
+        "SH600519"
+      ],
+      "companies": [
+        "Ping An Bank",
+        "Kweichow Moutai"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Finance",
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author is optimistic about Google Chain and Commercial Aerospace, citing big-name investors and market trends.",
+      "processed_at": "2025-12-07T06:44:31.903907",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "费坚强修改于12-01 17:26 · 来自Android 跟着大佬干AI！谷歌“亲儿子”名单【附股】 最近A股市场虽然成交量缩到1.6万亿（比之前少了不少），但机会一点没少，尤其是两条主线特别亮眼： ——谷歌链（中线布局）和商业航天（短线炒作）。 先说说谷歌链，这可是中线布局的核心。为啥这么看好？看看大佬们的动作就知道了： 东方港湾的但斌、巴菲特的伯克希尔、段永平还有景..."
+    },
+    {
+      "post_id": "1aef0ea198928e4f",
+      "post_hash": "c9ff7508a31bb7a7",
+      "tab": "私募",
+      "summary": "The author discusses value investing in the Chinese market, focusing on Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Kweichow Moutai is a solid choice for value investors.",
+        "Ping An Bank is a reliable option for long-term gains."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth and stability.",
+      "processed_at": "2025-12-07T06:44:43.818063",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "费坚强修改于12-01 17:26 · 来自Android"
+    }
+  ]
+}

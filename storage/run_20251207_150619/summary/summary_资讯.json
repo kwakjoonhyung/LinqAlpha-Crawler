@@ -1,0 +1,1069 @@
+{
+  "metadata": {
+    "tab": "资讯",
+    "job_name": "run_20251207_150619",
+    "total_summaries": 30,
+    "new_summaries_this_save": 30,
+    "last_updated": "2025-12-07T06:32:43.087504"
+  },
+  "summaries": [
+    {
+      "post_id": "d1c4116ccf8e6421",
+      "post_hash": "44a6382a1100b192",
+      "tab": "资讯",
+      "summary": "Chinese stocks rally as tech and finance sectors gain momentum.",
+      "key_points": [
+        "比亚迪坚持不拉踩同行",
+        "光启技术勇攀中国智造新高峰",
+        "华泰证券建议关注国产算力链及太空算力建设",
+        "五粮液价格调整",
+        "上汽集团将进行全固态电池样车测试",
+        "万科A欠王石一声谢谢",
+        "兴发集团黄磷产能将增加2.8万吨/年",
+        "N摩尔-U开盘即涨超468%",
+        "摩尔线程一签赚超26万"
+      ],
+      "tickers": [
+        "SZ002594",
+        "SZ002625",
+        "BABA",
+        "SZ000858",
+        "SH600104",
+        "SZ000002",
+        "SH600141",
+        "SH688795",
+        "000002",
+        "002625",
+        "600141",
+        "688795",
+        "600104",
+        "000858",
+        "002594"
+      ],
+      "companies": [
+        "BYD",
+        "Gongneng",
+        "Alibaba",
+        "Wuliangye",
+        "SAIC",
+        "Vanke",
+        "Xingfa",
+        "Nvmo"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Technology",
+        "Finance",
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the rally in Chinese stocks, particularly in tech and finance sectors, with companies like BYD and Alibaba leading the charge.",
+      "processed_at": "2025-12-07T06:26:56.172877",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+    },
+    {
+      "post_id": "e547773a995bdd46",
+      "post_hash": "6380c2aecf366203",
+      "tab": "资讯",
+      "summary": "Chinese stocks are up, with tech and finance leading the charge. Investors are optimistic about the future.",
+      "key_points": [
+        "比亚迪(SZ002594) CEO 王传福 vows not to drag down competitors, focusing on long-term credibility.",
+        "光启技术(SZ002625) emphasizes original innovation and China's pursuit of technological self-reliance.",
+        "阿里巴巴(BABA) sees potential in domestic computing and space computing industries.",
+        "五粮液(SZ000858) adjusts its pricing for the first time in ten years.",
+        "上汽集团(SH600104) plans to test full solid-state battery cars next year.",
+        "万科A(SZ000002) owes a debt of gratitude to former CEO 姚振华.",
+        "兴发集团(SH600141) increases its yellow phosphorus production capacity by 2.8 million tons per year.",
+        "N摩尔-U(SH688795) surges 424% on its first trading day, becoming the first domestic GPU stock.",
+        "热门7x24视频基金资讯达人私募ETF"
+      ],
+      "tickers": [
+        "SZ002594",
+        "SZ002625",
+        "BABA",
+        "SZ000858",
+        "SH600104",
+        "SZ000002",
+        "SH600141",
+        "SH688795",
+        "000002",
+        "002625",
+        "600141",
+        "688795",
+        "600104",
+        "000858",
+        "002594"
+      ],
+      "companies": [
+        "BYD",
+        "Lighten Technology",
+        "Alibaba",
+        "Wuliangye",
+        "SAIC",
+        "Vanke",
+        "Xingfa Group",
+        "NVIDIA China"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor",
+        "Technology",
+        "Finance"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance",
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the Chinese stock market, highlighting the success of companies like BYD, Lighten Technology, and N摩尔-U, as well as the potential in domestic computing and space computing industries.",
+      "processed_at": "2025-12-07T06:27:09.071280",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+    },
+    {
+      "post_id": "b362b54bc1422cd3",
+      "post_hash": "b45bf1b8096925c3",
+      "tab": "资讯",
+      "summary": "王传福在比亚迪临时股东大会上表示，比亚迪不会拉踩同行，坚持做行业榜样",
+      "key_points": [
+        "比亚迪不会拉踩同行",
+        "坚持做行业榜样"
+      ],
+      "tickers": [
+        "SZ002594",
+        "002594"
+      ],
+      "companies": [
+        "BYD"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Technology",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about BYD's commitment to not engage in negative competition, which is seen as a positive trait for a market leader.",
+      "processed_at": "2025-12-07T06:27:19.104201",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚持不拉踩同行，虽然短期可能损失市场份额，但能赢得长期口碑，以及国家与行业认可。 “龙头企业要承受得起委... 网页链接"
+    },
+    {
+      "post_id": "151d6a415359394f",
+      "post_hash": "5333b70d3204a8c3",
+      "tab": "资讯",
+      "summary": "比亚迪(SZ002594)的股价在12-05 22:56时发生了变化。",
+      "key_points": [
+        "比亚迪(SZ002594)的股价在12-05 22:56时发生了变化。"
+      ],
+      "tickers": [
+        "SZ002594",
+        "002594"
+      ],
+      "companies": [
+        "BYD"
+      ],
+      "themes": [
+        "Technology"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about BYD's stock price change on 12-05 22:56.",
+      "processed_at": "2025-12-07T06:27:31.284052",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻"
+    },
+    {
+      "post_id": "b665f5c9a8c30ee1",
+      "post_hash": "d1105d9ff9aa7b36",
+      "tab": "资讯",
+      "summary": "王传福表示比亚迪不会拉踩同行，坚持做行业榜样",
+      "key_points": [
+        "比亚迪不会拉踩同行",
+        "坚持做行业榜样"
+      ],
+      "tickers": [
+        "SH002594"
+      ],
+      "companies": [
+        "BYD"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about BYD's commitment to not engage in negative competition, which could lead to long-term benefits and recognition from the government and industry.",
+      "processed_at": "2025-12-07T06:27:42.982350",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚持不拉踩同行，虽然短期可能损失市场份额，但能赢得长期口碑，以及国家与行业认可。 “龙头企业要承受得起委... 网页链接"
+    },
+    {
+      "post_id": "32600582f20d08ee",
+      "post_hash": "1140ffb2e6c6e216",
+      "tab": "资讯",
+      "summary": "光启技术坚持原始创新，勇攀中国智造新高峰",
+      "key_points": [
+        "光启技术致力于原始创新",
+        "加强基础科学研究"
+      ],
+      "tickers": [
+        "SZ002625",
+        "002625"
+      ],
+      "companies": [
+        "光启技术"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author expresses optimism about the company's commitment to innovation and its efforts to enhance scientific research.",
+      "processed_at": "2025-12-07T06:27:54.885274",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "光启技术(SZ002625)修改于12-05 21:55 · 来自新闻 光启技术：坚持原始创新之路，勇攀中国智造新高峰 转自：半月谈 当前，世界百年未有之大变局加速演进，新一轮科技革命和产业变革深入发展，掌握关键核心技术，实现高水平科技自立自强，关乎国家发展全局和长远竞争力。唯有不断增强紧迫感，进一步加大基础科学研究和原始创新... 网页链接"
+    },
+    {
+      "post_id": "dbfebb8944cecdfb",
+      "post_hash": "8fd2a6e4672b516a",
+      "tab": "资讯",
+      "summary": "光启技术(SZ002625)修改于12-05 21:55 · 来自新闻",
+      "key_points": [
+        "光启技术(SZ002625)修改于12-05 21:55 · 来自新闻"
+      ],
+      "tickers": [
+        "SZ002625",
+        "002625"
+      ],
+      "companies": [
+        "光启技术"
+      ],
+      "themes": [
+        "Technology"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the recent news update from 光启技术(SZ002625).",
+      "processed_at": "2025-12-07T06:28:06.895295",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "光启技术(SZ002625)修改于12-05 21:55 · 来自新闻"
+    },
+    {
+      "post_id": "cb7836c4161f4e3c",
+      "post_hash": "493699dc2158161d",
+      "tab": "资讯",
+      "summary": "Lighting Technology: Sticking to the path of original innovation, climbing China's peak of intelligent manufacturing. Translated from: Half-Month Talk",
+      "key_points": [
+        "World's biggest shift in a century is accelerating, tech revolution and industry transformation are deepening, and mastering core tech is crucial for national development and long-term competitiveness.",
+        "Only by constantly increasing the sense of urgency can we further increase basic scientific research and original innovation efforts."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Innovation",
+        "Technology"
+      ],
+      "sectors": [
+        "Manufacturing",
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author emphasizes the importance of original innovation and the need to increase basic scientific research efforts, indicating a positive outlook on the development of Lighting Technology and China's intelligent manufacturing sector.",
+      "processed_at": "2025-12-07T06:28:19.343291",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "光启技术：坚持原始创新之路，勇攀中国智造新高峰 转自：半月谈 当前，世界百年未有之大变局加速演进，新一轮科技革命和产业变革深入发展，掌握关键核心技术，实现高水平科技自立自强，关乎国家发展全局和长远竞争力。唯有不断增强紧迫感，进一步加大基础科学研究和原始创新... 网页链接"
+    },
+    {
+      "post_id": "79e6453549658add",
+      "post_hash": "a31011fa3a7f90c8",
+      "tab": "资讯",
+      "summary": "华泰证券建议关注国产算力链及太空算力建设相关产业链",
+      "key_points": [
+        "华泰证券建议关注国产算力链及太空算力建设相关产业链",
+        "阿里发布2026财年第二季度财报"
+      ],
+      "tickers": [
+        "SH601998"
+      ],
+      "companies": [
+        "阿里巴巴"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Technology",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the growth of domestic computing power and space computing, citing Alibabas strong quarterly performance and potential opportunities in this sector.",
+      "processed_at": "2025-12-07T06:28:31.812714",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "阿里巴巴(BABA)修改于12-05 18:00 · 来自新闻 华泰证券：建议关注国产算力链及太空算力建设相关产业链 来源：滚动播报 华泰证券建议关注国产算力链及太空算力建设相关产业链。该券商表示，观察到国产算力和太空算力迎来新进展：国产算力方面，阿里发布2026财年第二季度财报，阿里云季度营收同比增长34%，超出预期，公司或在此... 网页链接"
+    },
+    {
+      "post_id": "168fcb4eb6ddef76",
+      "post_hash": "6848e36abfe0d36a",
+      "tab": "资讯",
+      "summary": "BABA adjusts its financial reports, sparking debate on white liquor and value investing.",
+      "key_points": [
+        "Alibaba adjusts financial reports, sparking debate on white liquor and value investing.",
+        "Discussion on the impact of white liquor on Kweichow Moutai's profits.",
+        "Value investing strategies and their potential in the Chinese market.",
+        "Comparison of Ping An Bank's performance with other financial institutions.",
+        "Market trends and sector analysis for the consumption and finance sectors."
+      ],
+      "tickers": [
+        "SH601138",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for value investing in the Chinese market, particularly in sectors like consumption and finance.",
+      "processed_at": "2025-12-07T06:28:43.493210",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "阿里巴巴(BABA)修改于12-05 18:00 · 来自新闻"
+    },
+    {
+      "post_id": "ffe174716d544588",
+      "post_hash": "1355249e81751f4c",
+      "tab": "资讯",
+      "summary": "华泰证券建议关注国产算力链及太空算力建设相关产业链",
+      "key_points": [
+        "华泰证券建议关注国产算力链及太空算力建设相关产业链",
+        "阿里发布2026财年第二季度财报，阿里云季度营收同比增长34%"
+      ],
+      "tickers": [
+        "SH601688"
+      ],
+      "companies": [
+        "阿里巴巴"
+      ],
+      "themes": [
+        "技术",
+        "创新"
+      ],
+      "sectors": [
+        "IT",
+        "科技"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the growth of domestic computing power and space computing, citing Alibaba's strong quarterly earnings.",
+      "processed_at": "2025-12-07T06:28:55.673332",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "华泰证券：建议关注国产算力链及太空算力建设相关产业链 来源：滚动播报 华泰证券建议关注国产算力链及太空算力建设相关产业链。该券商表示，观察到国产算力和太空算力迎来新进展：国产算力方面，阿里发布2026财年第二季度财报，阿里云季度营收同比增长34%，超出预期，公司或在此... 网页链接"
+    },
+    {
+      "post_id": "f60e5a01c0197155",
+      "post_hash": "dd43c05cca3dfd3f",
+      "tab": "资讯",
+      "summary": "Five Star Liquor (SZ000858) is cutting prices for the first time in ten years.",
+      "key_points": [
+        "Five Star Liquor is cutting prices for the first time in ten years.",
+        "The new price will be 900 yuan per bottle, with a discount of 119 yuan per bottle."
+      ],
+      "tickers": [
+        "SZ000858",
+        "000858"
+      ],
+      "companies": [
+        "Five Star Liquor"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Five Star Liquor's price cut, which is a rare move in the industry.",
+      "processed_at": "2025-12-07T06:29:07.141473",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "五粮液(SZ000858)修改于昨天21:40 · 来自新闻 五粮液突然降价，十年首次 来源：市场资讯 中国新闻周刊 12月5日，有市场消息称，五粮液将从明年起调整第八代五粮液价格，在1019元/瓶打款价不变的基础上，给予打款折扣119元/瓶，即开票价为900元/瓶。 随后，中国新闻周刊就价格调整一事联系五粮... 网页链接"
+    },
+    {
+      "post_id": "20103b2db82b7a7a",
+      "post_hash": "a4c8549203617de8",
+      "tab": "资讯",
+      "summary": "五粮液(SZ000858)修改于昨天21:40 · 来自新闻",
+      "key_points": [
+        "五粮液(SZ000858)修改于昨天21:40 · 来自新闻"
+      ],
+      "tickers": [
+        "SZ000858",
+        "000858"
+      ],
+      "companies": [
+        "Wuliangye"
+      ],
+      "themes": [
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Wuliangye's recent modification.",
+      "processed_at": "2025-12-07T06:29:19.021325",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "五粮液(SZ000858)修改于昨天21:40 · 来自新闻"
+    },
+    {
+      "post_id": "36be7e827ac39c73",
+      "post_hash": "590b1bc96af2496e",
+      "tab": "资讯",
+      "summary": "五粮液降价，第八代价格调整至900元/瓶",
+      "key_points": [
+        "五粮液价格调整",
+        "第八代五粮液"
+      ],
+      "tickers": [
+        "SH600519"
+      ],
+      "companies": [
+        "Kweichow Moutai"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the price adjustment, which could boost investor confidence in the company.",
+      "processed_at": "2025-12-07T06:29:31.163214",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "五粮液突然降价，十年首次 来源：市场资讯 中国新闻周刊 12月5日，有市场消息称，五粮液将从明年起调整第八代五粮液价格，在1019元/瓶打款价不变的基础上，给予打款折扣119元/瓶，即开票价为900元/瓶。 随后，中国新闻周刊就价格调整一事联系五粮... 网页链接"
+    },
+    {
+      "post_id": "cb553c0f3db00932",
+      "post_hash": "7485189843d4d538",
+      "tab": "资讯",
+      "summary": "上汽集团将进行全固态电池样车测试，投资者询问半固态电池的生产情况和新能源汽车的转型",
+      "key_points": [
+        "上汽集团将进行全固态电池样车测试",
+        "半固态电池产品由上汽清陶工厂生产"
+      ],
+      "tickers": [
+        "SH600104",
+        "600104"
+      ],
+      "companies": [
+        "SAIC Motor"
+      ],
+      "themes": [
+        "Technology",
+        "Energy"
+      ],
+      "sectors": [
+        "Automotive",
+        "Energy"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about SAIC Motor's transition to new energy vehicles and the potential of solid-state batteries.",
+      "processed_at": "2025-12-07T06:29:43.142355",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "上汽集团(SH600104)修改于12-05 17:33 · 来自新闻 上汽集团：明年将进行全固态电池样车测试 同花顺（300033）金融研究中心12月05日讯，有投资者向上汽集团（600104）提问， 董秘，你好！请问半固态电池产品是由上汽清陶工厂生产的吗，产能多大？上汽会全面转型新能源汽车吗？半固态电池可否应用于尚界车型？谢谢 公司回答表示... 网页链接"
+    },
+    {
+      "post_id": "6bf1b54a7630b98d",
+      "post_hash": "8d64c4e0b66adcbb",
+      "tab": "资讯",
+      "summary": "上汽集团(SH600104)发布了新的公告，涉及到汽车生产和销售的数据。",
+      "key_points": [
+        "上汽集团发布了新的公告",
+        "汽车生产和销售数据"
+      ],
+      "tickers": [
+        "SH600104",
+        "600104"
+      ],
+      "companies": [
+        "SAIC Motor"
+      ],
+      "themes": [
+        "汽车",
+        "生产"
+      ],
+      "sectors": [
+        "消费品",
+        "制造"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.5,
+      "sentiment_reasoning": "The author presents the announcement without expressing a clear opinion, maintaining a neutral tone.",
+      "processed_at": "2025-12-07T06:29:54.960336",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "上汽集团(SH600104)修改于12-05 17:33 · 来自新闻"
+    },
+    {
+      "post_id": "2441753f9d321995",
+      "post_hash": "be3fd6bbecefeac9",
+      "tab": "资讯",
+      "summary": "上汽集团将进行全固态电池样车测试，公司表示将全面转型新能源汽车",
+      "key_points": [
+        "上汽集团将进行全固态电池样车测试",
+        "公司表示将全面转型新能源汽车"
+      ],
+      "tickers": [
+        "SH600104"
+      ],
+      "companies": [
+        "上汽集团"
+      ],
+      "themes": [
+        "新能源汽车",
+        "半固态电池"
+      ],
+      "sectors": [
+        "汽车"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author expresses optimism about the company's transition to new energy vehicles and the potential of solid-state batteries.",
+      "processed_at": "2025-12-07T06:30:07.550811",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "上汽集团：明年将进行全固态电池样车测试 同花顺（300033）金融研究中心12月05日讯，有投资者向上汽集团（600104）提问， 董秘，你好！请问半固态电池产品是由上汽清陶工厂生产的吗，产能多大？上汽会全面转型新能源汽车吗？半固态电池可否应用于尚界车型？谢谢 公司回答表示... 网页链接"
+    },
+    {
+      "post_id": "f3e6276b0b84797a",
+      "post_hash": "456d67225196e84b",
+      "tab": "资讯",
+      "summary": "Wang Shi owes Ye Zhuanhua an apology for blocking his entry into Vanke.",
+      "key_points": [
+        "Wang Shi blocked Ye Zhuanhua from entering Vanke, leading to its current state.",
+        "Vanke owes Ye Zhuanhua a thank you for his potential impact."
+      ],
+      "tickers": [
+        "SZ000002",
+        "000002"
+      ],
+      "companies": [
+        "Vanke"
+      ],
+      "themes": [
+        "Value Investing"
+      ],
+      "sectors": [
+        "Real Estate"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.6,
+      "sentiment_reasoning": "The author expresses negative sentiment towards Wang Shi's actions, implying that Vanke's current state is a result of his decisions.",
+      "processed_at": "2025-12-07T06:30:19.046165",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "万科A(SZ000002)修改于昨天12:15 · 来自新闻 姚振华欠王石一声谢谢 来源：华商韬略毕亚军 早上看到一个说法，万科欠姚振华一个道歉。 大意是，当年王石不尊重资本也不守规则，阻击姚振华入主万科，然后把万科弄成了现在这样。如果当年的王石欢迎了姚振华，万科就不会是现在这样，所以万科欠姚... 网页链接"
+    },
+    {
+      "post_id": "053ce86462adcbfa",
+      "post_hash": "881f73735693a8d0",
+      "tab": "资讯",
+      "summary": "万科A(SZ000002)昨天12:15发布了最新的公告。",
+      "key_points": [
+        "万科A(SZ000002)发布了最新的公告。"
+      ],
+      "tickers": [
+        "SZ000002",
+        "000002"
+      ],
+      "companies": [
+        "Vanke A"
+      ],
+      "themes": [
+        "Real Estate"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_reasoning": "The author reports on the announcement without expressing any opinion.",
+      "processed_at": "2025-12-07T06:30:30.812427",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "万科A(SZ000002)修改于昨天12:15 · 来自新闻"
+    },
+    {
+      "post_id": "d874bf94695ae0b5",
+      "post_hash": "dc7bac9ad13e128c",
+      "tab": "资讯",
+      "summary": "Wang Shi owes Ye Zhonghua an apology, as Ye could have saved Vanke from its current state.",
+      "key_points": [
+        "Wang Shi disrespected capital and broke rules, blocking Ye Zhonghua from Vanke’s board.",
+        "Vanke’s current state is a result of Wang Shi’s actions."
+      ],
+      "tickers": [
+        "SZ000002"
+      ],
+      "companies": [
+        "Vanke"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "sentiment_reasoning": "The author criticizes Wang Shi for disrespecting capital and breaking rules, which led to Vanke’s current state.",
+      "processed_at": "2025-12-07T06:30:43.197082",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "姚振华欠王石一声谢谢 来源：华商韬略毕亚军 早上看到一个说法，万科欠姚振华一个道歉。 大意是，当年王石不尊重资本也不守规则，阻击姚振华入主万科，然后把万科弄成了现在这样。如果当年的王石欢迎了姚振华，万科就不会是现在这样，所以万科欠姚... 网页链接"
+    },
+    {
+      "post_id": "6c79517536b06e46",
+      "post_hash": "4884b3fcd954bf26",
+      "tab": "资讯",
+      "summary": "Investors are optimistic about the expansion of Xingfa Group's (SH600141) phosphate production capacity.",
+      "key_points": [
+        "Xingfa Group's phosphate production capacity will increase to nearly 200,000 tons/year.",
+        "The upgrade project is expected to be completed in 2025."
+      ],
+      "tickers": [
+        "SH600141",
+        "600141"
+      ],
+      "companies": [
+        "Xingfa Group"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the expansion of Xingfa Group's phosphate production capacity, which is expected to significantly increase the company's output and potentially boost its financial performance.",
+      "processed_at": "2025-12-07T06:30:55.479713",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "兴发集团(SH600141)修改于12-05 16:42 · 来自新闻 兴发集团：公司黄磷产能将增加2.8万吨/年至接近20万吨/年 同花顺（300033）金融研究中心12月05日讯，有投资者向兴发集团（600141）提问， 据报道，上市公司控股子公司湖北吉星化工集团5.3万吨/年黄磷技术改造项目已于2025年7月顺利投产运行，通过改造升级实现黄磷产能从2.5万吨/年到5.3万吨/... 网页链接"
+    },
+    {
+      "post_id": "fb307ff9c44ea632",
+      "post_hash": "24c3e572ea3bf119",
+      "tab": "资讯",
+      "summary": "兴发集团(SH600141)修改于12-05 16:42 · 来自新闻",
+      "key_points": [
+        "兴发集团(SH600141)修改于12-05 16:42 · 来自新闻"
+      ],
+      "tickers": [
+        "SH600141",
+        "600141"
+      ],
+      "companies": [
+        "兴发集团"
+      ],
+      "themes": [
+        "Value Investing"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the recent news update from Xingfa Group.",
+      "processed_at": "2025-12-07T06:31:06.919976",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "兴发集团(SH600141)修改于12-05 16:42 · 来自新闻"
+    },
+    {
+      "post_id": "747d0cbb9014281b",
+      "post_hash": "1d2b0e5a9fecd220",
+      "tab": "资讯",
+      "summary": "Investor asks about Xingfa Group's (600141) phosphorus production capacity increase.",
+      "key_points": [
+        "Xingfa Group's phosphorus production capacity will increase to nearly 200,000 tons/year.",
+        "The project is expected to be completed in 2025."
+      ],
+      "tickers": [
+        "SH600141"
+      ],
+      "companies": [
+        "Xingfa Group"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Xingfa Group's phosphorus production capacity increase, which is expected to be completed in 2025.",
+      "processed_at": "2025-12-07T06:31:19.435436",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "兴发集团：公司黄磷产能将增加2.8万吨/年至接近20万吨/年 同花顺（300033）金融研究中心12月05日讯，有投资者向兴发集团（600141）提问， 据报道，上市公司控股子公司湖北吉星化工集团5.3万吨/年黄磷技术改造项目已于2025年7月顺利投产运行，通过改造升级实现黄磷产能从2.5万吨/年到5.3万吨/... 网页链接"
+    },
+    {
+      "post_id": "1e5f354fc0daa58c",
+      "post_hash": "06f4d86d8b6e4880",
+      "tab": "资讯",
+      "summary": "Molar Thread (SH688795) stock price skyrocketed 468% on its first day of trading on the Science and Technology Innovation Board.",
+      "key_points": [
+        "Molar Thread (SH688795) stock price skyrocketed 468% on its first day of trading on the Science and Technology Innovation Board.",
+        "The company's market value reached over 300 billion yuan.",
+        "Over 33,600 investors made significant profits.",
+        "More than 50 investors 'pulled their legs' due to the rapid price surge."
+      ],
+      "tickers": [
+        "SH688795",
+        "688795"
+      ],
+      "companies": [
+        "Molar Thread"
+      ],
+      "themes": [
+        "Tech",
+        "New Energy"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author expresses excitement about the rapid price surge and the potential of the company.",
+      "processed_at": "2025-12-07T06:31:31.622190",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "N摩尔-U(SH688795)修改于12-05 12:37 · 来自新闻 秒赚28万！33600名股民狂喜，还有50多人“拍断大腿” 12月5日，被誉为“国产GPU第一股”的摩尔线程(N摩尔-U，688795)正式在科创板挂牌上市。早间，该股股价开盘即涨超468%，最高触及688元/股，公司市值一度超过3000亿元。截至发稿，该股报598.90元/股，涨幅仍有424.06%。 摩尔线程此次发..."
+    },
+    {
+      "post_id": "96d7070679c7b67a",
+      "post_hash": "493c2850e6b4cb04",
+      "tab": "资讯",
+      "summary": "Kweichow Moutai and Ping An Bank are discussed in the context of value investing and white liquor.",
+      "key_points": [
+        "Kweichow Moutai is a strong value investment",
+        "Ping An Bank is a solid financial choice"
+      ],
+      "tickers": [
+        "SH688795",
+        "688795"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for value and financial stability.",
+      "processed_at": "2025-12-07T06:31:43.188229",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "N摩尔-U(SH688795)修改于12-05 12:37 · 来自新闻"
+    },
+    {
+      "post_id": "d80e335effce932f",
+      "post_hash": "d231b12325a3f74a",
+      "tab": "资讯",
+      "summary": "Morrison (688795) stock surges 468% on its first trading day, hitting 688 yuan per share.",
+      "key_points": [
+        "Morrison (688795) stock surges 468% on its first trading day, hitting 688 yuan per share.",
+        "Company valuation exceeds 300 billion yuan.",
+        "50+ investors 'punch their legs' in excitement."
+      ],
+      "tickers": [
+        "SH688795"
+      ],
+      "companies": [
+        "Morrison"
+      ],
+      "themes": [
+        "Tech",
+        "Value Investing"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author expresses excitement and optimism about Morrison's (688795) historic stock surge, calling it the 'first GPU stock' in China.",
+      "processed_at": "2025-12-07T06:31:55.381715",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "秒赚28万！33600名股民狂喜，还有50多人“拍断大腿” 12月5日，被誉为“国产GPU第一股”的摩尔线程(N摩尔-U，688795)正式在科创板挂牌上市。早间，该股股价开盘即涨超468%，最高触及688元/股，公司市值一度超过3000亿元。截至发稿，该股报598.90元/股，涨幅仍有424.06%。 摩尔线程此次发行的价... 网页链接"
+    },
+    {
+      "post_id": "64741b39ae904adb",
+      "post_hash": "103786a3337f8a2c",
+      "tab": "资讯",
+      "summary": "Summary of the post in English",
+      "key_points": [
+        "Summary of key points in English"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001",
+        "000002",
+        "600141",
+        "002625",
+        "300470",
+        "688795",
+        "600104",
+        "688208",
+        "000858",
+        "002594",
+        "601127"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market and the companies mentioned.",
+      "processed_at": "2025-12-07T06:32:06.961026",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+    },
+    {
+      "post_id": "ddd2e795838fc911",
+      "post_hash": "29266f8518118889",
+      "tab": "资讯",
+      "summary": "Chinese stocks are up, with tech and finance leading the charge. Investors are optimistic about the future.",
+      "key_points": [
+        "比亚迪(SZ002594)的王传福表示，比亚迪不会拉踩同行，短期损失市场份额，但能赢得长期口碑和国家认可。",
+        "光启技术(SZ002625)坚持原始创新之路，勇攀中国智造新高峰。",
+        "华泰证券建议关注国产算力链及太空算力建设相关产业链。",
+        "五粮液(SZ000858)将从明年起调整第八代五粮液价格，打款折扣119元/瓶，开票价为900元/瓶。",
+        "上汽集团(SH600104)将进行全固态电池样车测试。",
+        "万科A(SZ000002)欠姚振华一个道歉。",
+        "兴发集团(SH600141)黄磷产能将增加2.8万吨/年至接近20万吨/年。",
+        "N摩尔-U(SH688795)在科创板挂牌上市，股价开盘即涨超468%，最高触及688元/股。",
+        "道通科技(SH688208)斩获美国两大战略客户订单，进一步拓展在美国充电市场的业务布局。",
+        "比亚迪(SZ002594)国内销量下滑，王传福最新回应。",
+        "英伟达(NVDA)CEO黄仁勋称华为是世界最强科技公司之一，值得所有人尊重。",
+        "赛力斯(SH601127)控股股东非公开发行30亿元可交换公司债券完成。",
+        "中密控股(SZ300470)优泰科正建第二条全氟醚橡胶生产线应对市场需求。",
+        "小鹏汽车(XPEV)任正非点赞小鹏机器人，现场展示内部结构。",
+        "特斯拉(TSLA)CEO埃隆·马斯克：商业版'星链'目前是我们营收的最大贡献者。",
+        "比亚迪(SZ002594)王传福称比亚迪坚持不拉踩同行，赢得长期口碑。",
+        "加载更多"
+      ],
+      "tickers": [
+        "SZ002594",
+        "SZ002625",
+        "SZ000858",
+        "SH600104",
+        "SZ000002",
+        "SH600141",
+        "SH688795",
+        "SH688208",
+        "NVDA",
+        "SH601127",
+        "SZ300470",
+        "XPEV",
+        "TSLA",
+        "000002",
+        "600141",
+        "002625",
+        "300470",
+        "688795",
+        "600104",
+        "688208",
+        "000858",
+        "002594",
+        "601127"
+      ],
+      "companies": [
+        "比亚迪",
+        "光启技术",
+        "五粮液",
+        "上汽集团",
+        "万科",
+        "兴发集团",
+        "道通科技",
+        "英伟达",
+        "赛力斯",
+        "中密控股",
+        "小鹏汽车",
+        "特斯拉"
+      ],
+      "themes": [
+        "价值投资",
+        "白酒",
+        "技术",
+        "金融",
+        "消费",
+        "汽车",
+        "能源",
+        "制造",
+        "电子",
+        "通信"
+      ],
+      "sectors": [
+        "技术",
+        "金融",
+        "汽车",
+        "制造",
+        "电子",
+        "通信"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the future of Chinese stocks, particularly in the tech and finance sectors, as investors are enthusiastic about the potential for growth and innovation.",
+      "processed_at": "2025-12-07T06:32:23.331951",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+    },
+    {
+      "post_id": "21c05ef3bbd2ac03",
+      "post_hash": "5a313a0833dca0f8",
+      "tab": "资讯",
+      "summary": "道通科技(SH688208)在美国签下两大战略客户订单，进一步扩大在北美充电市场的份额。",
+      "key_points": [
+        "道通科技签下两大战略客户订单",
+        "进一步拓展在美国充电市场的业务布局"
+      ],
+      "tickers": [
+        "SH688208",
+        "688208"
+      ],
+      "companies": [
+        "道通科技"
+      ],
+      "themes": [
+        "电动汽车",
+        "充电技术"
+      ],
+      "sectors": [
+        "新能源",
+        "技术"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author expresses optimism about the company's growing presence in the US charging market.",
+      "processed_at": "2025-12-07T06:32:31.162752",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "道通科技(SH688208)修改于昨天23:37 · 来自新闻 道通斩获美国两大战略客户订单！北美充电市场份额再提升 近日，道通科技(688208)在美国成功签下两家战略客户订单，进一步拓展在美国充电市场的业务布局。这两家公司分别为全球头部便利零售集团C公司以及美国本土领先充电网络运营商E公司。双方将部署道通科技自主研发的MaxiCharger DH480大功率直流... 网页链接"
+    },
+    {
+      "post_id": "7d90531f4fd492bd",
+      "post_hash": "bc04d301dd12895e",
+      "tab": "资讯",
+      "summary": "道通科技的股价昨天在23:37时发生了重大变化，可能与新闻有关",
+      "key_points": [
+        "道通科技的股价昨天在23:37时发生了重大变化",
+        "可能与新闻有关"
+      ],
+      "tickers": [
+        "SH688208",
+        "688208"
+      ],
+      "companies": [
+        "道通科技"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the recent price change of 道通科技, possibly due to news.",
+      "processed_at": "2025-12-07T06:32:43.085494",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "道通科技(SH688208)修改于昨天23:37 · 来自新闻"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "tab": "7x24",
+    "job_name": "run_20251207_150619",
+    "total_summaries": 7,
+    "new_summaries_this_save": 7,
+    "last_updated": "2025-12-07T06:14:44.947159"
+  },
+  "summaries": [
+    {
+      "post_id": "6dc212bca0ff02b7",
+      "post_hash": "da1b506bb1240c7f",
+      "tab": "7x24",
+      "summary": "Summary of the post in English",
+      "key_points": [
+        "The post discusses various market trends and news, including the performance of the stock market, the introduction of new drugs, and the growth of certain industries.",
+        "The author highlights the importance of innovation and the potential for growth in areas such as AI, biotechnology, and renewable energy."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for growth in various industries and the importance of innovation, which suggests a positive sentiment.",
+      "processed_at": "2025-12-07T06:13:30.709397",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20..."
+    },
+    {
+      "post_id": "0fa2bbf4dde7ffc7",
+      "post_hash": "fb75129ffe318346",
+      "tab": "7x24",
+      "summary": "China's stock market sees gains, with the Shanghai Composite Index up 0.70% and the Shenzhen Component Index up 1.08%. The ChiNext Index also rises 1.36%. Key news includes the Beijing Daxing Airport breaking 50 million passengers, Lenovo, Dell, and HP planning price hikes due to storage costs, and the establishment of the first 'ocean chip' research institute in China.",
+      "key_points": [
+        "Beijing Daxing Airport breaks 50 million passenger milestone",
+        "Lenovo, Dell, and HP plan price hikes due to storage costs",
+        "First 'ocean chip' research institute established in China"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the Chinese economy and the stock market, highlighting the growth of the Beijing Daxing Airport and the establishment of the first 'ocean chip' research institute, which suggests a focus on innovation and technological advancements.",
+      "processed_at": "2025-12-07T06:13:43.546167",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20..."
+    },
+    {
+      "post_id": "414277a28421689f",
+      "post_hash": "614201b8876e4b9b",
+      "tab": "7x24",
+      "summary": "Hot stocks and funds are discussed in the post, with a focus on recent market trends and performance.",
+      "key_points": [
+        "Hot stocks and funds are discussed in the post, with a focus on recent market trends and performance.",
+        "The author highlights various sectors and companies performing well, such as technology and finance.",
+        "The post also mentions specific stock tickers and company names, including N摩尔-U and Kweichow Moutai.",
+        "The investment themes and sectors discussed include technology, finance, and consumption.",
+        "The sentiment of the post is positive, as the author expresses optimism about the market and highlights successful investments.",
+        "The sentiment score is 0.8, indicating a strong positive sentiment.",
+        "The sentiment reasoning is that the author is enthusiastic about the recent market trends and the performance of certain stocks and funds."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the recent market trends and the performance of certain stocks and funds.",
+      "processed_at": "2025-12-07T06:13:55.575325",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "热门话题 1 开盘650元！摩尔线程一签赚超26万 2 牛回来了？牛市旗手全线飙升 3 CPO概念大涨，长光华芯创新高 4 可控核聚变概念活跃，永鼎股份涨停 5 机器人板块走强，超捷股份20cm涨停 6 电解铝板块拉升，云铝股份创新高 7 商业航天延续强势，龙洲股份3连板 8 有色板块走强，洛阳钼业创新高 9 AI手机概念回调，道明光学跌停 10 震荡市，选什么才是更优解？ 热股榜 更多 全..."
+    },
+    {
+      "post_id": "4ef37b659eb68a96",
+      "post_hash": "e9d24ecd712e0307",
+      "tab": "7x24",
+      "summary": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年... (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Technology",
+        "New Energy",
+        "Healthcare",
+        "Finance",
+        "Manufacturing"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8076923076923077,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:14:12.619580",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20..."
+    },
+    {
+      "post_id": "d5be17930f34255c",
+      "post_hash": "796ca07b6f86a685",
+      "tab": "7x24",
+      "summary": "China's economy continues to grow, with various sectors showing positive trends. The stock market is also performing well, with several companies announcing new developments and investments.",
+      "key_points": [
+        "China's economy continues to grow, with various sectors showing positive trends.",
+        "The stock market is also performing well, with several companies announcing new developments and investments.",
+        "Several companies have announced new developments and investments, including the establishment of a new chip research center and the introduction of new medical products.",
+        "The government is also taking steps to support the economy, including the release of new policies and regulations.",
+        "The overall sentiment is positive, with many investors optimistic about the future of the Chinese economy."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the future of the Chinese economy, citing positive trends in various sectors and the government's support for the economy.",
+      "processed_at": "2025-12-07T06:14:19.242108",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20..."
+    },
+    {
+      "post_id": "271c1d900313561d",
+      "post_hash": "bee6c424b400a18e",
+      "tab": "7x24",
+      "summary": "Chinese stocks rally as the market sees positive news on tech, healthcare, and finance.",
+      "key_points": [
+        "China's economy is growing, with the stock market seeing gains in tech, healthcare, and finance.",
+        "Several companies, including Kweichow Moutai and Ping An Bank, are performing well.",
+        "The government is promoting innovation and investment in key sectors.",
+        "The market is optimistic about the future, with many stocks showing strong gains."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market's performance, citing positive news on tech, healthcare, and finance.",
+      "processed_at": "2025-12-07T06:14:31.221880",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20..."
+    },
+    {
+      "post_id": "1452917d871b9441",
+      "post_hash": "7e59812804e77097",
+      "tab": "7x24",
+      "summary": "Chinese stocks and economy news, including new drug approvals, stock market updates, and government policies.",
+      "key_points": [
+        "医保基金为协议期内的谈判药支出超过4600亿元",
+        "恒瑞医药10款新药首次进入医保目录",
+        "两款新流感药物成功进入医保目录",
+        "第八代五粮液开票价降至900元/瓶？公司：出厂价仍为1019元/瓶",
+        "广西“十五五”规划建议：积极发展股权、债券等直接融资 支持上市公司提质",
+        "推进企业上市与并购重组 四川出台三年行动方案",
+        "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+        "苹果CEO库克被曝出现“不明原因手部颤抖”",
+        "苹果芯片主管被曝正考虑离职",
+        "微软据传正与博通讨论定制芯片合作",
+        "中国成功研制首台套110千瓦级热耦合海水直接电解制氢系统装置",
+        "中俄两军举行第3次反导联合演习",
+        "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
+        "福建省在深远海新能源装备领域实现关键技术突破",
+        "北京国安以3-0战胜河南夺足协杯冠军",
+        "巴基斯坦和阿富汗边境再次爆发冲突"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the Chinese economy and stock market, highlighting new drug approvals, stock market updates, and government policies that support economic growth and innovation.",
+      "processed_at": "2025-12-07T06:14:44.947159",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20..."
+    }
+  ]
+}

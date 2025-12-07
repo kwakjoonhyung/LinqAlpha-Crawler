@@ -1,0 +1,1041 @@
+{
+  "metadata": {
+    "tab": "ETF",
+    "job_name": "run_20251207_150619",
+    "total_summaries": 30,
+    "new_summaries_this_save": 30,
+    "last_updated": "2025-12-07T06:50:44.122087"
+  },
+  "summaries": [
+    {
+      "post_id": "5145658ed25a7a17",
+      "post_hash": "fac2276f5c9c0929",
+      "tab": "ETF",
+      "summary": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 孤舟_蓑笠修改于昨天11:34 · 来... (Auto-generated)",
+      "key_points": [],
+      "tickers": [
+        "SH601166",
+        "SZ000858",
+        "512670SH",
+        "SH512690",
+        "512690",
+        "SH512890",
+        "601166",
+        "600519",
+        "000858",
+        "512890",
+        "SH600519"
+      ],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Technology",
+        "Healthcare",
+        "Consumer",
+        "Finance",
+        "Manufacturing"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.7777777777777778,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:45:01.806065",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 孤舟_蓑笠修改于昨天11:34 · 来自Android $贵州茅台(SH600519)$ $五粮液(SZ000858)$ $酒ETF(SH512690)$ 喝过白酒的人，觉得白酒难喝的比例应该超过80%。对普通人来说，这东西是真的难喝。问..."
+    },
+    {
+      "post_id": "9471a40dc71cb6bb",
+      "post_hash": "3640ae01902e115f",
+      "tab": "ETF",
+      "summary": "The post discusses various stock market indices and ETFs, focusing on redemptions and adjustments.",
+      "key_points": [
+        "中证公布了中证红利指数的样本调整方案",
+        "今年的红利指数调样分析计划安排以下几只红利指数",
+        "红利低波指数今年的样本调整情况"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000858",
+        "SH512690",
+        "SH512890",
+        "SH601166",
+        "SH512670",
+        "160630.OF",
+        "SZ513690",
+        "SH601166",
+        "SZ000858",
+        "512670SH",
+        "SH512690",
+        "512690",
+        "SH512890",
+        "601166",
+        "600519",
+        "000858",
+        "512890",
+        "SH600519"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Wuliangye",
+        "White Liquor ETF",
+        "Redemption Low Volatility ETF",
+        "Industrial Bank",
+        "Penghua National Defense Index",
+        "BOCHK",
+        "BOCHK Red Dividend ETF"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the future of redemptions and the potential for redemptions to continue growing.",
+      "processed_at": "2025-12-07T06:45:08.295059",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 孤舟_蓑笠修改于昨天11:34 · 来自Android $贵州茅台(SH600519)$ $五粮液(SZ000858)$ $酒ETF(SH512690)$ 喝过白酒的人，觉得白酒难喝的比例应该超过80%。对普通人来说，这东西是真的难喝。问..."
+    },
+    {
+      "post_id": "73ff15b976c9e105",
+      "post_hash": "a83ee5dc6e923772",
+      "tab": "ETF",
+      "summary": "The author discusses the difficulty of drinking white liquor, comparing it to a necessary evil.",
+      "key_points": [
+        "White liquor is hard to drink",
+        "People drink it out of obligation"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000858",
+        "SH512690",
+        "SZ000858",
+        "SH512690",
+        "512690",
+        "600519",
+        "000858",
+        "SH600519"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Wuliangye",
+        "White Liquor ETF"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": 0.2,
+      "sentiment_reasoning": "The author expresses a negative sentiment about white liquor, calling it difficult to drink and often consumed out of obligation.",
+      "processed_at": "2025-12-07T06:45:19.763292",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "孤舟_蓑笠修改于昨天11:34 · 来自Android $贵州茅台(SH600519)$ $五粮液(SZ000858)$ $酒ETF(SH512690)$ 喝过白酒的人，觉得白酒难喝的比例应该超过80%。对普通人来说，这东西是真的难喝。问问你自己，当你走一圈敬酒的时候，是不是都是咬着牙把酒灌下去的。 我们喝白酒，在绝大部分的场景中不是因为喜欢，而是不得不喝。但凡你有一..."
+    },
+    {
+      "post_id": "697fb270b3b27ff2",
+      "post_hash": "474ec8b01f472f6f",
+      "tab": "ETF",
+      "summary": "Author discusses value investing and white liquor stocks, focusing on Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Author emphasizes the importance of value investing in the Chinese market.",
+        "Kweichow Moutai and Ping An Bank are highlighted as strong investment options."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential of Kweichow Moutai and Ping An Bank, citing their strong financials and market presence.",
+      "processed_at": "2025-12-07T06:45:31.913078",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "孤舟_蓑笠修改于昨天11:34 · 来自Android"
+    },
+    {
+      "post_id": "667fb60ca0f33127",
+      "post_hash": "41e278a9a594e37a",
+      "tab": "ETF",
+      "summary": "The author discusses the challenges of drinking white liquor, comparing it to other beverages.",
+      "key_points": [
+        "White liquor is difficult to drink for most people.",
+        "Many people drink white liquor out of obligation rather than preference.",
+        "The author suggests that white liquor is not as enjoyable as other beverages.",
+        "The author compares white liquor to other beverages, highlighting its unique characteristics.",
+        "The author concludes by emphasizing the challenges of drinking white liquor."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000858",
+        "SH512690",
+        "SZ000858",
+        "SH512690",
+        "512690",
+        "600519",
+        "000858",
+        "SH600519"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Wuliangye",
+        "White Liquor ETF"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "sentiment_reasoning": "The author expresses a negative sentiment towards white liquor, highlighting its difficulty to drink and the obligation to consume it.",
+      "processed_at": "2025-12-07T06:45:44.193232",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "$贵州茅台(SH600519)$ $五粮液(SZ000858)$ $酒ETF(SH512690)$ 喝过白酒的人，觉得白酒难喝的比例应该超过80%。对普通人来说，这东西是真的难喝。问问你自己，当你走一圈敬酒的时候，是不是都是咬着牙把酒灌下去的。 我们喝白酒，在绝大部分的场景中不是因为喜欢，而是不得不喝。但凡你有一..."
+    },
+    {
+      "post_id": "8f3d53f9431a6743",
+      "post_hash": "547dbe9f466aa317",
+      "tab": "ETF",
+      "summary": "中证公布了中证红利指数的样本调整方案，仅调整20只样本，国证系列指数暂时还没公布样本调整方案。",
+      "key_points": [
+        "中证红利指数样本调整方案公布",
+        "国证系列指数暂时未公布样本调整方案"
+      ],
+      "tickers": [
+        "SH000016",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the upcoming sample adjustments for the red dividend indices, which will include the Kweichow Moutai and Ping An Bank stocks.",
+      "processed_at": "2025-12-07T06:45:56.076651",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "躺红利摊转债修改于11-28 20:34 · 来自Android 今天收盘后中证公布了中证红利指数的样本调整方案，还是只调整20只样本，国证系列指数暂时还没公布样本调整方案。 今年的红利指数调样分析计划安排以下几只红利指数： 中证红利 红利低波 A500红利低波 红利价值 中证红利质量 800自由现金流 港股通高股息 港股..."
+    },
+    {
+      "post_id": "5626ff2651a33017",
+      "post_hash": "a53bdbc702ef2722",
+      "tab": "ETF",
+      "summary": "Author discusses value investing and white liquor, mentioning Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Author discusses value investing and white liquor.",
+        "Mentions Kweichow Moutai and Ping An Bank."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term potential of Kweichow Moutai and Ping An Bank, highlighting their strong fundamentals and growth prospects.",
+      "processed_at": "2025-12-07T06:46:07.825446",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "躺红利摊转债修改于11-28 20:34 · 来自Android"
+    },
+    {
+      "post_id": "9b437b38808c7ba8",
+      "post_hash": "01c935ad1cc32d6c",
+      "tab": "ETF",
+      "summary": "中证公布了中证红利指数的样本调整方案，调整20只样本，国证系列指数暂时还没公布样本调整方案。",
+      "key_points": [
+        "中证公布了中证红利指数的样本调整方案，调整20只样本，国证系列指数暂时还没公布样本调整方案。"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the upcoming sample adjustments for the CSI Red Chip Index and the Hong Kong Stock Connect High Dividend Index.",
+      "processed_at": "2025-12-07T06:46:20.034066",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "今天收盘后中证公布了中证红利指数的样本调整方案，还是只调整20只样本，国证系列指数暂时还没公布样本调整方案。 今年的红利指数调样分析计划安排以下几只红利指数： 中证红利 红利低波 A500红利低波 红利价值 中证红利质量 800自由现金流 港股通高股息 港股..."
+    },
+    {
+      "post_id": "64b04fe595e4a521",
+      "post_hash": "6b69089fceb5b914",
+      "tab": "ETF",
+      "summary": "Today's post continues the learning notes on red-dip ETFs, focusing on the recent changes to the H30269 index.",
+      "key_points": [
+        "Today's post continues the learning notes on red-dip ETFs, focusing on the recent changes to the H30269 index.",
+        "The author discusses the removal of Industrial Bank from the index and its impact on the ETF's performance."
+      ],
+      "tickers": [
+        "SH512890",
+        "SH601166",
+        "512890",
+        "SH601166",
+        "601166",
+        "SH512890"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Industrial Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for red-dip ETFs to outperform traditional dividend-focused strategies.",
+      "processed_at": "2025-12-07T06:46:32.018953",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "xlmmmm修改于昨天11:55 · 来自雪球 【2025.12.06-红利低波ETF学习笔记(7)】 $红利低波ETF(SH512890)$ $兴业银行(SH601166)$ 【1. 前言】今天这篇帖子继续分享红利低波ETF的学习笔记。上周中证公司发布了红利低波指数H30269的调仓名单，我写了第(6)篇学习笔记网页链接，当时发现兴业银行被调出指数，从而导致6000万股的被动卖盘，搞得心..."
+    },
+    {
+      "post_id": "4962d2e4594b1602",
+      "post_hash": "f59393e315113f57",
+      "tab": "ETF",
+      "summary": "Author discusses the value of Kweichow Moutai and Ping An Bank, emphasizing their potential for long-term growth.",
+      "key_points": [
+        "Kweichow Moutai is a strong value stock with a long history of growth.",
+        "Ping An Bank has a solid financial foundation and is poised for expansion."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term potential of these stocks, highlighting their historical performance and future prospects.",
+      "processed_at": "2025-12-07T06:46:43.936578",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "xlmmmm修改于昨天11:55 · 来自雪球"
+    },
+    {
+      "post_id": "8e1bce49d3b62cc4",
+      "post_hash": "8775188aa994197f",
+      "tab": "ETF",
+      "summary": "Author continues their ETF learning notes, focusing on the removal of ICBC from the low-volatility dividend index.",
+      "key_points": [
+        "Author discusses the removal of ICBC from the low-volatility dividend index.",
+        "ICBC's removal led to a significant sell-off of its shares."
+      ],
+      "tickers": [
+        "SH601166",
+        "SH512890",
+        "512890",
+        "SH601166",
+        "601166",
+        "SH512890"
+      ],
+      "companies": [
+        "ICBC",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "Dividend Investing"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "sentiment_reasoning": "The author expresses disappointment and frustration with the removal of ICBC from the low-volatility dividend index, leading to a significant sell-off of its shares.",
+      "processed_at": "2025-12-07T06:46:55.980121",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "【2025.12.06-红利低波ETF学习笔记(7)】 $红利低波ETF(SH512890)$ $兴业银行(SH601166)$ 【1. 前言】今天这篇帖子继续分享红利低波ETF的学习笔记。上周中证公司发布了红利低波指数H30269的调仓名单，我写了第(6)篇学习笔记网页链接，当时发现兴业银行被调出指数，从而导致6000万股的被动卖盘，搞得心..."
+    },
+    {
+      "post_id": "14ef154bb1eec04e",
+      "post_hash": "3c37f33eedd2d5b2",
+      "tab": "ETF",
+      "summary": "The post discusses the upcoming sample adjustment for the Red Profit Low Volatility Index, focusing on the stability of dividend income.",
+      "key_points": [
+        "The Red Profit Low Volatility Index will undergo a sample adjustment on December 12, 2024.",
+        "The adjustment aims to enhance the index's stability and performance."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the upcoming sample adjustment, which is expected to improve the index's stability and performance.",
+      "processed_at": "2025-12-07T06:47:07.959936",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "躺红利摊转债修改于12-04 10:00 · 来自Android 寻求分红的稳定性——红利低波指数2025年年度调样数据整理分析 上周五（11月28日），中证指数公司公布了A股系列指数的样本定期调整方案，本次调整方案将于12月12日收市后正式生效。样本调整是指数的长期生命力来源，尤其是对以红利因子为核心的红利类指数而言，下面就跟随躺师傅的视角来看看A股最热门的低波类红利指数——红利低波指数今..."
+    },
+    {
+      "post_id": "0474f007fed1d201",
+      "post_hash": "ac5ab8c4d445897d",
+      "tab": "ETF",
+      "summary": "The author discusses the benefits of converting bonds into stocks, specifically focusing on Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Kweichow Moutai is a solid choice for value investing.",
+        "Ping An Bank offers a stable and profitable investment opportunity."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential returns from these investments, citing their historical performance and market trends.",
+      "processed_at": "2025-12-07T06:47:20.043776",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "躺红利摊转债修改于12-04 10:00 · 来自Android"
+    },
+    {
+      "post_id": "09d86b8a20911e0d",
+      "post_hash": "b40e6e7f4cb078e6",
+      "tab": "ETF",
+      "summary": "A brief summary of the post in English",
+      "key_points": [
+        "The post discusses the sample adjustment of the A-share low-volatility dividend index",
+        "The adjustment will take effect on December 12"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the sample adjustment of the A-share low-volatility dividend index, which will enhance the stability and performance of the index.",
+      "processed_at": "2025-12-07T06:47:32.021483",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "寻求分红的稳定性——红利低波指数2025年年度调样数据整理分析 上周五（11月28日），中证指数公司公布了A股系列指数的样本定期调整方案，本次调整方案将于12月12日收市后正式生效。样本调整是指数的长期生命力来源，尤其是对以红利因子为核心的红利类指数而言，下面就跟随躺师傅的视角来看看A股最热门的低波类红利指数——红利低波指数今年的样本调整情况吧~..."
+    },
+    {
+      "post_id": "25273df285bffe73",
+      "post_hash": "130cd07c4298c87a",
+      "tab": "ETF",
+      "summary": "中证红利指数2025年年度调样数据整理分析",
+      "key_points": [
+        "中证指数公司公布了A股系列指数的样本定期调整方案",
+        "样本调整将于12月12日收市后正式生效"
+      ],
+      "tickers": [
+        "SH000016"
+      ],
+      "companies": [
+        "中证指数"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the upcoming sample adjustment of the CSI 300 Index, which will take place on December 12, 2024.",
+      "processed_at": "2025-12-07T06:47:43.901340",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "躺红利摊转债修改于12-02 10:21 · 来自Android 稳中有进——中证红利指数2025年年度调样数据整理分析 上周五（11月28日），中证指数公司公布了A股系列指数的样本定期调整方案，本次调整方案将于12月12日收市后正式生效。样本调整是指数的长期生命力来源，尤其是对以红利因子为核心的红利类指数而言，下面就跟随躺师傅的视角来看看A股红利的基准指数——中证红利今年的样本调整情况吧~..."
+    },
+    {
+      "post_id": "e444598dbc092fe6",
+      "post_hash": "a02808127c40a9cf",
+      "tab": "ETF",
+      "summary": "The author discusses value investing and the benefits of converting bonds into shares.",
+      "key_points": [
+        "Value investing is a viable strategy.",
+        "Converting bonds into shares can be profitable."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for value investing and converting bonds into shares, citing the success of Kweichow Moutai and Ping An Bank.",
+      "processed_at": "2025-12-07T06:47:55.865149",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "躺红利摊转债修改于12-02 10:21 · 来自Android"
+    },
+    {
+      "post_id": "365253bcf03a5866",
+      "post_hash": "18a3edfdb6802f46",
+      "tab": "ETF",
+      "summary": "中证红利指数2025年年度调样数据整理分析",
+      "key_points": [
+        "中证指数公司公布了A股系列指数的样本定期调整方案",
+        "样本调整将于12月12日收市后正式生效"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the upcoming sample adjustments for the CSI Red Chip Index, which will enhance the index's long-term vitality and stability.",
+      "processed_at": "2025-12-07T06:48:07.950771",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "稳中有进——中证红利指数2025年年度调样数据整理分析 上周五（11月28日），中证指数公司公布了A股系列指数的样本定期调整方案，本次调整方案将于12月12日收市后正式生效。样本调整是指数的长期生命力来源，尤其是对以红利因子为核心的红利类指数而言，下面就跟随躺师傅的视角来看看A股红利的基准指数——中证红利今年的样本调整情况吧~ 特别说明..."
+    },
+    {
+      "post_id": "c91ca4c9d0fc8a5d",
+      "post_hash": "2233c82839036658",
+      "tab": "ETF",
+      "summary": "国防ETF一分钟资讯20251205",
+      "key_points": [
+        "国防ETF面向2027建军百年奋斗目标",
+        "净值日期：2025/12/04"
+      ],
+      "tickers": [
+        "SH512670",
+        "512670SH"
+      ],
+      "companies": [
+        "国防ETF"
+      ],
+      "themes": [
+        "Value Investing"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the ETF's performance and its alignment with the 2027 military centennial goal.",
+      "processed_at": "2025-12-07T06:48:19.844279",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "国防ETF修改于12-05 10:36 · 来自雪球 【国防ETF】一分钟资讯20251205 #一分钟资讯# 国防ETF，面向2027建军百年奋斗目标 净值日期：2025/12/04 【净值】国防ETF(512670.SH)单位净值0.7758，日涨跌幅0.73%。 【收盘价】国防ETF(512670.SH)收盘价0.775，日涨跌幅0.52%，溢价率-0.1%，成交额1.51亿。 【净值..."
+    },
+    {
+      "post_id": "fa3f720d59b60c26",
+      "post_hash": "0746656a7df17f89",
+      "tab": "ETF",
+      "summary": "国防ETF修改于12-05 10:36 · 来自雪球",
+      "key_points": [
+        "国防ETF修改于12-05 10:36 · 来自雪球"
+      ],
+      "tickers": [
+        "SH510300"
+      ],
+      "companies": [
+        "国防ETF"
+      ],
+      "themes": [
+        "ETF"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_reasoning": "The author discusses ETF modifications without expressing a clear opinion.",
+      "processed_at": "2025-12-07T06:48:32.235190",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "国防ETF修改于12-05 10:36 · 来自雪球"
+    },
+    {
+      "post_id": "72536576b12c6bdd",
+      "post_hash": "7b32fa4cfaa2f315",
+      "tab": "ETF",
+      "summary": "国防ETF净值日期2025/12/04，单位净值0.7758，日涨跌幅0.73%。",
+      "key_points": [
+        "国防ETF面向2027建军百年奋斗目标",
+        "鹏华中证国防指数单位净值0.9"
+      ],
+      "tickers": [
+        "SH512670",
+        "512670SH"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the ETF's performance and its alignment with the 2027 military centennial goals.",
+      "processed_at": "2025-12-07T06:48:43.976999",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "【国防ETF】一分钟资讯20251205 #一分钟资讯# 国防ETF，面向2027建军百年奋斗目标 净值日期：2025/12/04 【净值】国防ETF(512670.SH)单位净值0.7758，日涨跌幅0.73%。 【收盘价】国防ETF(512670.SH)收盘价0.775，日涨跌幅0.52%，溢价率-0.1%，成交额1.51亿。 【净值】鹏华中证国防指数(160630.OF)单位净值0.9..."
+    },
+    {
+      "post_id": "982d1491d431c1f1",
+      "post_hash": "d6e263c2247abdd0",
+      "tab": "ETF",
+      "summary": "国防ETF净值2025/12/02，单位净值0.7782，日涨跌幅-0.57%。",
+      "key_points": [
+        "国防ETF(512670.SH)单位净值0.7782，日涨跌幅-0.57%。",
+        "国防ETF(512670.SH)收盘价0.778，日涨跌幅-0.64%，溢价率-0.03%，成交额1.76亿。"
+      ],
+      "tickers": [
+        "SH512670",
+        "512670SH"
+      ],
+      "companies": [
+        "国防ETF"
+      ],
+      "themes": [
+        "Value Investing"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_reasoning": "The author presents factual information about the net value and closing price of the Defense ETF, without expressing any opinion or emotion.",
+      "processed_at": "2025-12-07T06:48:56.195722",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "国防ETF修改于12-03 09:55 · 来自雪球 【国防ETF】一分钟资讯20251203 #一分钟资讯# 国防ETF，面向2027建军百年奋斗目标 净值日期：2025/12/02 【净值】国防ETF(512670.SH)单位净值0.7782，日涨跌幅-0.57%。 【收盘价】国防ETF(512670.SH)收盘价0.778，日涨跌幅-0.64%，溢价率-0.03%，成交额1.76亿。 ..."
+    },
+    {
+      "post_id": "19a33d46c60300a8",
+      "post_hash": "5ee14aa14e0598a4",
+      "tab": "ETF",
+      "summary": "国防ETF修改于12-03 09:55 · 来自雪球",
+      "key_points": [
+        "国防ETF修改",
+        "12-03 09:55"
+      ],
+      "tickers": [
+        "SH510300"
+      ],
+      "companies": [
+        "国防ETF"
+      ],
+      "themes": [
+        "ETF",
+        "国防"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_reasoning": "The author discusses the modification of the defense ETF without expressing any strong emotions or opinions.",
+      "processed_at": "2025-12-07T06:49:07.667071",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "国防ETF修改于12-03 09:55 · 来自雪球"
+    },
+    {
+      "post_id": "49555f65d8f6df4d",
+      "post_hash": "35b21aea739e89dc",
+      "tab": "ETF",
+      "summary": "国防ETF净值0.7782，日跌-0.57%，收盘价0.778，溢价率-0.03%，成交额1.76亿。",
+      "key_points": [
+        "国防ETF单位净值0.7782，日跌-0.57%",
+        "收盘价0.778，溢价率-0.03%，成交额1.76亿"
+      ],
+      "tickers": [
+        "SH512670",
+        "512670SH"
+      ],
+      "companies": [
+        "国防ETF"
+      ],
+      "themes": [
+        "Value Investing"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_reasoning": "The author presents neutral information about the ETF's performance without expressing any opinion.",
+      "processed_at": "2025-12-07T06:49:19.964305",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "【国防ETF】一分钟资讯20251203 #一分钟资讯# 国防ETF，面向2027建军百年奋斗目标 净值日期：2025/12/02 【净值】国防ETF(512670.SH)单位净值0.7782，日涨跌幅-0.57%。 【收盘价】国防ETF(512670.SH)收盘价0.778，日涨跌幅-0.64%，溢价率-0.03%，成交额1.76亿。 【净值】鹏华中证国防指数(160630.OF)单位净值..."
+    },
+    {
+      "post_id": "fa26eba7c0d6b16c",
+      "post_hash": "035eb468ad2b33db",
+      "tab": "ETF",
+      "summary": "Author compares the performance of Hong Kong's tech index and a dividend ETF, highlighting the ETF's outperformance and lower volatility.",
+      "key_points": [
+        "Author compares the performance of Hong Kong's tech index and a dividend ETF.",
+        "The ETF outperformed the tech index with a 32.96% gain, while the tech index gained 29.98%.",
+        "The ETF has lower volatility compared to the tech index.",
+        "Author concludes that the ETF is a better investment option due to its consistent performance and lower risk."
+      ],
+      "tickers": [
+        "HK:513690"
+      ],
+      "companies": [
+        "BOCHK"
+      ],
+      "themes": [
+        "Dividend Investing",
+        "Value Investing"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author is optimistic about the ETF's performance and concludes that it is a better investment option due to its consistent gains and lower volatility.",
+      "processed_at": "2025-12-07T06:49:32.342536",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "望京博格修改于12-03 10:47 · 来自雪球 红利资产未来依旧稀缺，尤其股息率5.6%的港股红利 从年初到现在，港股走势算是很不错了。 博格特意把恒生科技指数和港股红利ETF博时（513690）与做了一下对比。 数据来自wind，截至2025/11/30 近一年，恒生科技涨幅为29.98%，513690涨幅为32.96%。 513690不仅跑赢恒生科技，波动率还小很多。 博格终于懂了，..."
+    },
+    {
+      "post_id": "e41d291f0e7f9ae0",
+      "post_hash": "4072c8c736927030",
+      "tab": "ETF",
+      "summary": "Author discusses value investing and white liquor stocks, focusing on Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Author emphasizes the importance of value investing in the current market.",
+        "Kweichow Moutai and Ping An Bank are highlighted as strong value plays."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term potential of these stocks, citing their strong fundamentals and historical performance.",
+      "processed_at": "2025-12-07T06:49:44.018199",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "望京博格修改于12-03 10:47 · 来自雪球"
+    },
+    {
+      "post_id": "025991879704f607",
+      "post_hash": "254a22bafe4f678b",
+      "tab": "ETF",
+      "summary": "The author discusses the scarcity of dividend assets, particularly the 5.6% dividend yield of Hong Kong stocks, and compares the performance of the Hang Seng Tech Index and the HSBC FTSE Hong Kong Dividend ETF.",
+      "key_points": [
+        "The author highlights the scarcity of dividend assets, particularly the 5.6% dividend yield of Hong Kong stocks.",
+        "The author compares the performance of the Hang Seng Tech Index and the HSBC FTSE Hong Kong Dividend ETF."
+      ],
+      "tickers": [
+        "HK513690"
+      ],
+      "companies": [
+        "HSBC"
+      ],
+      "themes": [
+        "Value Investing",
+        "Dividend Investing"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the performance of the HSBC FTSE Hong Kong Dividend ETF, highlighting its outperformance compared to the Hang Seng Tech Index and its lower volatility.",
+      "processed_at": "2025-12-07T06:49:56.304067",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "红利资产未来依旧稀缺，尤其股息率5.6%的港股红利 从年初到现在，港股走势算是很不错了。 博格特意把恒生科技指数和港股红利ETF博时（513690）与做了一下对比。 数据来自wind，截至2025/11/30 近一年，恒生科技涨幅为29.98%，513690涨幅为32.96%。 513690不仅跑赢恒生科技，波动率还小很多。 博格终于懂了，人家机构投资者（尤..."
+    },
+    {
+      "post_id": "61c24edea2ff246f",
+      "post_hash": "647878f21cea629f",
+      "tab": "ETF",
+      "summary": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 孤舟_蓑笠修改于昨天11:34 · 来... (Auto-generated)",
+      "key_points": [],
+      "tickers": [
+        "SH601166",
+        "SZ000858",
+        "512670SH",
+        "SH512690",
+        "512690",
+        "SH512890",
+        "601166",
+        "600519",
+        "SZ159206",
+        "159206",
+        "000858",
+        "512890",
+        "SH600519"
+      ],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Technology",
+        "Healthcare",
+        "Consumer",
+        "Finance",
+        "Manufacturing"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:50:13.818613",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 孤舟_蓑笠修改于昨天11:34 · 来自Android $贵州茅台(SH600519)$ $五粮液(SZ000858)$ $酒ETF(SH512690)$ 喝过白酒的人，觉得白酒难喝的比例应该超过80%。对普通人来说，这东西是真的难喝。问..."
+    },
+    {
+      "post_id": "b8977eb6d7bab349",
+      "post_hash": "1d5b2c7ded149a20",
+      "tab": "ETF",
+      "summary": "Investors discuss market trends, ETFs, and sector performance in China.",
+      "key_points": [
+        "Market indices show positive growth, with the Shanghai Composite Index up 0.70% and the Shenzhen Component Index up 1.08%.",
+        "Several ETFs, including the Red Bull ETF and the Satellite ETF, are experiencing significant gains.",
+        "Market participants are optimistic about the prospects of the technology and finance sectors.",
+        "Concerns about inflation and interest rates are also being discussed.",
+        "Individual investors are sharing their experiences and insights on the market.",
+        "Several companies, including Kweichow Moutai and Ping An Bank, are being mentioned in the discussions.",
+        "Market sentiment is generally positive, with many investors expecting further growth in the coming months."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000858",
+        "SH512690",
+        "SZ159206",
+        "SH601166",
+        "SZ000858",
+        "512670SH",
+        "SH512690",
+        "512690",
+        "SH512890",
+        "601166",
+        "600519",
+        "SZ159206",
+        "159206",
+        "000858",
+        "512890",
+        "SH600519"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market's potential for growth and the performance of certain ETFs and sectors.",
+      "processed_at": "2025-12-07T06:50:20.732770",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 孤舟_蓑笠修改于昨天11:34 · 来自Android $贵州茅台(SH600519)$ $五粮液(SZ000858)$ $酒ETF(SH512690)$ 喝过白酒的人，觉得白酒难喝的比例应该超过80%。对普通人来说，这东西是真的难喝。问..."
+    },
+    {
+      "post_id": "bc696e146dba4da3",
+      "post_hash": "51a457374bc5e112",
+      "tab": "ETF",
+      "summary": "The author shares a personal health crisis involving kidney stones, but ends on a positive note.",
+      "key_points": [
+        "The author had a kidney stone attack while planning a trip to Nanjing.",
+        "They visited the First People's Hospital in Nanjing for treatment."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author concludes with a positive note, expressing gratitude for the support and care received.",
+      "processed_at": "2025-12-07T06:50:31.716744",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "贫民窟的大富翁修改于12-01 19:38 · 来自雪球 我遭受人生重大打击 今天请大家先吃我一个瓜吧。 我是周六晚上到南京，准备周天早上去栖霞山赏枫，结果周天早上四点十分忽然就被疼醒了，肾结石发作。 得过肾结石的朋友都知道那种疼吧，浑身冒汗，腰都直不起来，我坚持到了七点半实在扛不住，打车去南京第一人民医院急诊，做CT，输液，但是完全没效果。 ..."
+    },
+    {
+      "post_id": "4f29edc2048d40f6",
+      "post_hash": "784a2eacd5c2f614",
+      "tab": "ETF",
+      "summary": "贫民窟的大富翁在12-01 19:38发布了一个帖子，来自雪球。",
+      "key_points": [
+        "贫民窟的大富翁认为贵州茅台和平安银行是值得关注的股票。"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth and stability.",
+      "processed_at": "2025-12-07T06:50:44.122087",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "贫民窟的大富翁修改于12-01 19:38 · 来自雪球"
+    }
+  ]
+}

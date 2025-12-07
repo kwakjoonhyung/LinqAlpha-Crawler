@@ -1,0 +1,980 @@
+{
+  "metadata": {
+    "tab": "基金",
+    "job_name": "run_20251207_150619",
+    "total_summaries": 30,
+    "new_summaries_this_save": 30,
+    "last_updated": "2025-12-07T06:26:43.080209"
+  },
+  "summaries": [
+    {
+      "post_id": "9fb96022df17925c",
+      "post_hash": "4e45799e80356583",
+      "tab": "基金",
+      "summary": "Chinese investors are optimistic about the stock market, particularly in the technology and finance sectors, with a focus on value investing and the potential for long-term gains.",
+      "key_points": [
+        "Chinese investors are optimistic about the stock market, particularly in the technology and finance sectors.",
+        "Value investing is a key theme, with a focus on long-term gains and stable returns.",
+        "The commercial aerospace industry is expected to see significant growth, with several companies being targeted by investors.",
+        "Fund managers are required to invest a portion of their performance-based compensation in the funds they manage, promoting alignment with shareholder interests.",
+        "Several stocks in the technology and materials sectors have seen significant gains, driven by the growing demand for electric vehicles and renewable energy.",
+        "The commercial aerospace industry is expected to see significant growth, with several companies being targeted by investors.",
+        "Fund managers are required to invest a portion of their performance-based compensation in the funds they manage, promoting alignment with shareholder interests.",
+        "Several stocks in the technology and materials sectors have seen significant gains, driven by the growing demand for electric vehicles and renewable energy."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the stock market, particularly in the technology and finance sectors, with a focus on value investing and the potential for long-term gains.",
+      "processed_at": "2025-12-07T06:20:56.240219",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 紧跟主线随大流修改于昨天15:26 · 来自雪球 目前持仓： 紫金矿业持有30%，这个涨的慢，但是最稳健，慢就慢一点吧。 中国有色矿业/五矿资源/洛阳钼业，各持有10% 计划博源化工持有10%，熬死同行，胜者为王 计划中概互联网etf持有..."
+    },
+    {
+      "post_id": "25d1ca4fc877b50e",
+      "post_hash": "d3fb2e3ab83fd5ac",
+      "tab": "基金",
+      "summary": "The author discusses various investment themes and sectors in the Chinese market, including value investing, white liquor, and commercial aviation.",
+      "key_points": [
+        "紫金矿业持有30%，这个涨的慢，但是最稳健",
+        "中国有色矿业/五矿资源/洛阳钼业各持有10%",
+        "计划博源化工持有10%，熬死同行，胜者为王",
+        "计划中概互联网etf持有10%，人工智能是未来",
+        "中国中冶15%，兴业银锡5%，未来有无限可能",
+        "下周展望：大金融、商业航天（主线）",
+        "基金经理绩效薪酬与基金业绩强挂钩",
+        "基金经理40%以上的绩效工资要拿来买自己管的基金"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the Chinese market, particularly in the sectors of value investing and commercial aviation, with a focus on long-term potential and strategic investments.",
+      "processed_at": "2025-12-07T06:21:08.113687",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 紧跟主线随大流修改于昨天15:26 · 来自雪球 目前持仓： 紫金矿业持有30%，这个涨的慢，但是最稳健，慢就慢一点吧。 中国有色矿业/五矿资源/洛阳钼业，各持有10% 计划博源化工持有10%，熬死同行，胜者为王 计划中概互联网etf持有..."
+    },
+    {
+      "post_id": "73cdb7155cd14864",
+      "post_hash": "c4b00eb98642d4e5",
+      "tab": "基金",
+      "summary": "Author holds 30% in Yunnan Copper, 10% in China Molybdenum, and 10% in Luyang Molybdenum, with plans to add 10% in Baoyuan Chemical and 10% in China Internet ETF.",
+      "key_points": [
+        "Author holds 30% in Yunnan Copper, 10% in China Molybdenum, and 10% in Luyang Molybdenum.",
+        "Author plans to add 10% in Baoyuan Chemical and 10% in China Internet ETF."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Yunnan Copper",
+        "China Molybdenum",
+        "Luyang Molybdenum",
+        "Baoyuan Chemical"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the future of the mining sector and the potential for growth in China Internet ETF.",
+      "processed_at": "2025-12-07T06:21:19.380720",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "紧跟主线随大流修改于昨天15:26 · 来自雪球 目前持仓： 紫金矿业持有30%，这个涨的慢，但是最稳健，慢就慢一点吧。 中国有色矿业/五矿资源/洛阳钼业，各持有10% 计划博源化工持有10%，熬死同行，胜者为王 计划中概互联网etf持有10%，人工智能是未来 中国中冶15%，兴业银锡5%，未来有无限可能 中国中冶是今年第三次买..."
+    },
+    {
+      "post_id": "92978144488390c4",
+      "post_hash": "6595f6956795e041",
+      "tab": "基金",
+      "summary": "Author discusses Kweichow Moutai and Ping An Bank, focusing on value investing and the white liquor market.",
+      "key_points": [
+        "Kweichow Moutai is a solid value play",
+        "Ping An Bank is a stable financial option"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's potential for long-term growth and Ping An Bank's stability in the financial sector.",
+      "processed_at": "2025-12-07T06:21:30.953461",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "紧跟主线随大流修改于昨天15:26 · 来自雪球"
+    },
+    {
+      "post_id": "fcaaea0b08f950ec",
+      "post_hash": "7e262abcc926934d",
+      "tab": "基金",
+      "summary": "The author discusses their portfolio, focusing on stable and promising stocks.",
+      "key_points": [
+        "They hold 30% in Zijin Mining, which is stable but slow.",
+        "They plan to hold 10% in Baoyuan Chemical, 10% in China Internet ETF, 15% in China Metallurgical Group, and 5% in Industrial Bank of China.",
+        "They emphasize the potential of artificial intelligence and the future possibilities of these investments."
+      ],
+      "tickers": [
+        "SH601899",
+        "SZ000001",
+        "SZ000001",
+        "SZ000001",
+        "SH601598",
+        "SH601398"
+      ],
+      "companies": [
+        "Zijin Mining",
+        "China Minmetals",
+        "China Molybdenum",
+        "Baoyuan Chemical",
+        "China Internet ETF",
+        "China Metallurgical Group",
+        "Industrial Bank of China"
+      ],
+      "themes": [
+        "Value Investing",
+        "Technology"
+      ],
+      "sectors": [
+        "Mining",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term potential of these investments, particularly in artificial intelligence and the future possibilities of the companies involved.",
+      "processed_at": "2025-12-07T06:21:43.431980",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "目前持仓： 紫金矿业持有30%，这个涨的慢，但是最稳健，慢就慢一点吧。 中国有色矿业/五矿资源/洛阳钼业，各持有10% 计划博源化工持有10%，熬死同行，胜者为王 计划中概互联网etf持有10%，人工智能是未来 中国中冶15%，兴业银锡5%，未来有无限可能 中国中冶是今年第三次买..."
+    },
+    {
+      "post_id": "d2e81e856af3615e",
+      "post_hash": "ad98452ad42cd259",
+      "tab": "基金",
+      "summary": "The author discusses the upcoming week's market trends, focusing on the finance and space sectors.",
+      "key_points": [
+        "The finance sector is expected to perform well due to favorable news and increased liquidity.",
+        "The space sector, particularly commercial aerospace, is highlighted as a key area of focus."
+      ],
+      "tickers": [
+        "SH601166",
+        "SZ000001"
+      ],
+      "companies": [
+        "Ping An Bank",
+        "China Eastern Airlines"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Finance",
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the finance sector's potential, citing favorable news and increased liquidity.",
+      "processed_at": "2025-12-07T06:21:54.913038",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "股界散修修改于5小时前 · 来自Android 下周展望： 1.大金融：周末利好密集落地，保险资金入市风险因子下调释放超千亿增量资金，发改委扩容REITs试点至15个大类，叠加美联储降息预期升至87%。 大金融如果发力，FJ+金融：创识科技， 这次看能带动北交回暖， 2.商业航天（主线）： 国家航天局印发2025-2027年行动计划..."
+    },
+    {
+      "post_id": "2af582ade3257ce2",
+      "post_hash": "201390759791e3b3",
+      "tab": "基金",
+      "summary": "Kweichow Moutai and Ping An Bank are solid plays for value investors.",
+      "key_points": [
+        "Kweichow Moutai is a white liquor giant with a strong brand.",
+        "Ping An Bank is a financial powerhouse with a wide customer base."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, citing their strong brands and customer bases.",
+      "processed_at": "2025-12-07T06:22:07.408325",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "股界散修修改于5小时前 · 来自Android"
+    },
+    {
+      "post_id": "92a69964d2345679",
+      "post_hash": "4a16628a7f82b299",
+      "tab": "基金",
+      "summary": "The author expects a strong week for finance and commercial aerospace, with potential for FJ+ and Northbound momentum.",
+      "key_points": [
+        "Big finance is expected to shine with favorable news and increased liquidity.",
+        "Commercial aerospace is a main theme with the release of a new national plan."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author is optimistic about the upcoming week due to favorable news and increased liquidity in finance, which could boost stocks like Kweichow Moutai and Ping An Bank.",
+      "processed_at": "2025-12-07T06:22:19.079731",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "下周展望： 1.大金融：周末利好密集落地，保险资金入市风险因子下调释放超千亿增量资金，发改委扩容REITs试点至15个大类，叠加美联储降息预期升至87%。 大金融如果发力，FJ+金融：创识科技， 这次看能带动北交回暖， 2.商业航天（主线）： 国家航天局印发2025-2027年行动计划..."
+    },
+    {
+      "post_id": "f3a2ba06f0156e7b",
+      "post_hash": "e1a24942066513a0",
+      "tab": "基金",
+      "summary": "7X24快讯修改于昨天17:14 · 来自雪球 【过去三年跑输业绩比较基准10%且利润率为负的基金经理降薪30%】基金经理绩效薪酬与基金业绩强挂钩。根据《基金管理公司绩效考核管理指引》征求意见稿... (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": -0.5,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:22:36.583106",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "7X24快讯修改于昨天17:14 · 来自雪球 【过去三年跑输业绩比较基准10%且利润率为负的基金经理降薪30%】基金经理绩效薪酬与基金业绩强挂钩。根据《基金管理公司绩效考核管理指引》征求意见稿，对基金经理薪酬进行了调整，过去三年产品业绩低于业绩比较基准超过十个百分点且基金利润率为负的，其绩效薪酬应当较上一年明显下降，降幅不得少..."
+    },
+    {
+      "post_id": "35c58437408a36d3",
+      "post_hash": "ccd90d268dd93192",
+      "tab": "基金",
+      "summary": "Kweichow Moutai and Ping An Bank are discussed in the context of value investing and white liquor.",
+      "key_points": [
+        "Kweichow Moutai is a strong performer in the consumption sector.",
+        "Ping An Bank is a solid choice for finance investors."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's performance in the consumption sector and Ping An Bank's solid position in finance.",
+      "processed_at": "2025-12-07T06:22:42.936476",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "7X24快讯修改于昨天17:14 · 来自雪球"
+    },
+    {
+      "post_id": "8c51b784131bcce2",
+      "post_hash": "83ae80980f7a0b39",
+      "tab": "基金",
+      "summary": "Chinese fund managers who underperform by 10% or more over 3 years will see their salaries cut by 30%.",
+      "key_points": [
+        "Fund managers with 3-year underperformance > 10% will face 30% salary cut.",
+        "Performance-linked pay is the norm in Chinese fund management."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": 0.2,
+      "sentiment_reasoning": "The author expresses disapproval of the 30% salary cut for underperforming fund managers, indicating a negative sentiment.",
+      "processed_at": "2025-12-07T06:22:55.122349",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "【过去三年跑输业绩比较基准10%且利润率为负的基金经理降薪30%】基金经理绩效薪酬与基金业绩强挂钩。根据《基金管理公司绩效考核管理指引》征求意见稿，对基金经理薪酬进行了调整，过去三年产品业绩低于业绩比较基准超过十个百分点且基金利润率为负的，其绩效薪酬应当较上一年明显下降，降幅不得少..."
+    },
+    {
+      "post_id": "bc6127fe51d6fab5",
+      "post_hash": "3f123381fe516b26",
+      "tab": "基金",
+      "summary": "北证今年低迷，但预计2026年会有一轮中级别行情，期待更多中长线资金进场。",
+      "key_points": [
+        "北证今年低迷，但预计2026年会有一轮中级别行情，期待更多中长线资金进场。"
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "ETF"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author is optimistic about the future of North China stock market, expecting a mid-term bull run in 2026.",
+      "processed_at": "2025-12-07T06:23:06.791541",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "燕云1988修改于昨天17:25 · 来自Android 周末实在太无聊了。 北证今年这么低迷，对明年反而是一件好事。 随着北证打新政策的改变、ETF的落地(目前这两项只是预期），预计2026北证会有一轮中级别行情。 希望看到更多的中长线资金进场北证。"
+    },
+    {
+      "post_id": "3395ffd53279baae",
+      "post_hash": "f0596f104cfb44a3",
+      "tab": "基金",
+      "summary": "Kweichow Moutai and Ping An Bank are discussed in the post.",
+      "key_points": [
+        "Kweichow Moutai is a strong stock in the consumption sector.",
+        "Ping An Bank is a solid choice in the finance sector."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth and stability.",
+      "processed_at": "2025-12-07T06:23:18.909485",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "燕云1988修改于昨天17:25 · 来自Android"
+    },
+    {
+      "post_id": "96170c1b3dbcd1b8",
+      "post_hash": "462c6505bea7ecb9",
+      "tab": "基金",
+      "summary": "The author finds the current state of North China stock market dull but optimistic about future growth.",
+      "key_points": [
+        "North China stock market is dull but expected to grow in 2026.",
+        "ETFs and new IPO policies are expected to boost the market."
+      ],
+      "tickers": [
+        "SH/SZ/HK + code"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the North China stock market's potential growth in 2026, citing expected ETFs and new IPO policies as positive factors.",
+      "processed_at": "2025-12-07T06:23:31.271415",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "周末实在太无聊了。 北证今年这么低迷，对明年反而是一件好事。 随着北证打新政策的改变、ETF的落地(目前这两项只是预期），预计2026北证会有一轮中级别行情。 希望看到更多的中长线资金进场北证。"
+    },
+    {
+      "post_id": "a6ef4d0954054597",
+      "post_hash": "df2c0d320d4afaaf",
+      "tab": "基金",
+      "summary": "Lazy investor's take on stable returns in China's stock market.",
+      "key_points": [
+        "Lazy investor's take on stable returns in China's stock market.",
+        "Stable returns vs. high-risk investments."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about stable returns in China's stock market, suggesting that investors can opt for a more stable path while still achieving decent gains.",
+      "processed_at": "2025-12-07T06:23:42.862708",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "懒人养基修改于12-02 11:04 · 来自雪球 年年正收益的固收+基金，就这么几只 对于大多数投资者而言，是忍受巨大波动去博取一个不确定的更高收益，还是选择一条虽不惊艳但足够安心的路径？ 在前两篇文章《业绩超稳的固收+基金不多，都在这里了》和《最受投资者欢迎的固收+基金，都在这里了》中，懒人养基分别从“持续跑赢市场平均水平”和“规模与持有人数量”两个维度，..."
+    },
+    {
+      "post_id": "6bacbaa2c96958fa",
+      "post_hash": "a246dbb31537f5eb",
+      "tab": "基金",
+      "summary": "Lazy man's base portfolio updated on 12-02 at 11:04 from Xueqiu.",
+      "key_points": [
+        "Kweichow Moutai (SH600519) is a solid choice.",
+        "Ping An Bank (SZ000001) is a reliable pick."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their solid performance and reliability.",
+      "processed_at": "2025-12-07T06:23:54.921533",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "懒人养基修改于12-02 11:04 · 来自雪球"
+    },
+    {
+      "post_id": "6c01187306bae322",
+      "post_hash": "0e8c55c2e0f26d87",
+      "tab": "基金",
+      "summary": "Investors debate between volatile high-yield investments and stable fixed-income funds.",
+      "key_points": [
+        "Fixed-income funds offer stability over high-yield investments.",
+        "Lazy-man funds are ranked based on performance and size."
+      ],
+      "tickers": [],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about fixed-income funds providing stability and consistent returns.",
+      "processed_at": "2025-12-07T06:24:06.722525",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "年年正收益的固收+基金，就这么几只 对于大多数投资者而言，是忍受巨大波动去博取一个不确定的更高收益，还是选择一条虽不惊艳但足够安心的路径？ 在前两篇文章《业绩超稳的固收+基金不多，都在这里了》和《最受投资者欢迎的固收+基金，都在这里了》中，懒人养基分别从“持续跑赢市场平均水平”和“规模与持有人数量”两个维度，..."
+    },
+    {
+      "post_id": "16cdc5d301bd5746",
+      "post_hash": "53a10ec8731cf4cc",
+      "tab": "基金",
+      "summary": "Chinese regulators are tightening rules on fund managers, forcing them to invest at least 30% of their performance bonuses in their own funds.",
+      "key_points": [
+        "Regulators are tightening rules on fund managers, forcing them to invest at least 30% of their performance bonuses in their own funds.",
+        "Performance bonuses will be paid out over a minimum of 3 years."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the increased investment in their own funds, which could boost the overall market.",
+      "processed_at": "2025-12-07T06:24:18.905668",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "7X24快讯修改于昨天17:13 · 来自雪球 【独家|基金公司董事长、高管等当年全部绩效薪酬应不少于30%购买本公司基金】监管要求高管、基金经理跟投比例均需提升。新下发的《基金管理公司绩效考核管理指引》征求意见稿要求，绩效薪酬的递延支付期限不少于三年，董事长、高级管理人员、主要业务部门负责人、分支机构负责人和核心业务人员递延..."
+    },
+    {
+      "post_id": "d1c5c034f47af27c",
+      "post_hash": "2e3c57bb1a4b5809",
+      "tab": "基金",
+      "summary": "Author discusses the value of Kweichow Moutai and Ping An Bank, focusing on their long-term potential and the benefits of white liquor.",
+      "key_points": [
+        "Kweichow Moutai is a solid long-term investment due to its strong brand and consistent performance.",
+        "Ping An Bank has a strong financial foundation and is well-positioned for future growth.",
+        "The author emphasizes the importance of white liquor in China's consumption market and the potential for Kweichow Moutai to benefit from this trend.",
+        "The author also highlights the value of value investing and the potential for long-term gains in the stock market."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their strong fundamentals and potential for long-term growth.",
+      "processed_at": "2025-12-07T06:24:31.432665",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "7X24快讯修改于昨天17:13 · 来自雪球"
+    },
+    {
+      "post_id": "4b2bb868ff4b165e",
+      "post_hash": "97f8ceb60fa548f7",
+      "tab": "基金",
+      "summary": "Chinese regulators are tightening the screws on fund managers, forcing them to invest at least 30% of their performance bonuses into their own funds.",
+      "key_points": [
+        "Regulators are cracking down on fund managers, forcing them to invest at least 30% of their performance bonuses into their own funds.",
+        "New guidelines require a minimum three-year delay for performance-based pay, affecting top executives and key personnel."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "sentiment_reasoning": "The author expresses skepticism about the new rules, citing potential negative impacts on the industry.",
+      "processed_at": "2025-12-07T06:24:43.166564",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "【独家|基金公司董事长、高管等当年全部绩效薪酬应不少于30%购买本公司基金】监管要求高管、基金经理跟投比例均需提升。新下发的《基金管理公司绩效考核管理指引》征求意见稿要求，绩效薪酬的递延支付期限不少于三年，董事长、高级管理人员、主要业务部门负责人、分支机构负责人和核心业务人员递延..."
+    },
+    {
+      "post_id": "0bf0f74ea12ffeb3",
+      "post_hash": "9bd9bbe19824f45e",
+      "tab": "基金",
+      "summary": "Fund managers are now forced to invest 30%+ of their performance pay into their own funds.",
+      "key_points": [
+        "Fund managers must invest 30%+ of their performance pay into their own funds.",
+        "New rules require a minimum 3-year delayed payment period for performance pay."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the new rules forcing fund managers to invest in their own funds, potentially boosting their performance and the overall market.",
+      "processed_at": "2025-12-07T06:24:55.031484",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "淡淡的相思林修改于昨天17:20 · 来自iPhone 牛了基金经理40%以上的绩效工资要拿来买自己管的基金 @7X24快讯： 【独家|基金公司董事长、高管等当年全部绩效薪酬应不少于30%购买本公司基金】监管要求高管、基金经理跟投比例均需提升。新下发的《基金管理公司绩效考核管理指引》征求意见稿要求，绩效薪酬的递延支付期限不少于三年，董事长、高级管理人员、主要业务部门负责人、分支机构负责人和核..."
+    },
+    {
+      "post_id": "50307faaa8dea714",
+      "post_hash": "271016781ec9d93a",
+      "tab": "基金",
+      "summary": "The author discusses the value of Kweichow Moutai and Ping An Bank, focusing on their strong fundamentals and potential for long-term growth.",
+      "key_points": [
+        "Kweichow Moutai has a strong brand and high profitability.",
+        "Ping An Bank is well-positioned in the finance sector with a large customer base."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term prospects of these companies, highlighting their solid financials and market presence.",
+      "processed_at": "2025-12-07T06:25:07.123121",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "淡淡的相思林修改于昨天17:20 · 来自iPhone"
+    },
+    {
+      "post_id": "7816e43f26a3681e",
+      "post_hash": "2132ea8d0bbe5aa4",
+      "tab": "基金",
+      "summary": "Fund managers must invest 40%+ of their performance pay into their own funds, per new rules.",
+      "key_points": [
+        "Fund managers must invest 40%+ of their performance pay into their own funds.",
+        "New rules require a 3-year delay in performance pay payments for top execs."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the new rules forcing fund managers to invest in their own funds, potentially boosting performance.",
+      "processed_at": "2025-12-07T06:25:19.167453",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "牛了基金经理40%以上的绩效工资要拿来买自己管的基金 @7X24快讯： 【独家|基金公司董事长、高管等当年全部绩效薪酬应不少于30%购买本公司基金】监管要求高管、基金经理跟投比例均需提升。新下发的《基金管理公司绩效考核管理指引》征求意见稿要求，绩效薪酬的递延支付期限不少于三年，董事长、高级管理人员、主要业务部门负责人、分支机构负责人和核心业务人员递延...展开  昨天17:13 · 转发 ..."
+    },
+    {
+      "post_id": "08fdaf20ccacc889",
+      "post_hash": "b60c34f13e3024a7",
+      "tab": "基金",
+      "summary": "7X24快讯：贵州茅台和平安银行的股价表现引发了投资者的关注。",
+      "key_points": [
+        "贵州茅台的白酒业务表现良好",
+        "平安银行的股价上涨"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's white liquor business and Ping An Bank's stock performance.",
+      "processed_at": "2025-12-07T06:25:30.974914",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "@7X24快讯："
+    },
+    {
+      "post_id": "0f7edf820a48d3db",
+      "post_hash": "3db6f63dc08710e5",
+      "tab": "基金",
+      "summary": "Author shares optimism about the future of Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth.",
+      "key_points": [
+        "Kweichow Moutai is a strong bet for long-term gains.",
+        "Ping An Bank has solid fundamentals and a promising future."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, citing their strong fundamentals and potential for long-term growth.",
+      "processed_at": "2025-12-07T06:25:43.162908",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "昨天17:13 · 转发 4 · 讨论 118 · 赞 108"
+    },
+    {
+      "post_id": "e2c206e0d0b22da6",
+      "post_hash": "da67d233be0f5bf3",
+      "tab": "基金",
+      "summary": "本尊-城 says solid-state battery stocks are popping off, with Sea-Sky New Energy hitting a new high, Daming Optics going vertical, and more.",
+      "key_points": [
+        "solid-state battery stocks are hot",
+        "ETFs like 159755 and 561160 are up"
+      ],
+      "tickers": [
+        "SZ000001",
+        "SH600519"
+      ],
+      "companies": [
+        "Sea-Sky New Energy",
+        "Daming Optics"
+      ],
+      "themes": [
+        "solid-state battery",
+        "electric vehicle"
+      ],
+      "sectors": [
+        "Technology",
+        "Energy"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author is optimistic about the solid-state battery sector, citing reports that China's commercialization is accelerating and entering a mass production phase.",
+      "processed_at": "2025-12-07T06:25:55.079957",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "本尊-城修改于12-01 10:53 · 来自雪球 固态电池概念股盘初冲高，海科新源盘中创新高，道明光学涨停，天华新能涨超15%，德赛电池、华盛锂电、星源材质跟涨。相关ETF方面，电池ETF(159755)涨1.92%，成交额1.33亿元，锂电池ETF(561160)涨0.61%，成交额1441.16万元。相关报告称，我国半固态电池商业化进程加快，已进入规模化装车“倒计时”..."
+    },
+    {
+      "post_id": "a19c88737f510669",
+      "post_hash": "e80abdf3b6696030",
+      "tab": "基金",
+      "summary": "本尊-城在12-01 10:53发表了关于贵州茅台和平安银行的投资观点。",
+      "key_points": [
+        "贵州茅台的白酒业务持续增长,平安银行的金融服务稳定"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's strong white liquor business and Ping An Bank's stable financial services.",
+      "processed_at": "2025-12-07T06:26:07.124088",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "本尊-城修改于12-01 10:53 · 来自雪球"
+    },
+    {
+      "post_id": "a78e5cd50930a306",
+      "post_hash": "bebe00b520839b5b",
+      "tab": "基金",
+      "summary": "Solid-state battery stocks surge as China's commercialization of half-solid batteries accelerates.",
+      "key_points": [
+        "Solid-state battery stocks surge.",
+        "ETFs related to batteries also rise."
+      ],
+      "tickers": [
+        "159755",
+        "561160"
+      ],
+      "companies": [
+        "海科新源",
+        "道明光学",
+        "天华新能",
+        "德赛电池",
+        "华盛锂电",
+        "星源材质"
+      ],
+      "themes": [
+        "Technology",
+        "Energy"
+      ],
+      "sectors": [
+        "Technology",
+        "Energy"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the rapid commercialization of half-solid batteries in China, leading to a surge in related stocks and ETFs.",
+      "processed_at": "2025-12-07T06:26:19.171412",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "固态电池概念股盘初冲高，海科新源盘中创新高，道明光学涨停，天华新能涨超15%，德赛电池、华盛锂电、星源材质跟涨。相关ETF方面，电池ETF(159755)涨1.92%，成交额1.33亿元，锂电池ETF(561160)涨0.61%，成交额1441.16万元。相关报告称，我国半固态电池商业化进程加快，已进入规模化装车“倒计时”..."
+    },
+    {
+      "post_id": "8063be631ba61253",
+      "post_hash": "67cff2ff6dddd60a",
+      "tab": "基金",
+      "summary": "Fund manager buys 40% of own fund with 40% of bonus, good or bad?",
+      "key_points": [
+        "Fund manager buys 40% of own fund with 40% of bonus",
+        "Not all salary is 40%"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author is optimistic about the fund manager’s move, as it shows confidence in their own fund.",
+      "processed_at": "2025-12-07T06:26:31.394164",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "望京博格修改于昨天17:49 · 来自iPhone 基金经理奖金40%购买自己管理的基金，还好不是全部薪酬的40%，大家怎么看？"
+    },
+    {
+      "post_id": "d042718a0131645e",
+      "post_hash": "7ab6594710d7e8b8",
+      "tab": "基金",
+      "summary": "Author discusses Kweichow Moutai and Ping An Bank, focusing on value investing and white liquor.",
+      "key_points": [
+        "Kweichow Moutai is a solid choice for value investors.",
+        "Ping An Bank is a reliable option for long-term growth."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth and stability.",
+      "processed_at": "2025-12-07T06:26:43.080209",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "望京博格修改于昨天17:49 · 来自iPhone"
+    }
+  ]
+}

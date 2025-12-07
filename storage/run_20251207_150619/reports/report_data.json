@@ -1,0 +1,2218 @@
+{
+  "job_name": "run_20251207_150619",
+  "job_start": "2025-12-07T06:50:44.137620",
+  "job_end": "2025-12-07T06:50:44.137620",
+  "total_posts_collected": 217,
+  "total_unique_posts": 217,
+  "total_posts_summarized": 217,
+  "tab_statistics": {
+    "热门": {
+      "tab_name": "热门",
+      "total_posts": 30,
+      "valid_posts": 30,
+      "duplicate_posts": 0,
+      "positive_posts": 0,
+      "neutral_posts": 0,
+      "negative_posts": 0,
+      "top_stocks": [],
+      "top_themes": [],
+      "earliest_post": null,
+      "latest_post": null,
+      "crawl_duration_seconds": 16.995438,
+      "errors_count": 0
+    },
+    "7x24": {
+      "tab_name": "7x24",
+      "total_posts": 7,
+      "valid_posts": 7,
+      "duplicate_posts": 0,
+      "positive_posts": 0,
+      "neutral_posts": 0,
+      "negative_posts": 0,
+      "top_stocks": [],
+      "top_themes": [],
+      "earliest_post": null,
+      "latest_post": null,
+      "crawl_duration_seconds": 46.813067,
+      "errors_count": 0
+    },
+    "视频": {
+      "tab_name": "视频",
+      "total_posts": 30,
+      "valid_posts": 30,
+      "duplicate_posts": 0,
+      "positive_posts": 0,
+      "neutral_posts": 0,
+      "negative_posts": 0,
+      "top_stocks": [],
+      "top_themes": [],
+      "earliest_post": null,
+      "latest_post": null,
+      "crawl_duration_seconds": 42.712892,
+      "errors_count": 0
+    },
+    "基金": {
+      "tab_name": "基金",
+      "total_posts": 30,
+      "valid_posts": 30,
+      "duplicate_posts": 0,
+      "positive_posts": 0,
+      "neutral_posts": 0,
+      "negative_posts": 0,
+      "top_stocks": [],
+      "top_themes": [],
+      "earliest_post": null,
+      "latest_post": null,
+      "crawl_duration_seconds": 18.919769,
+      "errors_count": 0
+    },
+    "资讯": {
+      "tab_name": "资讯",
+      "total_posts": 30,
+      "valid_posts": 30,
+      "duplicate_posts": 0,
+      "positive_posts": 0,
+      "neutral_posts": 0,
+      "negative_posts": 0,
+      "top_stocks": [],
+      "top_themes": [],
+      "earliest_post": null,
+      "latest_post": null,
+      "crawl_duration_seconds": 23.393501,
+      "errors_count": 0
+    },
+    "达人": {
+      "tab_name": "达人",
+      "total_posts": 30,
+      "valid_posts": 30,
+      "duplicate_posts": 0,
+      "positive_posts": 0,
+      "neutral_posts": 0,
+      "negative_posts": 0,
+      "top_stocks": [],
+      "top_themes": [],
+      "earliest_post": null,
+      "latest_post": null,
+      "crawl_duration_seconds": 25.774511,
+      "errors_count": 0
+    },
+    "私募": {
+      "tab_name": "私募",
+      "total_posts": 30,
+      "valid_posts": 30,
+      "duplicate_posts": 0,
+      "positive_posts": 0,
+      "neutral_posts": 0,
+      "negative_posts": 0,
+      "top_stocks": [],
+      "top_themes": [],
+      "earliest_post": null,
+      "latest_post": null,
+      "crawl_duration_seconds": 18.961547,
+      "errors_count": 0
+    },
+    "ETF": {
+      "tab_name": "ETF",
+      "total_posts": 30,
+      "valid_posts": 30,
+      "duplicate_posts": 0,
+      "positive_posts": 0,
+      "neutral_posts": 0,
+      "negative_posts": 0,
+      "top_stocks": [],
+      "top_themes": [],
+      "earliest_post": null,
+      "latest_post": null,
+      "crawl_duration_seconds": 25.604838,
+      "errors_count": 0
+    }
+  },
+  "stock_mentions": [
+    {
+      "symbol": "000858",
+      "name": "Wuliangye",
+      "mention_count": 12,
+      "positive_mentions": 10,
+      "neutral_mentions": 0,
+      "negative_mentions": 2,
+      "sample_post_ids": [
+        "d1c4116ccf8e6421",
+        "e547773a995bdd46",
+        "f60e5a01c0197155",
+        "20103b2db82b7a7a",
+        "64741b39ae904adb"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.8333333333333334
+    },
+    {
+      "symbol": "512670SH",
+      "name": "Kweichow Moutai",
+      "mention_count": 8,
+      "positive_mentions": 6,
+      "neutral_mentions": 2,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "c91ca4c9d0fc8a5d",
+        "72536576b12c6bdd",
+        "982d1491d431c1f1"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "000002",
+      "name": "Vanke",
+      "mention_count": 6,
+      "positive_mentions": 4,
+      "neutral_mentions": 1,
+      "negative_mentions": 1,
+      "sample_post_ids": [
+        "d1c4116ccf8e6421",
+        "e547773a995bdd46",
+        "f3e6276b0b84797a",
+        "053ce86462adcbfa",
+        "64741b39ae904adb"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.8
+    },
+    {
+      "symbol": "002625",
+      "name": "光启技术",
+      "mention_count": 6,
+      "positive_mentions": 6,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "d1c4116ccf8e6421",
+        "e547773a995bdd46",
+        "32600582f20d08ee",
+        "dbfebb8944cecdfb",
+        "64741b39ae904adb"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "600141",
+      "name": "BYD",
+      "mention_count": 6,
+      "positive_mentions": 6,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "d1c4116ccf8e6421",
+        "e547773a995bdd46",
+        "6c79517536b06e46",
+        "fb307ff9c44ea632",
+        "64741b39ae904adb"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "688795",
+      "name": "BYD",
+      "mention_count": 6,
+      "positive_mentions": 6,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "d1c4116ccf8e6421",
+        "e547773a995bdd46",
+        "1e5f354fc0daa58c",
+        "96d7070679c7b67a",
+        "64741b39ae904adb"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "600104",
+      "name": "BYD",
+      "mention_count": 6,
+      "positive_mentions": 5,
+      "neutral_mentions": 1,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "d1c4116ccf8e6421",
+        "e547773a995bdd46",
+        "cb553c0f3db00932",
+        "6bf1b54a7630b98d",
+        "64741b39ae904adb"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "002594",
+      "name": "BYD",
+      "mention_count": 6,
+      "positive_mentions": 6,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "d1c4116ccf8e6421",
+        "e547773a995bdd46",
+        "b362b54bc1422cd3",
+        "151d6a415359394f",
+        "64741b39ae904adb"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "SZ002702",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 6,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "8e85cdc15e4fdb70",
+        "7355600b5c526202",
+        "ea6a854b43d3682b",
+        "506b4a40b4f08570",
+        "f300b78a0ed7c3d9"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "002702",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 6,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "8e85cdc15e4fdb70",
+        "7355600b5c526202",
+        "ea6a854b43d3682b",
+        "506b4a40b4f08570",
+        "f300b78a0ed7c3d9"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "SH601166",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 5,
+      "neutral_mentions": 0,
+      "negative_mentions": 1,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "64b04fe595e4a521",
+        "8e1bce49d3b62cc4",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.8333333333333334
+    },
+    {
+      "symbol": "SZ000858",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 4,
+      "neutral_mentions": 0,
+      "negative_mentions": 2,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "73ff15b976c9e105",
+        "667fb60ca0f33127",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.6666666666666666
+    },
+    {
+      "symbol": "SH512690",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 4,
+      "neutral_mentions": 0,
+      "negative_mentions": 2,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "73ff15b976c9e105",
+        "667fb60ca0f33127",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.6666666666666666
+    },
+    {
+      "symbol": "512690",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 4,
+      "neutral_mentions": 0,
+      "negative_mentions": 2,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "73ff15b976c9e105",
+        "667fb60ca0f33127",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.6666666666666666
+    },
+    {
+      "symbol": "SH512890",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 5,
+      "neutral_mentions": 0,
+      "negative_mentions": 1,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "64b04fe595e4a521",
+        "8e1bce49d3b62cc4",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.8333333333333334
+    },
+    {
+      "symbol": "601166",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 5,
+      "neutral_mentions": 0,
+      "negative_mentions": 1,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "64b04fe595e4a521",
+        "8e1bce49d3b62cc4",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.8333333333333334
+    },
+    {
+      "symbol": "600519",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 4,
+      "neutral_mentions": 0,
+      "negative_mentions": 2,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "73ff15b976c9e105",
+        "667fb60ca0f33127",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.6666666666666666
+    },
+    {
+      "symbol": "512890",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 5,
+      "neutral_mentions": 0,
+      "negative_mentions": 1,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "64b04fe595e4a521",
+        "8e1bce49d3b62cc4",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.8333333333333334
+    },
+    {
+      "symbol": "SH600519",
+      "name": "Kweichow Moutai",
+      "mention_count": 6,
+      "positive_mentions": 4,
+      "neutral_mentions": 0,
+      "negative_mentions": 2,
+      "sample_post_ids": [
+        "5145658ed25a7a17",
+        "9471a40dc71cb6bb",
+        "73ff15b976c9e105",
+        "667fb60ca0f33127",
+        "61c24edea2ff246f"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 0.6666666666666666
+    },
+    {
+      "symbol": "688208",
+      "name": "道通科技",
+      "mention_count": 4,
+      "positive_mentions": 4,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "64741b39ae904adb",
+        "ddd2e795838fc911",
+        "21c05ef3bbd2ac03",
+        "7d90531f4fd492bd"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "300470",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "64741b39ae904adb",
+        "ddd2e795838fc911"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "601127",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "64741b39ae904adb",
+        "ddd2e795838fc911"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "SH601899",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "f300b78a0ed7c3d9",
+        "76302fd74bbb2e08"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "601899",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "f300b78a0ed7c3d9",
+        "76302fd74bbb2e08"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "SZ000630",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "f300b78a0ed7c3d9",
+        "76302fd74bbb2e08"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "603993",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "f300b78a0ed7c3d9",
+        "76302fd74bbb2e08"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "SH603993",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "f300b78a0ed7c3d9",
+        "76302fd74bbb2e08"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "000630",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "f300b78a0ed7c3d9",
+        "76302fd74bbb2e08"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "SZ159206",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "61c24edea2ff246f",
+        "b8977eb6d7bab349"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    },
+    {
+      "symbol": "159206",
+      "name": "Kweichow Moutai",
+      "mention_count": 2,
+      "positive_mentions": 2,
+      "neutral_mentions": 0,
+      "negative_mentions": 0,
+      "sample_post_ids": [
+        "61c24edea2ff246f",
+        "b8977eb6d7bab349"
+      ],
+      "overall_sentiment": "positive",
+      "sentiment_ratio": 1.0
+    }
+  ],
+  "theme_analysis": [
+    {
+      "theme": "Finance",
+      "mention_count": 173,
+      "related_stocks": [
+        "SH601578",
+        "SH601166",
+        "601899",
+        "GIS",
+        "512670SH",
+        "SZ000002",
+        "603993",
+        "160630.OF",
+        "HK:513690",
+        "SH510300",
+        "600519",
+        "SH600141",
+        "SH601600",
+        "SH601138",
+        "002702",
+        "SH512670",
+        "SH002594",
+        "HK513690",
+        "SH512690",
+        "SH512890",
+        "SZ000630",
+        "512690",
+        "300470",
+        "002625",
+        "601166",
+        "SH/SZ/HK + code",
+        "688795",
+        "600104",
+        "SZ000001",
+        "000858",
+        "SH603993",
+        "SH600519",
+        "SH601155",
+        "601127",
+        "000630",
+        "SH601598",
+        "SZ000858",
+        "SZ002702",
+        "SH601398",
+        "000002",
+        "600141",
+        "SH688795",
+        "SZ159206",
+        "159206",
+        "SH601899",
+        "SZ002625",
+        "SH600104",
+        "SH000016",
+        "SZ002594",
+        "SZ513690",
+        "SH000001",
+        "SH601998",
+        "688208",
+        "512890",
+        "BABA",
+        "SH601011",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 150,
+        "neutral": 7,
+        "negative": 16
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮...",
+        "江大任鹏飞修改于3小时前 · 来自Android"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Value Investing",
+      "mention_count": 170,
+      "related_stocks": [
+        "SH601578",
+        "SH601166",
+        "601899",
+        "GIS",
+        "512670SH",
+        "SZ000002",
+        "603993",
+        "160630.OF",
+        "HK:513690",
+        "600519",
+        "SH600141",
+        "SH601600",
+        "SH601138",
+        "002702",
+        "SH512670",
+        "SH002594",
+        "HK513690",
+        "SH512690",
+        "SH512890",
+        "SZ000630",
+        "512690",
+        "300470",
+        "002625",
+        "601166",
+        "SH/SZ/HK + code",
+        "688795",
+        "600104",
+        "SZ000001",
+        "000858",
+        "SH603993",
+        "SH600519",
+        "SH601155",
+        "601127",
+        "000630",
+        "SH601598",
+        "SH601939",
+        "SZ000858",
+        "SZ002702",
+        "SH601398",
+        "000002",
+        "600141",
+        "SH688795",
+        "SZ159206",
+        "159206",
+        "SH601899",
+        "SZ002625",
+        "SH600104",
+        "SH000016",
+        "SH601933",
+        "SZ002594",
+        "SZ513690",
+        "SH000001",
+        "SH601998",
+        "688208",
+        "SH688208",
+        "512890",
+        "BABA",
+        "SH601011",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 152,
+        "neutral": 2,
+        "negative": 16
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮...",
+        "江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "White Liquor",
+      "mention_count": 156,
+      "related_stocks": [
+        "SH601578",
+        "SH601166",
+        "601899",
+        "GIS",
+        "512670SH",
+        "SZ000002",
+        "603993",
+        "160630.OF",
+        "600519",
+        "SH600141",
+        "SH601600",
+        "SH601138",
+        "002702",
+        "SH512670",
+        "SH002594",
+        "SH512690",
+        "SH512890",
+        "SZ000630",
+        "512690",
+        "300470",
+        "002625",
+        "601166",
+        "SH/SZ/HK + code",
+        "688795",
+        "600104",
+        "SZ000001",
+        "000858",
+        "SH603993",
+        "SH600519",
+        "SH601155",
+        "601127",
+        "000630",
+        "SZ000858",
+        "SZ002702",
+        "SH601398",
+        "000002",
+        "600141",
+        "SH688795",
+        "SZ159206",
+        "159206",
+        "SH601899",
+        "SZ002625",
+        "SH600104",
+        "SH000016",
+        "SZ002594",
+        "SZ513690",
+        "SH000001",
+        "SH601998",
+        "688208",
+        "SH688208",
+        "512890",
+        "BABA",
+        "SH601011",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 142,
+        "neutral": 0,
+        "negative": 14
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮...",
+        "江大任鹏飞修改于3小时前 · 来自Android"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Consumption",
+      "mention_count": 151,
+      "related_stocks": [
+        "SH601578",
+        "SH601166",
+        "601899",
+        "GIS",
+        "512670SH",
+        "SZ000002",
+        "603993",
+        "160630.OF",
+        "600519",
+        "SH600141",
+        "SH601600",
+        "SH601138",
+        "002702",
+        "SH512670",
+        "SH002594",
+        "SH512690",
+        "SH512890",
+        "SZ000630",
+        "512690",
+        "300470",
+        "002625",
+        "601166",
+        "SH/SZ/HK + code",
+        "688795",
+        "600104",
+        "SZ000001",
+        "000858",
+        "SH603993",
+        "SH600519",
+        "SH601155",
+        "601127",
+        "000630",
+        "SH601939",
+        "SZ000858",
+        "SZ002702",
+        "000002",
+        "600141",
+        "SH688795",
+        "SZ159206",
+        "159206",
+        "SH601899",
+        "SZ002625",
+        "SH600104",
+        "SH000016",
+        "SH601933",
+        "SZ002594",
+        "SZ513690",
+        "SH000001",
+        "688208",
+        "512890",
+        "BABA",
+        "SH601011",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 138,
+        "neutral": 1,
+        "negative": 12
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮...",
+        "江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Technology",
+      "mention_count": 48,
+      "related_stocks": [
+        "SH601166",
+        "601899",
+        "512670SH",
+        "SZ000002",
+        "603993",
+        "600519",
+        "SH600141",
+        "002702",
+        "SH512690",
+        "SH512890",
+        "SZ000630",
+        "512690",
+        "002625",
+        "601166",
+        "159755",
+        "561160",
+        "688795",
+        "600104",
+        "SZ000001",
+        "000858",
+        "SH603993",
+        "SH600519",
+        "000630",
+        "SH601598",
+        "SZ000858",
+        "SZ002702",
+        "SH601398",
+        "SH601608",
+        "000002",
+        "600141",
+        "SH688795",
+        "SZ159206",
+        "159206",
+        "SH601899",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "SH601998",
+        "688208",
+        "SH688208",
+        "512890",
+        "BABA",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 44,
+        "neutral": 2,
+        "negative": 2
+      },
+      "representative_quotes": [
+        "船长德雷克修改于3小时前 · 来自雪球 比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的...",
+        "船长德雷克修改于3小时前 · 来自雪球 比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的...",
+        "比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Manufacturing",
+      "mention_count": 7,
+      "related_stocks": [
+        "SH601166",
+        "SZ000858",
+        "512670SH",
+        "SH512690",
+        "512690",
+        "SH512890",
+        "601166",
+        "600519",
+        "SZ159206",
+        "159206",
+        "000858",
+        "512890",
+        "SH600519"
+      ],
+      "sentiment_distribution": {
+        "positive": 6,
+        "neutral": 1,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · 来自雪球 转载——但斌2025分析师大会发言全程精剪 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 76125 14:47 花甲老头修改于12-03 14:53 · 来自雪球 他好像很惊...",
+        "光启技术：坚持原始创新之路，勇攀中国智造新高峰 转自：半月谈 当前，世界百年未有之大变局加速演进，新一轮科技革命和产业变革深入发展，掌握关键核心技术，实现高水平科技自立自强，关乎国家发展全局和长远竞争力。唯有不断增强紧迫感，进一步加大基础科学研究和原始创新... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Healthcare",
+      "mention_count": 6,
+      "related_stocks": [
+        "SH601166",
+        "SZ000858",
+        "512670SH",
+        "SH512690",
+        "512690",
+        "SH512890",
+        "601166",
+        "600519",
+        "SZ159206",
+        "159206",
+        "000858",
+        "512890",
+        "SH600519"
+      ],
+      "sentiment_distribution": {
+        "positive": 6,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · 来自雪球 转载——但斌2025分析师大会发言全程精剪 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 76125 14:47 花甲老头修改于12-03 14:53 · 来自雪球 他好像很惊...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 懒人养基修改于12-05 11:08 · 来自雪球 优选偏债基金，构建自己的固收+组合 在《业绩超稳的固收+基金不多，都在这里了》与《年年正收益的固收+基金，就这么几只》两篇文章中，我们分别从 \"2020 年以来每个年度跑赢偏债混合型基金..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Energy",
+      "mention_count": 5,
+      "related_stocks": [
+        "SH600104",
+        "159755",
+        "561160",
+        "600104",
+        "SZ000001",
+        "SH600519"
+      ],
+      "sentiment_distribution": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "本尊-城修改于12-01 10:53 · 来自雪球 固态电池概念股盘初冲高，海科新源盘中创新高，道明光学涨停，天华新能涨超15%，德赛电池、华盛锂电、星源材质跟涨。相关ETF方面，电池ETF(159755)涨1.92%，成交额1.33亿元，锂电池ETF(561160)涨0.61%，成交额1441.16万元。相关报告称，我国半固态电池商业化进程加快，已进入规模化装车“倒计时”...",
+        "固态电池概念股盘初冲高，海科新源盘中创新高，道明光学涨停，天华新能涨超15%，德赛电池、华盛锂电、星源材质跟涨。相关ETF方面，电池ETF(159755)涨1.92%，成交额1.33亿元，锂电池ETF(561160)涨0.61%，成交额1441.16万元。相关报告称，我国半固态电池商业化进程加快，已进入规模化装车“倒计时”...",
+        "固态电池概念股盘初冲高，海科新源盘中创新高，道明光学涨停，天华新能涨超15%，德赛电池、华盛锂电、星源材质跟涨。相关ETF方面，电池ETF(159755)涨1.92%，成交额1.33亿元，锂电池ETF(561160)涨0.61%，成交额1441.16万元。相关报告称，我国半固态电池商业化进程加快，已进入规模化装车“倒计时”..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "技术",
+      "mention_count": 4,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "SH601688",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "华泰证券：建议关注国产算力链及太空算力建设相关产业链 来源：滚动播报 华泰证券建议关注国产算力链及太空算力建设相关产业链。该券商表示，观察到国产算力和太空算力迎来新进展：国产算力方面，阿里发布2026财年第二季度财报，阿里云季度营收同比增长34%，超出预期，公司或在此... 网页链接",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "汽车",
+      "mention_count": 4,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 3,
+        "neutral": 1,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "上汽集团(SH600104)修改于12-05 17:33 · 来自新闻",
+        "上汽集团：明年将进行全固态电池样车测试 同花顺（300033）金融研究中心12月05日讯，有投资者向上汽集团（600104）提问， 董秘，你好！请问半固态电池产品是由上汽清陶工厂生产的吗，产能多大？上汽会全面转型新能源汽车吗？半固态电池可否应用于尚界车型？谢谢 公司回答表示... 网页链接",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Real Estate",
+      "mention_count": 4,
+      "related_stocks": [
+        "000002",
+        "SZ000002",
+        "SZ000001"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 1,
+        "negative": 1
+      },
+      "representative_quotes": [
+        "万科A(SZ000002)修改于昨天12:15 · 来自新闻 姚振华欠王石一声谢谢 来源：华商韬略毕亚军 早上看到一个说法，万科欠姚振华一个道歉。 大意是，当年王石不尊重资本也不守规则，阻击姚振华入主万科，然后把万科弄成了现在这样。如果当年的王石欢迎了姚振华，万科就不会是现在这样，所以万科欠姚... 网页链接",
+        "万科A(SZ000002)修改于昨天12:15 · 来自新闻",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 懒人养基修改于12-05 11:08 · 来自雪球 优选偏债基金，构建自己的固收+组合 在《业绩超稳的固收+基金不多，都在这里了》与《年年正收益的固收+基金，就这么几只》两篇文章中，我们分别从 \"2020 年以来每个年度跑赢偏债混合型基金..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Consumer",
+      "mention_count": 4,
+      "related_stocks": [
+        "SH601166",
+        "SZ000858",
+        "512670SH",
+        "SH512690",
+        "512690",
+        "SH512890",
+        "601166",
+        "600519",
+        "SZ159206",
+        "159206",
+        "000858",
+        "512890",
+        "SH600519"
+      ],
+      "sentiment_distribution": {
+        "positive": 4,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 懒人养基修改于12-05 11:08 · 来自雪球 优选偏债基金，构建自己的固收+组合 在《业绩超稳的固收+基金不多，都在这里了》与《年年正收益的固收+基金，就这么几只》两篇文章中，我们分别从 \"2020 年以来每个年度跑赢偏债混合型基金...",
+        "杰西米·西格尔教授在《投资者的未来》一书中，揭示了一个现象。 自标准普尔指数编制以来，能够长期穿越牛熊周期，取得骄人回报的企业，往往来自于消费品和医药行业。 而在当下美股甚至全球市场中，消费行业属于最不被市场重视和看好的板块之一。 通用磨坊（GIS）就是这样的一个典型，...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 孤舟_蓑笠修改于昨天11:34 · 来自Android $贵州茅台(SH600519)$ $五粮液(SZ000858)$ $酒ETF(SH512690)$ 喝过白酒的人，觉得白酒难喝的比例应该超过80%。对普通人来说，这东西是真的难喝。问..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Mining",
+      "mention_count": 3,
+      "related_stocks": [
+        "SH601899",
+        "SH601939",
+        "SH601598",
+        "SH601398",
+        "SH601933",
+        "SZ000001",
+        "SH601600"
+      ],
+      "sentiment_distribution": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像...",
+        "江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像...",
+        "目前持仓： 紫金矿业持有30%，这个涨的慢，但是最稳健，慢就慢一点吧。 中国有色矿业/五矿资源/洛阳钼业，各持有10% 计划博源化工持有10%，熬死同行，胜者为王 计划中概互联网etf持有10%，人工智能是未来 中国中冶15%，兴业银锡5%，未来有无限可能 中国中冶是今年第三次买..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "ETF",
+      "mention_count": 3,
+      "related_stocks": [
+        "SH510300"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 2,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "燕云1988修改于昨天17:25 · 来自Android 周末实在太无聊了。 北证今年这么低迷，对明年反而是一件好事。 随着北证打新政策的改变、ETF的落地(目前这两项只是预期），预计2026北证会有一轮中级别行情。 希望看到更多的中长线资金进场北证。",
+        "国防ETF修改于12-05 10:36 · 来自雪球",
+        "国防ETF修改于12-03 09:55 · 来自雪球"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "制造",
+      "mention_count": 3,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 1,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "上汽集团(SH600104)修改于12-05 17:33 · 来自新闻",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "消费",
+      "mention_count": 3,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002702",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "SZ002702",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚...",
+        "$海欣食品(SZ002702)$ 右上角这个印章什么含金量就不用多说了，带动了整个消费板块！这条我想看看最多能点到多少赞，看到的点点赞支持一下！",
+        "$海欣食品(SZ002702)$ 右上角这个印章什么含金量就不用多说了，带动了整个消费板块！这条我想看看最多能点到多少赞，看到的点点赞支持一下！"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Dividend Investing",
+      "mention_count": 3,
+      "related_stocks": [
+        "SH601166",
+        "HK513690",
+        "HK:513690",
+        "SH512890",
+        "601166",
+        "512890"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 1
+      },
+      "representative_quotes": [
+        "【2025.12.06-红利低波ETF学习笔记(7)】 $红利低波ETF(SH512890)$ $兴业银行(SH601166)$ 【1. 前言】今天这篇帖子继续分享红利低波ETF的学习笔记。上周中证公司发布了红利低波指数H30269的调仓名单，我写了第(6)篇学习笔记网页链接，当时发现兴业银行被调出指数，从而导致6000万股的被动卖盘，搞得心...",
+        "望京博格修改于12-03 10:47 · 来自雪球 红利资产未来依旧稀缺，尤其股息率5.6%的港股红利 从年初到现在，港股走势算是很不错了。 博格特意把恒生科技指数和港股红利ETF博时（513690）与做了一下对比。 数据来自wind，截至2025/11/30 近一年，恒生科技涨幅为29.98%，513690涨幅为32.96%。 513690不仅跑赢恒生科技，波动率还小很多。 博格终于懂了，...",
+        "红利资产未来依旧稀缺，尤其股息率5.6%的港股红利 从年初到现在，港股走势算是很不错了。 博格特意把恒生科技指数和港股红利ETF博时（513690）与做了一下对比。 数据来自wind，截至2025/11/30 近一年，恒生科技涨幅为29.98%，513690涨幅为32.96%。 513690不仅跑赢恒生科技，波动率还小很多。 博格终于懂了，人家机构投资者（尤..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Automotive",
+      "mention_count": 2,
+      "related_stocks": [
+        "600104",
+        "SH600104",
+        "SH601608"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的...",
+        "上汽集团(SH600104)修改于12-05 17:33 · 来自新闻 上汽集团：明年将进行全固态电池样车测试 同花顺（300033）金融研究中心12月05日讯，有投资者向上汽集团（600104）提问， 董秘，你好！请问半固态电池产品是由上汽清陶工厂生产的吗，产能多大？上汽会全面转型新能源汽车吗？半固态电池可否应用于尚界车型？谢谢 公司回答表示... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "New Energy",
+      "mention_count": 2,
+      "related_stocks": [
+        "SH688795",
+        "688795"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 7十二月 15:05 【北京大兴机场年旅客吞吐量首次突破5000万人次】从大兴机场了解到，截至12月6日，大兴机场今年累计保障进出港航班32.25万架次，迎送进出港旅客5008.34万人次，其中国际及地区旅客量达549.79万人次，较20...",
+        "N摩尔-U(SH688795)修改于12-05 12:37 · 来自新闻 秒赚28万！33600名股民狂喜，还有50多人“拍断大腿” 12月5日，被誉为“国产GPU第一股”的摩尔线程(N摩尔-U，688795)正式在科创板挂牌上市。早间，该股股价开盘即涨超468%，最高触及688元/股，公司市值一度超过3000亿元。截至发稿，该股报598.90元/股，涨幅仍有424.06%。 摩尔线程此次发..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "AI",
+      "mention_count": 2,
+      "related_stocks": [],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "但斌修改于11-29 12:24 · 来自雪球 转载：最近AI圈最火的话题，莫过于微软CEO纳德拉的一次深度访谈。 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 22780 03:22",
+        "转载：最近AI圈最火的话题，莫过于微软CEO纳德拉的一次深度访谈。 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 22780 03:22"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "逆袭",
+      "mention_count": 2,
+      "related_stocks": [
+        "SZ000651",
+        "SH601627"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "格力电器修改于12-05 12:25 · 来自雪球 格力洗衣机靠什么跨界逆袭？ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 7560 09:47",
+        "格力洗衣机靠什么跨界逆袭？ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 7560 09:47"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "家电",
+      "mention_count": 2,
+      "related_stocks": [
+        "SZ000651",
+        "SH601627"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "格力电器修改于12-05 12:25 · 来自雪球 格力洗衣机靠什么跨界逆袭？ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 7560 09:47",
+        "格力洗衣机靠什么跨界逆袭？ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 7560 09:47"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Artificial Intelligence",
+      "mention_count": 2,
+      "related_stocks": [],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "但斌修改于11-29 00:02 · 来自雪球 转载——英伟达GPU对比：与谷歌和亚马逊AI芯片 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 18679 15:58",
+        "但斌修改于11-30 21:05 · 来自雪球 魔豆果Modonut的产品，模仿我的形象，用AI生成我。让“AI但斌”和同学及我交流，非常惊艳…… Play Video 网络跑去滚雪球了，喊他回来 点击刷新 44821 07:39"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Tech",
+      "mention_count": 2,
+      "related_stocks": [
+        "SH688795",
+        "688795"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "N摩尔-U(SH688795)修改于12-05 12:37 · 来自新闻 秒赚28万！33600名股民狂喜，还有50多人“拍断大腿” 12月5日，被誉为“国产GPU第一股”的摩尔线程(N摩尔-U，688795)正式在科创板挂牌上市。早间，该股股价开盘即涨超468%，最高触及688元/股，公司市值一度超过3000亿元。截至发稿，该股报598.90元/股，涨幅仍有424.06%。 摩尔线程此次发...",
+        "秒赚28万！33600名股民狂喜，还有50多人“拍断大腿” 12月5日，被誉为“国产GPU第一股”的摩尔线程(N摩尔-U，688795)正式在科创板挂牌上市。早间，该股股价开盘即涨超468%，最高触及688元/股，公司市值一度超过3000亿元。截至发稿，该股报598.90元/股，涨幅仍有424.06%。 摩尔线程此次发行的价... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "金融",
+      "mention_count": 2,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "电子",
+      "mention_count": 2,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "通信",
+      "mention_count": 2,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚...",
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Communication",
+      "mention_count": 1,
+      "related_stocks": [
+        "SZ002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "船长德雷克修改于3小时前 · 来自雪球 比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Investor Sentiment",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH601608"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "格力电器",
+      "mention_count": 1,
+      "related_stocks": [
+        "SZ000651"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "格力电器修改于12-05 12:25 · 来自雪球"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "电器",
+      "mention_count": 1,
+      "related_stocks": [
+        "SZ000651"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "格力电器修改于12-05 12:25 · 来自雪球"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Debt",
+      "mention_count": 1,
+      "related_stocks": [],
+      "sentiment_distribution": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 1
+      },
+      "representative_quotes": [
+        "但斌修改于15小时前 · 来自雪球 转载——达利欧：日本的债务没消失，只是悄悄转嫁给了老百姓 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 22742 01:26"
+      ],
+      "trend_direction": "down"
+    },
+    {
+      "theme": "Economics",
+      "mention_count": 1,
+      "related_stocks": [],
+      "sentiment_distribution": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 1
+      },
+      "representative_quotes": [
+        "但斌修改于15小时前 · 来自雪球 转载——达利欧：日本的债务没消失，只是悄悄转嫁给了老百姓 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 22742 01:26"
+      ],
+      "trend_direction": "down"
+    },
+    {
+      "theme": "solid-state battery",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "本尊-城修改于12-01 10:53 · 来自雪球 固态电池概念股盘初冲高，海科新源盘中创新高，道明光学涨停，天华新能涨超15%，德赛电池、华盛锂电、星源材质跟涨。相关ETF方面，电池ETF(159755)涨1.92%，成交额1.33亿元，锂电池ETF(561160)涨0.61%，成交额1441.16万元。相关报告称，我国半固态电池商业化进程加快，已进入规模化装车“倒计时”..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "electric vehicle",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "本尊-城修改于12-01 10:53 · 来自雪球 固态电池概念股盘初冲高，海科新源盘中创新高，道明光学涨停，天华新能涨超15%，德赛电池、华盛锂电、星源材质跟涨。相关ETF方面，电池ETF(159755)涨1.92%，成交额1.33亿元，锂电池ETF(561160)涨0.61%，成交额1441.16万元。相关报告称，我国半固态电池商业化进程加快，已进入规模化装车“倒计时”..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Innovation",
+      "mention_count": 1,
+      "related_stocks": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "光启技术：坚持原始创新之路，勇攀中国智造新高峰 转自：半月谈 当前，世界百年未有之大变局加速演进，新一轮科技革命和产业变革深入发展，掌握关键核心技术，实现高水平科技自立自强，关乎国家发展全局和长远竞争力。唯有不断增强紧迫感，进一步加大基础科学研究和原始创新... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "创新",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH601688"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "华泰证券：建议关注国产算力链及太空算力建设相关产业链 来源：滚动播报 华泰证券建议关注国产算力链及太空算力建设相关产业链。该券商表示，观察到国产算力和太空算力迎来新进展：国产算力方面，阿里发布2026财年第二季度财报，阿里云季度营收同比增长34%，超出预期，公司或在此... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "IT",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH601688"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "华泰证券：建议关注国产算力链及太空算力建设相关产业链 来源：滚动播报 华泰证券建议关注国产算力链及太空算力建设相关产业链。该券商表示，观察到国产算力和太空算力迎来新进展：国产算力方面，阿里发布2026财年第二季度财报，阿里云季度营收同比增长34%，超出预期，公司或在此... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "科技",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH601688"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "华泰证券：建议关注国产算力链及太空算力建设相关产业链 来源：滚动播报 华泰证券建议关注国产算力链及太空算力建设相关产业链。该券商表示，观察到国产算力和太空算力迎来新进展：国产算力方面，阿里发布2026财年第二季度财报，阿里云季度营收同比增长34%，超出预期，公司或在此... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "生产",
+      "mention_count": 1,
+      "related_stocks": [
+        "600104",
+        "SH600104"
+      ],
+      "sentiment_distribution": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "上汽集团(SH600104)修改于12-05 17:33 · 来自新闻"
+      ],
+      "trend_direction": "stable"
+    },
+    {
+      "theme": "消费品",
+      "mention_count": 1,
+      "related_stocks": [
+        "600104",
+        "SH600104"
+      ],
+      "sentiment_distribution": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "上汽集团(SH600104)修改于12-05 17:33 · 来自新闻"
+      ],
+      "trend_direction": "stable"
+    },
+    {
+      "theme": "新能源汽车",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH600104"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "上汽集团：明年将进行全固态电池样车测试 同花顺（300033）金融研究中心12月05日讯，有投资者向上汽集团（600104）提问， 董秘，你好！请问半固态电池产品是由上汽清陶工厂生产的吗，产能多大？上汽会全面转型新能源汽车吗？半固态电池可否应用于尚界车型？谢谢 公司回答表示... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "半固态电池",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH600104"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "上汽集团：明年将进行全固态电池样车测试 同花顺（300033）金融研究中心12月05日讯，有投资者向上汽集团（600104）提问， 董秘，你好！请问半固态电池产品是由上汽清陶工厂生产的吗，产能多大？上汽会全面转型新能源汽车吗？半固态电池可否应用于尚界车型？谢谢 公司回答表示... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "价值投资",
+      "mention_count": 1,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "白酒",
+      "mention_count": 1,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "能源",
+      "mention_count": 1,
+      "related_stocks": [
+        "SZ000002",
+        "SH601127",
+        "SH600141",
+        "SZ300470",
+        "XPEV",
+        "002625",
+        "688795",
+        "600104",
+        "000858",
+        "601127",
+        "SZ000858",
+        "000002",
+        "600141",
+        "SH688795",
+        "NVDA",
+        "SZ002625",
+        "SH600104",
+        "TSLA",
+        "SZ002594",
+        "688208",
+        "SH688208",
+        "300470",
+        "002594"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 比亚迪(SZ002594)修改于12-05 22:56 · 来自新闻 王传福：比亚迪绝不拉踩别人 我们要做行业的榜样 12月5日，比亚迪在深圳坪山举行临时股东大会。会上，有股东提及公司近年被恶意造谣攻击，王传福表示，作为行业龙头，比亚迪坚..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "电动汽车",
+      "mention_count": 1,
+      "related_stocks": [
+        "688208",
+        "SH688208"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "道通科技(SH688208)修改于昨天23:37 · 来自新闻 道通斩获美国两大战略客户订单！北美充电市场份额再提升 近日，道通科技(688208)在美国成功签下两家战略客户订单，进一步拓展在美国充电市场的业务布局。这两家公司分别为全球头部便利零售集团C公司以及美国本土领先充电网络运营商E公司。双方将部署道通科技自主研发的MaxiCharger DH480大功率直流... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "充电技术",
+      "mention_count": 1,
+      "related_stocks": [
+        "688208",
+        "SH688208"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "道通科技(SH688208)修改于昨天23:37 · 来自新闻 道通斩获美国两大战略客户订单！北美充电市场份额再提升 近日，道通科技(688208)在美国成功签下两家战略客户订单，进一步拓展在美国充电市场的业务布局。这两家公司分别为全球头部便利零售集团C公司以及美国本土领先充电网络运营商E公司。双方将部署道通科技自主研发的MaxiCharger DH480大功率直流... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "新能源",
+      "mention_count": 1,
+      "related_stocks": [
+        "688208",
+        "SH688208"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "道通科技(SH688208)修改于昨天23:37 · 来自新闻 道通斩获美国两大战略客户订单！北美充电市场份额再提升 近日，道通科技(688208)在美国成功签下两家战略客户订单，进一步拓展在美国充电市场的业务布局。这两家公司分别为全球头部便利零售集团C公司以及美国本土领先充电网络运营商E公司。双方将部署道通科技自主研发的MaxiCharger DH480大功率直流... 网页链接"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Transportation",
+      "mention_count": 1,
+      "related_stocks": [
+        "TSLA"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "$特斯拉(TSLA)$ 今天试了一下刚买的model y，自动驾驶的感觉确实很好。因为看手机和发短信居然被两次开到路边！okay，Tsla, I’m back!"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Consumer Discretionary",
+      "mention_count": 1,
+      "related_stocks": [
+        "TSLA"
+      ],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "$特斯拉(TSLA)$ 今天试了一下刚买的model y，自动驾驶的感觉确实很好。因为看手机和发短信居然被两次开到路边！okay，Tsla, I’m back!"
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Personal Growth",
+      "mention_count": 1,
+      "related_stocks": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "查理·芒格：如何从失败中提取智慧？ 我活了将近一个世纪，目睹了太多人的崛起与陨落。有些人被失败击垮，一蹶不振，有些人却能从中淬炼出惊人的智慧。愈老愈纯，愈老愈富。这其中的差别不在于他们遭遇失败的次数，而在于他们处理失败的方式。大多数人视失败为耻辱。急于掩盖或遗忘。但真正的..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "Education",
+      "mention_count": 1,
+      "related_stocks": [],
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "查理·芒格：如何从失败中提取智慧？ 我活了将近一个世纪，目睹了太多人的崛起与陨落。有些人被失败击垮，一蹶不振，有些人却能从中淬炼出惊人的智慧。愈老愈纯，愈老愈富。这其中的差别不在于他们遭遇失败的次数，而在于他们处理失败的方式。大多数人视失败为耻辱。急于掩盖或遗忘。但真正的..."
+      ],
+      "trend_direction": "up"
+    },
+    {
+      "theme": "国防",
+      "mention_count": 1,
+      "related_stocks": [
+        "SH510300"
+      ],
+      "sentiment_distribution": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+      },
+      "representative_quotes": [
+        "国防ETF修改于12-03 09:55 · 来自雪球"
+      ],
+      "trend_direction": "stable"
+    }
+  ],
+  "overall_sentiment": {
+    "positive": 187,
+    "neutral": 13,
+    "negative": 17
+  },
+  "top_discussions": [
+    {
+      "id": "003224c19916845e",
+      "tab": "热门",
+      "text": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像... 福禄娃爷爷修改于3小时前 · 来自雪球 都在交易自己的认知。 我雪球分享的一些逻辑或者标底都是精挑细选的了，来雪球分享不外乎求合力，这个没什么好避讳的，操作还是要你们自己去思考的，但是尽量别问，任何股都是一样，因为一问就会有好有坏，我发言肯定会对一部分个股造成影响的，这个没办法避免，我不喜欢去拉踩别人的股，毕竟我们只能做多赚钱，肯定是希... 船长德雷克修改于3小时前 · 来自雪球 比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的... 牛哥66666修改于6小时前 · 来自iPhone 当这轮牛市走完以后，有五种人可以赚钱。 第一种，捂股不动的，从牛头拿到牛尾，不被热点所动，坚持拿好自己的股，这类人最终可以赚钱。 第二种，实力派，懂技术，消息灵通，又能追热点又能及时离场的，这类是少数才能做到。 第三种是有严格交易体系且严格执行的人，绝不多贪一分，该... 金哥777修改于5小时前 · 来自iPhone 恭喜你，你的初始本金还是比较大的，我第一个股市的100万，是开户后差不多4年才赚到的，就是2014年，15年大牛市了，然后只到2019年初还是盈利100万左右，但复利的力量是惊人的，现在盈利已经4000万➕了，用价值投资逻辑选股是可以赚到钱而且是大钱的，慢慢来以后会看到你说的第一个... @江大任鹏飞： 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像... 3小时前 · 转发 13 · 讨论 266 · 赞 354 新浪财经修改于昨天21:50 · 来自雪球 五粮液突然降价，十年首次 来源：市场资讯 中国新闻周刊 12月5日，有市场消息称，五粮液将从明年起调整第八代五粮液价格，在1019元/瓶打款价不变的基础上，给予打款折扣119元/瓶，即开票价为900元/瓶。 随后，中国新闻周刊就价格调整一事联系五粮液集团，相关负责人表示“不清楚”。不过多位行业... 蓝韭菜110修改于4小时前 · 来自iPhone 本年战斗接近尾声，对大多数人来说今年是收获满满的一年，现阶段最重要的事情就是把自己已经赚到手的米顺利的带走，年底博弈毫无意义，越努力，亏的越多，提醒兄弟们几点。 1.本年重整已经结束，本月拿不到路条意味着今年完成重整无望，重整股的炒作已经接近接近尾声。 2.保壳股博弈的概率... 产业驱动博弈修改于昨天22:59 · 来自iPhone 转一线卖方观点，逻辑和博弈点都讲都很清楚了。 价值视角，铜铝权益价值终将重估： 1）商品长期中枢稳中有升——逆全球化背景下，成长型资源品铜铝等价格中枢抬升，一者，货币维度，当前美国关税政策等损耗美元信用，且全球应对不确定性时，货币宽松大概率乃确定选项；二者，供需维度，在... 海西一狼08修改于5小时前 · 来自Android 周末两个大消息，他们要加杠杆了！ 一是保险公司释放风险因子，最高可以适当1086亿直接进入股市。 二是村里表态了，要让券商加杠杆。 信号很明确，他们要加杠杆，而且是4000点； 增量资金要来了，这些都是为2026年新主升浪做准备的。 对于2026年，你准备好了吗？ 大家都看... 热门话题 1 开盘650元！摩尔线程一签赚超26万 2 牛回来了？牛市旗手全线飙升 3 CPO概念大涨，长光华芯创新高 4 可控核聚变概念活跃，永鼎股份涨停 5 机器人板块走强，超捷股份20cm涨停 6 电解铝板块拉升，云铝股份创新高 7 商业航天延续强势，龙洲股份3连板 8 有色板块走强，洛阳钼业创新高 9 AI手机概念回调，道明光学跌停 10 震荡市，选什么才是更优解？ 热股榜 更多 全球 沪深 港股 美股 1小时内最热 24小时内最热 1 众生药业 -2.30% 2 神火股份 +5.43% 3 藏格矿业 +1.63% 4 康方生物 +0.57% 5 航天发展 +10.00% 6 东芯股份 -6.92% 7 N摩尔-U +425.46% 8 ST晨鸣 +0.49% 热门基金 1 中信保诚全球商品主题（QDII-FOF-LOF)A 年化(近5年) +29.80% 2 金元顺安元启混合 年化(近5年) +28.88% 3 广发石油指数QDII-A 年化(近5年) +24.22% 4 广发多因子混合 年化(近5年) +19.70% 5 前海开源沪港深核心资源C 年化(近5年) +19.10% 6 华安黄金ETF联接A 年化(近5年) +18.98% 7 华商新趋势混合 年化(近5年) +18.19% 8 银华抗通胀主题(QDII-FOF-LOF)A 年化(近5年) +17.97% 9 财通价值动量混合A 年化(近5年) +16.41% 10 广发纳指100ETF联接（QDII）人民币A 年化(近5年) +15.64%",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "Investor Jiang Daliren Pengfei shares his 4-month journey to a 115.4 million RMB profit, mostly from selling Five Liquor and East A Aloe and buying colored metals like Cangde Mining, Industrial Bank, and China Aluminum."
+    },
+    {
+      "id": "5b18ab65f666068f",
+      "tab": "热门",
+      "text": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像... 福禄娃爷爷修改于3小时前 · 来自雪球 都在交易自己的认知。 我雪球分享的一些逻辑或者标底都是精挑细选的了，来雪球分享不外乎求合力，这个没什么好避讳的，操作还是要你们自己去思考的，但是尽量别问，任何股都是一样，因为一问就会有好有坏，我发言肯定会对一部分个股造成影响的，这个没办法避免，我不喜欢去拉踩别人的股，毕竟我们只能做多赚钱，肯定是希... 船长德雷克修改于3小时前 · 来自雪球 比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的... 牛哥66666修改于6小时前 · 来自iPhone 当这轮牛市走完以后，有五种人可以赚钱。 第一种，捂股不动的，从牛头拿到牛尾，不被热点所动，坚持拿好自己的股，这类人最终可以赚钱。 第二种，实力派，懂技术，消息灵通，又能追热点又能及时离场的，这类是少数才能做到。 第三种是有严格交易体系且严格执行的人，绝不多贪一分，该... 金哥777修改于5小时前 · 来自iPhone 恭喜你，你的初始本金还是比较大的，我第一个股市的100万，是开户后差不多4年才赚到的，就是2014年，15年大牛市了，然后只到2019年初还是盈利100万左右，但复利的力量是惊人的，现在盈利已经4000万➕了，用价值投资逻辑选股是可以赚到钱而且是大钱的，慢慢来以后会看到你说的第一个... @江大任鹏飞： 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像... 3小时前 · 转发 13 · 讨论 266 · 赞 354 新浪财经修改于昨天21:50 · 来自雪球 五粮液突然降价，十年首次 来源：市场资讯 中国新闻周刊 12月5日，有市场消息称，五粮液将从明年起调整第八代五粮液价格，在1019元/瓶打款价不变的基础上，给予打款折扣119元/瓶，即开票价为900元/瓶。 随后，中国新闻周刊就价格调整一事联系五粮液集团，相关负责人表示“不清楚”。不过多位行业... 蓝韭菜110修改于4小时前 · 来自iPhone 本年战斗接近尾声，对大多数人来说今年是收获满满的一年，现阶段最重要的事情就是把自己已经赚到手的米顺利的带走，年底博弈毫无意义，越努力，亏的越多，提醒兄弟们几点。 1.本年重整已经结束，本月拿不到路条意味着今年完成重整无望，重整股的炒作已经接近接近尾声。 2.保壳股博弈的概率... 产业驱动博弈修改于昨天22:59 · 来自iPhone 转一线卖方观点，逻辑和博弈点都讲都很清楚了。 价值视角，铜铝权益价值终将重估： 1）商品长期中枢稳中有升——逆全球化背景下，成长型资源品铜铝等价格中枢抬升，一者，货币维度，当前美国关税政策等损耗美元信用，且全球应对不确定性时，货币宽松大概率乃确定选项；二者，供需维度，在... 海西一狼08修改于5小时前 · 来自Android 周末两个大消息，他们要加杠杆了！ 一是保险公司释放风险因子，最高可以适当1086亿直接进入股市。 二是村里表态了，要让券商加杠杆。 信号很明确，他们要加杠杆，而且是4000点； 增量资金要来了，这些都是为2026年新主升浪做准备的。 对于2026年，你准备好了吗？ 大家都看...",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "User Jiang Da Ren Peng Fei shares his 100M+ gains from 4 months of value investing in China's stock market."
+    },
+    {
+      "id": "eb488661ed78ae56",
+      "tab": "热门",
+      "text": "江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像...",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "User hit 100M in gains in 4 months, mostly from selling 5LW and EAA, then buying mining and metal stocks."
+    },
+    {
+      "id": "16fe5148d49d7cf2",
+      "tab": "热门",
+      "text": "江大任鹏飞修改于3小时前 · 来自Android",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "Kweichow Moutai and Ping An Bank are solid investments for value and finance."
+    },
+    {
+      "id": "53484a6cc8e962af",
+      "tab": "热门",
+      "text": "喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像...",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "Author celebrates reaching 1M RMB in profits, mostly from selling liquor stocks and buying metal ones."
+    },
+    {
+      "id": "7349ff3a19024c62",
+      "tab": "热门",
+      "text": "福禄娃爷爷修改于3小时前 · 来自雪球 都在交易自己的认知。 我雪球分享的一些逻辑或者标底都是精挑细选的了，来雪球分享不外乎求合力，这个没什么好避讳的，操作还是要你们自己去思考的，但是尽量别问，任何股都是一样，因为一问就会有好有坏，我发言肯定会对一部分个股造成影响的，这个没办法避免，我不喜欢去拉踩别人的股，毕竟我们只能做多赚钱，肯定是希...",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "Author shares their logic and bottom picks on Xueqiu, emphasizing the importance of self-thought and not asking for advice."
+    },
+    {
+      "id": "660ea318236b1d9a",
+      "tab": "热门",
+      "text": "福禄娃爷爷修改于3小时前 · 来自雪球",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "福禄娃爷爷 discusses the potential of Kweichow Moutai and Ping An Bank in the Chinese market."
+    },
+    {
+      "id": "e4281352a2e08a93",
+      "tab": "热门",
+      "text": "都在交易自己的认知。 我雪球分享的一些逻辑或者标底都是精挑细选的了，来雪球分享不外乎求合力，这个没什么好避讳的，操作还是要你们自己去思考的，但是尽量别问，任何股都是一样，因为一问就会有好有坏，我发言肯定会对一部分个股造成影响的，这个没办法避免，我不喜欢去拉踩别人的股，毕竟我们只能做多赚钱，肯定是希...",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "Author emphasizes the importance of personal responsibility in investing, sharing their insights while encouraging others to think critically."
+    },
+    {
+      "id": "aa56ecb95b44e2ff",
+      "tab": "热门",
+      "text": "船长德雷克修改于3小时前 · 来自雪球 比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的...",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "Ship captain analyzes key points from the BYD emergency shareholder meeting, focusing on tech superiority, weak communication, and investor concerns."
+    },
+    {
+      "id": "9939d16ff993d3af",
+      "tab": "热门",
+      "text": "船长德雷克修改于3小时前 · 来自雪球",
+      "author": null,
+      "symbols": [],
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "retweets": 0
+      },
+      "url": null,
+      "sentiment": "positive",
+      "summary": "船长德雷克在3小时前发表了关于贵州茅台和平安银行的讨论，讨论了价值投资和白酒行业的趋势。"
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}

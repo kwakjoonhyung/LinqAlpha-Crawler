@@ -1,0 +1,1000 @@
+{
+  "metadata": {
+    "tab": "热门",
+    "job_name": "run_20251207_150619",
+    "total_summaries": 30,
+    "new_summaries_this_save": 30,
+    "last_updated": "2025-12-07T06:13:18.615815"
+  },
+  "summaries": [
+    {
+      "post_id": "003224c19916845e",
+      "post_hash": "132d827061ffe325",
+      "tab": "热门",
+      "summary": "Investor Jiang Daliren Pengfei shares his 4-month journey to a 115.4 million RMB profit, mostly from selling Five Liquor and East A Aloe and buying colored metals like Cangde Mining, Industrial Bank, and China Aluminum.",
+      "key_points": [
+        "Jiang Daliren Pengfei made 115.4 million RMB in 4 months.",
+        "He sold Five Liquor and East A Aloe, then bought colored metals.",
+        "The market is bullish, with many stocks rising.",
+        "Investors are optimistic about the future.",
+        "The author encourages readers to learn from his experience and make their own decisions."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market and his own success, encouraging readers to learn from his experience and make their own decisions.",
+      "processed_at": "2025-12-07T06:07:32.049032",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮..."
+    },
+    {
+      "post_id": "5b18ab65f666068f",
+      "post_hash": "5a3f2bb4a81ed2bd",
+      "tab": "热门",
+      "summary": "User Jiang Da Ren Peng Fei shares his 100M+ gains from 4 months of value investing in China's stock market.",
+      "key_points": [
+        "Jiang Da Ren Peng Fei achieved over 100M in gains in just 4 months through value investing.",
+        "User mentions selling Five Grain Liquor and Donge Aojiao to buy colored metals like Cang Ge Mining, Industrial Bank, and China Aluminum.",
+        "User advises not to ask about specific stocks as it may affect their performance.",
+        "User discusses the importance of understanding the underlying logic and not just chasing hot stocks.",
+        "User shares his experience of holding onto stocks during the 2014-2019 bull market and achieving 400M+ gains.",
+        "User emphasizes the power of value investing and the importance of patience and discipline."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for long-term gains through value investing and the importance of patience and discipline.",
+      "processed_at": "2025-12-07T06:07:43.463834",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮..."
+    },
+    {
+      "post_id": "eb488661ed78ae56",
+      "post_hash": "1e59d41f9dba1a99",
+      "tab": "热门",
+      "summary": "User hit 100M in gains in 4 months, mostly from selling 5LW and EAA, then buying mining and metal stocks.",
+      "key_points": [
+        "User hit 100M in gains in 4 months",
+        "Mostly from selling 5LW and EAA, then buying mining and metal stocks"
+      ],
+      "tickers": [
+        "SH601933",
+        "SH601939",
+        "SH601600",
+        "SH601600"
+      ],
+      "companies": [
+        "Wuliangye",
+        "Donge",
+        "Changzhi Mining",
+        "Shanghai Xinji",
+        "Yunnan Aluminum",
+        "China Aluminum"
+      ],
+      "themes": [
+        "Value Investing",
+        "Mining"
+      ],
+      "sectors": [
+        "Consumption",
+        "Mining"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about their 4-month gains and the potential of mining stocks.",
+      "processed_at": "2025-12-07T06:07:54.613329",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "江大任鹏飞修改于3小时前 · 来自Android 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像..."
+    },
+    {
+      "post_id": "16fe5148d49d7cf2",
+      "post_hash": "cd875f1d95543bae",
+      "tab": "热门",
+      "summary": "Kweichow Moutai and Ping An Bank are solid investments for value and finance.",
+      "key_points": [
+        "Kweichow Moutai is a white liquor giant with a strong brand.",
+        "Ping An Bank offers stable returns in a volatile market."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's brand strength and Ping An Bank's stability.",
+      "processed_at": "2025-12-07T06:08:06.710252",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "江大任鹏飞修改于3小时前 · 来自Android"
+    },
+    {
+      "post_id": "53484a6cc8e962af",
+      "post_hash": "8a65704f8f5c9801",
+      "tab": "热门",
+      "summary": "Author celebrates reaching 1M RMB in profits, mostly from selling liquor stocks and buying metal ones.",
+      "key_points": [
+        "Author hit 1M RMB in profits in 4 months.",
+        "Sold liquor stocks, bought metal ones."
+      ],
+      "tickers": [
+        "SZ000858",
+        "SH601155",
+        "SH601600",
+        "SH601600"
+      ],
+      "companies": [
+        "Moutai",
+        "Ping An Bank",
+        "Chinalco",
+        "Aluminum Corp of China"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Finance",
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about their investment strategy, citing quick profits and a successful pivot to metal stocks.",
+      "processed_at": "2025-12-07T06:08:18.590734",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12月5日账户继续创新高，目前账户累计浮盈115.4万。 其实这些收益大部分是我在今年8月13日卖出五粮液、东阿阿胶，全面拥抱藏格矿业、兴业银锡、云铝股份、中国铝业等有色股后取得的。就时间来看的话，也仅仅是四个月不到，这些就像..."
+    },
+    {
+      "post_id": "7349ff3a19024c62",
+      "post_hash": "451cc792afc916ff",
+      "tab": "热门",
+      "summary": "Author shares their logic and bottom picks on Xueqiu, emphasizing the importance of self-thought and not asking for advice.",
+      "key_points": [
+        "Author emphasizes the importance of self-thought in investing.",
+        "Author prefers not to criticize other stocks, focusing on making money."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for value investing and white liquor stocks, while emphasizing the importance of self-thought and not criticizing other stocks.",
+      "processed_at": "2025-12-07T06:08:30.757781",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "福禄娃爷爷修改于3小时前 · 来自雪球 都在交易自己的认知。 我雪球分享的一些逻辑或者标底都是精挑细选的了，来雪球分享不外乎求合力，这个没什么好避讳的，操作还是要你们自己去思考的，但是尽量别问，任何股都是一样，因为一问就会有好有坏，我发言肯定会对一部分个股造成影响的，这个没办法避免，我不喜欢去拉踩别人的股，毕竟我们只能做多赚钱，肯定是希..."
+    },
+    {
+      "post_id": "660ea318236b1d9a",
+      "post_hash": "14870da4a1baa802",
+      "tab": "热门",
+      "summary": "福禄娃爷爷 discusses the potential of Kweichow Moutai and Ping An Bank in the Chinese market.",
+      "key_points": [
+        "Kweichow Moutai is a strong candidate for value investing due to its stable performance and dividend yield.",
+        "Ping An Bank has shown resilience in the financial sector, making it an attractive option for investors."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their stability and potential for long-term growth.",
+      "processed_at": "2025-12-07T06:08:44.638840",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "福禄娃爷爷修改于3小时前 · 来自雪球"
+    },
+    {
+      "post_id": "e4281352a2e08a93",
+      "post_hash": "5fd086ef8bf0955a",
+      "tab": "热门",
+      "summary": "Author emphasizes the importance of personal responsibility in investing, sharing their insights while encouraging others to think critically.",
+      "key_points": [
+        "Author emphasizes the importance of personal responsibility in investing",
+        "Author encourages others to think critically"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for value investing and the importance of critical thinking in the market.",
+      "processed_at": "2025-12-07T06:08:55.481762",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "都在交易自己的认知。 我雪球分享的一些逻辑或者标底都是精挑细选的了，来雪球分享不外乎求合力，这个没什么好避讳的，操作还是要你们自己去思考的，但是尽量别问，任何股都是一样，因为一问就会有好有坏，我发言肯定会对一部分个股造成影响的，这个没办法避免，我不喜欢去拉踩别人的股，毕竟我们只能做多赚钱，肯定是希..."
+    },
+    {
+      "post_id": "aa56ecb95b44e2ff",
+      "post_hash": "eeb087838e55f2a0",
+      "tab": "热门",
+      "summary": "Ship captain analyzes key points from the BYD emergency shareholder meeting, focusing on tech superiority, weak communication, and investor concerns.",
+      "key_points": [
+        "Tech superiority",
+        "Weak communication",
+        "Investor concerns"
+      ],
+      "tickers": [
+        "SZ002594"
+      ],
+      "companies": [
+        "BYD"
+      ],
+      "themes": [
+        "Technology",
+        "Communication"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about BYD's tech edge and investor focus, highlighting the company's strengths.",
+      "processed_at": "2025-12-07T06:09:07.017224",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "船长德雷克修改于3小时前 · 来自雪球 比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的..."
+    },
+    {
+      "post_id": "9939d16ff993d3af",
+      "post_hash": "382ef771dd0736e0",
+      "tab": "热门",
+      "summary": "船长德雷克在3小时前发表了关于贵州茅台和平安银行的讨论，讨论了价值投资和白酒行业的趋势。",
+      "key_points": [
+        "贵州茅台的股价可能会上涨，因为白酒行业的需求正在增加。",
+        "平安银行的股价可能会上涨，因为该公司的财务表现良好。"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, citing potential price increases due to growing demand in the white liquor industry and strong financial performance.",
+      "processed_at": "2025-12-07T06:09:18.730743",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "船长德雷克修改于3小时前 · 来自雪球"
+    },
+    {
+      "post_id": "80e29af554cff799",
+      "post_hash": "c5bad00fcb3fef7f",
+      "tab": "热门",
+      "summary": "Summary of the post in English",
+      "key_points": [
+        "The author discusses key points from the BYD shareholder meeting, focusing on technology and investor concerns.",
+        "They analyze the disagreements and provide insights into the underlying issues."
+      ],
+      "tickers": [
+        "SH601608"
+      ],
+      "companies": [
+        "BYD"
+      ],
+      "themes": [
+        "Technology",
+        "Investor Sentiment"
+      ],
+      "sectors": [
+        "Automotive"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about BYD's technology and investor confidence, highlighting the company's strong position in the automotive sector.",
+      "processed_at": "2025-12-07T06:09:30.227589",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "比亚迪临时股东会关键问题思考：技术致胜、弱传播、投资者关怀 本次参加临时股东会，船长被安排在离船夫哥三米的位置上，并安排了压轴提问。整个会议的对话纪要，树哥的文章已经整理的非常全面了网页链接。会上有几个大家意见分歧比较大的点，船长来解析一下底层的分歧是什么，以及到底谁是对的。 一、应补齐设计、营销的..."
+    },
+    {
+      "post_id": "8ee96afd0f6b9602",
+      "post_hash": "d93f2c4d6d395507",
+      "tab": "热门",
+      "summary": "Summary of the post in English",
+      "key_points": [
+        "First type: hold stocks through the bull run without getting distracted by trends.",
+        "Second type: tech-savvy, informed, and able to jump in and out of hot stocks.",
+        "Third type: disciplined traders who stick to their systems and don't over-leverage.",
+        "Fourth type: traders who can spot trends early and make quick moves.",
+        "Fifth type: those who can adapt and pivot when the market shifts."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the ability of certain individuals to profit during a bull market, highlighting different strategies and traits that can lead to success.",
+      "processed_at": "2025-12-07T06:09:42.713387",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "牛哥66666修改于6小时前 · 来自iPhone 当这轮牛市走完以后，有五种人可以赚钱。 第一种，捂股不动的，从牛头拿到牛尾，不被热点所动，坚持拿好自己的股，这类人最终可以赚钱。 第二种，实力派，懂技术，消息灵通，又能追热点又能及时离场的，这类是少数才能做到。 第三种是有严格交易体系且严格执行的人，绝不多贪一分，该..."
+    },
+    {
+      "post_id": "2beb2c15a41260d1",
+      "post_hash": "bf2804a1dc79ccc0",
+      "tab": "热门",
+      "summary": "牛哥66666 thinks Kweichow Moutai is a solid value play, especially with the white liquor market heating up.",
+      "key_points": [
+        "Kweichow Moutai is a value gem",
+        "White liquor market is on fire"
+      ],
+      "tickers": [
+        "SH600519"
+      ],
+      "companies": [
+        "Kweichow Moutai"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai’s potential, citing the growing white liquor market and its value investment appeal.",
+      "processed_at": "2025-12-07T06:09:54.676645",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "牛哥66666修改于6小时前 · 来自iPhone"
+    },
+    {
+      "post_id": "44aa4fc8587697b9",
+      "post_hash": "0c4ac5f5c2dc2866",
+      "tab": "热门",
+      "summary": "The post discusses five types of people who can profit in this bull market: those who hold onto their stocks, tech-savvy individuals, disciplined traders, and those who invest in white liquor.",
+      "key_points": [
+        "First type: those who hold onto their stocks from the start to the end of the bull market.",
+        "Second type: tech-savvy individuals who are well-informed and can time the market.",
+        "Third type: disciplined traders who follow a strict system and execute trades without greed.",
+        "Fourth type: those who invest in white liquor, which is a profitable sector.",
+        "Fifth type: those who invest in the consumption sector, which is also profitable."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for profit in this bull market, highlighting various strategies and sectors that can lead to success.",
+      "processed_at": "2025-12-07T06:10:07.028688",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "当这轮牛市走完以后，有五种人可以赚钱。 第一种，捂股不动的，从牛头拿到牛尾，不被热点所动，坚持拿好自己的股，这类人最终可以赚钱。 第二种，实力派，懂技术，消息灵通，又能追热点又能及时离场的，这类是少数才能做到。 第三种是有严格交易体系且严格执行的人，绝不多贪一分，该..."
+    },
+    {
+      "post_id": "4393e8b619cf7e92",
+      "post_hash": "8e167ea1f0190e52",
+      "tab": "热门",
+      "summary": "The author celebrates reaching a 100 million RMB profit milestone in just four months, attributing it to a shift in investment strategy to value investing and focusing on metal stocks.",
+      "key_points": [
+        "Author reached a 100 million RMB profit milestone in four months.",
+        "Shifted investment strategy to value investing and metal stocks.",
+        "Sold five liquor and traditional medicine stocks in August, bought metal stocks.",
+        "Current account balance is 115.4 million RMB.",
+        "Profits are largely due to the recent four-month period.",
+        "Author believes value investing can lead to significant gains over time."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential of value investing and metal stocks, citing a significant profit milestone in a short period.",
+      "processed_at": "2025-12-07T06:10:18.904575",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "金哥777修改于5小时前 · 来自iPhone 恭喜你，你的初始本金还是比较大的，我第一个股市的100万，是开户后差不多4年才赚到的，就是2014年，15年大牛市了，然后只到2019年初还是盈利100万左右，但复利的力量是惊人的，现在盈利已经4000万➕了，用价值投资逻辑选股是可以赚到钱而且是大钱的，慢慢来以后会看到你说的第一个... @江大任鹏飞： 喜提人生第一个100万 一、总体情况 1..."
+    },
+    {
+      "post_id": "e69bd52b69216cfe",
+      "post_hash": "b124224001c0c0a0",
+      "tab": "热门",
+      "summary": "金哥777 thinks Kweichow Moutai is a solid white liquor play, while others are skeptical.",
+      "key_points": [
+        "Kweichow Moutai's white liquor is a top choice for Chinese New Year.",
+        "Ping An Bank's dividend yield is attractive but the stock price is high."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's white liquor business during Chinese New Year, while also acknowledging the high stock price of Ping An Bank.",
+      "processed_at": "2025-12-07T06:10:30.823588",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "金哥777修改于5小时前 · 来自iPhone"
+    },
+    {
+      "post_id": "2ad6197205fce94d",
+      "post_hash": "39269b9a1631f932",
+      "tab": "热门",
+      "summary": "User hit 100M profit in 4 years, mostly from selling liquor stocks and buying mining stocks.",
+      "key_points": [
+        "User made 100M profit in 4 years, mostly from selling liquor stocks and buying mining stocks.",
+        "User's account now has a 115.4M profit.",
+        "User sold liquor stocks and bought mining stocks in August.",
+        "User's profit is mostly from mining stocks.",
+        "User's profit is 400M+ now."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the power of value investing and the potential for significant profits in the mining sector.",
+      "processed_at": "2025-12-07T06:10:42.677961",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "恭喜你，你的初始本金还是比较大的，我第一个股市的100万，是开户后差不多4年才赚到的，就是2014年，15年大牛市了，然后只到2019年初还是盈利100万左右，但复利的力量是惊人的，现在盈利已经4000万➕了，用价值投资逻辑选股是可以赚到钱而且是大钱的，慢慢来以后会看到你说的第一个... @江大任鹏飞： 喜提人生第一个100万 一、总体情况 12月4日自己的账户累计收益已经超100万了，12..."
+    },
+    {
+      "post_id": "10ef3c7033b8b249",
+      "post_hash": "930f0ced6daf36df",
+      "tab": "热门",
+      "summary": "Author discusses value investing and white liquor stocks, mentioning Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Value investing is a solid strategy.",
+        "White liquor stocks are attractive.",
+        "Kweichow Moutai and Ping An Bank are good picks."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential of value investing and white liquor stocks, highlighting Kweichow Moutai and Ping An Bank as solid choices.",
+      "processed_at": "2025-12-07T06:10:54.845689",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "@江大任鹏飞："
+    },
+    {
+      "post_id": "1113eace2dd3d07d",
+      "post_hash": "146e1554368f5366",
+      "tab": "热门",
+      "summary": "Author discusses the potential of Kweichow Moutai and Ping An Bank, highlighting their value and growth prospects.",
+      "key_points": [
+        "Kweichow Moutai is a strong brand with a loyal customer base.",
+        "Ping An Bank has a solid financial foundation and expanding business model."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's brand strength and Ping An Bank's financial stability, indicating a positive outlook for both companies.",
+      "processed_at": "2025-12-07T06:11:06.852763",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3小时前 · 转发 13 · 讨论 266 · 赞 354"
+    },
+    {
+      "post_id": "0571f21d6fc011fd",
+      "post_hash": "74d71d1b9c793079",
+      "tab": "热门",
+      "summary": "五粮液降价，打款折扣119元，开票价900元。",
+      "key_points": [
+        "五粮液降价，打款折扣119元，开票价900元。"
+      ],
+      "tickers": [
+        "SZ000858"
+      ],
+      "companies": [
+        "Wuliangye"
+      ],
+      "themes": [
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the price adjustment, which could boost sales and profitability for Wuliangye.",
+      "processed_at": "2025-12-07T06:11:18.272449",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "新浪财经修改于昨天21:50 · 来自雪球 五粮液突然降价，十年首次 来源：市场资讯 中国新闻周刊 12月5日，有市场消息称，五粮液将从明年起调整第八代五粮液价格，在1019元/瓶打款价不变的基础上，给予打款折扣119元/瓶，即开票价为900元/瓶。 随后，中国新闻周刊就价格调整一事联系五粮液集团，相关负责人表示“不清楚”。不过多位行业..."
+    },
+    {
+      "post_id": "1be24f57253c117c",
+      "post_hash": "db1cd6975c4aed47",
+      "tab": "热门",
+      "summary": "The author discusses the potential of Kweichow Moutai and Ping An Bank in the Chinese market.",
+      "key_points": [
+        "Kweichow Moutai's white liquor business is expected to drive growth.",
+        "Ping An Bank's financial performance is strong."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's white liquor business and Ping An Bank's financial performance.",
+      "processed_at": "2025-12-07T06:11:30.476568",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "新浪财经修改于昨天21:50 · 来自雪球"
+    },
+    {
+      "post_id": "71673736e02e2425",
+      "post_hash": "351402afd11ee569",
+      "tab": "热门",
+      "summary": "五粮液降价，第八代将从明年开始，打款价1019元/瓶，折扣119元/瓶，开票价900元/瓶。",
+      "key_points": [
+        "五粮液将从明年起调整第八代五粮液价格",
+        "打款价1019元/瓶，折扣119元/瓶，开票价900元/瓶"
+      ],
+      "tickers": [
+        "SH600519"
+      ],
+      "companies": [
+        "Kweichow Moutai"
+      ],
+      "themes": [
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the price adjustment, which could boost sales and profitability for Kweichow Moutai.",
+      "processed_at": "2025-12-07T06:11:42.885759",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "五粮液突然降价，十年首次 来源：市场资讯 中国新闻周刊 12月5日，有市场消息称，五粮液将从明年起调整第八代五粮液价格，在1019元/瓶打款价不变的基础上，给予打款折扣119元/瓶，即开票价为900元/瓶。 随后，中国新闻周刊就价格调整一事联系五粮液集团，相关负责人表示“不清楚”。不过多位行业..."
+    },
+    {
+      "post_id": "908f8cb1b4555448",
+      "post_hash": "a8adc8e8ca0b870b",
+      "tab": "热门",
+      "summary": "The author advises investors to secure their gains and avoid further risks as the year winds down.",
+      "key_points": [
+        "The year-end is not the time to take risks, as efforts to recover losses will only lead to more losses.",
+        "The author suggests that the year-end is not the right time to engage in speculative activities like the \"保壳股博弈\"."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": 0.2,
+      "sentiment_reasoning": "The author expresses caution and advises against taking risks, indicating a negative sentiment.",
+      "processed_at": "2025-12-07T06:11:54.852921",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "蓝韭菜110修改于4小时前 · 来自iPhone 本年战斗接近尾声，对大多数人来说今年是收获满满的一年，现阶段最重要的事情就是把自己已经赚到手的米顺利的带走，年底博弈毫无意义，越努力，亏的越多，提醒兄弟们几点。 1.本年重整已经结束，本月拿不到路条意味着今年完成重整无望，重整股的炒作已经接近接近尾声。 2.保壳股博弈的概率..."
+    },
+    {
+      "post_id": "c345503352a6f68d",
+      "post_hash": "dd329d01825d377d",
+      "tab": "热门",
+      "summary": "蓝韭菜110修改于4小时前 · 来自iPhone (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [],
+      "sentiment": "neutral",
+      "sentiment_score": -0.5,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:12:12.170157",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "蓝韭菜110修改于4小时前 · 来自iPhone"
+    },
+    {
+      "post_id": "7a51062a1cce9f35",
+      "post_hash": "f19f1e369da7effd",
+      "tab": "热门",
+      "summary": "Author advises to secure gains and avoid over-leveraging, as the year winds down.",
+      "key_points": [
+        "Year-end is for securing gains, not over-leveraging.",
+        "Reorganization stocks are nearing their end cycle."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about securing gains and avoiding over-leveraging, emphasizing the importance of managing risk and capitalizing on existing opportunities.",
+      "processed_at": "2025-12-07T06:12:18.394166",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "本年战斗接近尾声，对大多数人来说今年是收获满满的一年，现阶段最重要的事情就是把自己已经赚到手的米顺利的带走，年底博弈毫无意义，越努力，亏的越多，提醒兄弟们几点。 1.本年重整已经结束，本月拿不到路条意味着今年完成重整无望，重整股的炒作已经接近接近尾声。 2.保壳股博弈的概率..."
+    },
+    {
+      "post_id": "7341f65686fcbc74",
+      "post_hash": "5e72671633e2e550",
+      "tab": "热门",
+      "summary": "The author discusses the long-term potential of copper and aluminum stocks, citing the impact of global events on their value.",
+      "key_points": [
+        "Copper and aluminum prices are likely to rise due to global events and monetary policies.",
+        "The author believes that these resources will be revalued as the global economy shifts."
+      ],
+      "tickers": [
+        "SH601600",
+        "SH601011"
+      ],
+      "companies": [
+        "Guangdong Guangquang Copper",
+        "Chinalco"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term potential of copper and aluminum stocks, citing the impact of global events and monetary policies.",
+      "processed_at": "2025-12-07T06:12:30.653192",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "产业驱动博弈修改于昨天22:59 · 来自iPhone 转一线卖方观点，逻辑和博弈点都讲都很清楚了。 价值视角，铜铝权益价值终将重估： 1）商品长期中枢稳中有升——逆全球化背景下，成长型资源品铜铝等价格中枢抬升，一者，货币维度，当前美国关税政策等损耗美元信用，且全球应对不确定性时，货币宽松大概率乃确定选项；二者，供需维度，在..."
+    },
+    {
+      "post_id": "bd3da92f437284c4",
+      "post_hash": "97a7435ba0b5de00",
+      "tab": "热门",
+      "summary": "The author discusses the impact of the 2024 5G and AI upgrade on the Chinese tech sector.",
+      "key_points": [
+        "The 2024 5G and AI upgrade will drive significant growth in the Chinese tech sector.",
+        "Several companies, including Kweichow Moutai and Ping An Bank, are poised to benefit from this trend."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Technology",
+        "Finance"
+      ],
+      "sectors": [
+        "Technology",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential for the 2024 5G and AI upgrade to drive growth in the Chinese tech sector, citing the benefits for companies like Kweichow Moutai and Ping An Bank.",
+      "processed_at": "2025-12-07T06:12:42.763341",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "产业驱动博弈修改于昨天22:59 · 来自iPhone"
+    },
+    {
+      "post_id": "5834f73d6c10abcf",
+      "post_hash": "ef33b97ed88f5e1c",
+      "tab": "热门",
+      "summary": "The author discusses the value perspective of copper and aluminum, emphasizing their long-term potential for revaluation.",
+      "key_points": [
+        "Copper and aluminum prices are likely to rise due to the long-term stability of their commodity markets.",
+        "The global economic environment, including the impact of US tariffs and monetary policy, supports this outlook."
+      ],
+      "tickers": [
+        "SH601578",
+        "SH601011"
+      ],
+      "companies": [
+        "Zijin Mining",
+        "Chinalco"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term potential of copper and aluminum, citing the stability of their commodity markets and the supportive global economic environment.",
+      "processed_at": "2025-12-07T06:12:54.713134",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "转一线卖方观点，逻辑和博弈点都讲都很清楚了。 价值视角，铜铝权益价值终将重估： 1）商品长期中枢稳中有升——逆全球化背景下，成长型资源品铜铝等价格中枢抬升，一者，货币维度，当前美国关税政策等损耗美元信用，且全球应对不确定性时，货币宽松大概率乃确定选项；二者，供需维度，在..."
+    },
+    {
+      "post_id": "74865c44d6d3fb5a",
+      "post_hash": "ee5cd813333bfe7c",
+      "tab": "热门",
+      "summary": "Two big weekend news: insurance companies are releasing risk factors to pump 108.6B into the market, and villages are pushing brokerages to increase leverage. This is a clear signal for a 4000-point bull run, setting the stage for the 2026 main wave.",
+      "key_points": [
+        "Insurance companies are releasing risk factors to pump 108.6B into the market",
+        "Villages are pushing brokerages to increase leverage"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market’s potential for a 4000-point bull run, citing the release of risk factors and increased leverage as signs of a strong 2026 main wave.",
+      "processed_at": "2025-12-07T06:13:07.047509",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "海西一狼08修改于5小时前 · 来自Android 周末两个大消息，他们要加杠杆了！ 一是保险公司释放风险因子，最高可以适当1086亿直接进入股市。 二是村里表态了，要让券商加杠杆。 信号很明确，他们要加杠杆，而且是4000点； 增量资金要来了，这些都是为2026年新主升浪做准备的。 对于2026年，你准备好了吗？ 大家都看..."
+    },
+    {
+      "post_id": "5a4f032de809631c",
+      "post_hash": "3d687745268b73f4",
+      "tab": "热门",
+      "summary": "海西一狼 discusses the value of Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Kweichow Moutai is a solid investment.",
+        "Ping An Bank is a reliable choice."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their stability and potential for long-term growth.",
+      "processed_at": "2025-12-07T06:13:18.615815",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "海西一狼08修改于5小时前 · 来自Android"
+    }
+  ]
+}

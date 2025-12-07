@@ -1,0 +1,908 @@
+{
+  "metadata": {
+    "tab": "视频",
+    "job_name": "run_20251207_150619",
+    "total_summaries": 30,
+    "new_summaries_this_save": 30,
+    "last_updated": "2025-12-07T06:20:42.814176"
+  },
+  "summaries": [
+    {
+      "post_id": "840b4ce2a4248f51",
+      "post_hash": "2eb3023245f4b3ff",
+      "tab": "视频",
+      "summary": "Chinese stock market indices rose, with the Shanghai Composite Index up 0.70%, the Shenzhen Component Index up 1.08%, and the ChiNext Index up 1.36%.",
+      "key_points": [
+        "Indices rose, with the Shanghai Composite Index up 0.70%, the Shenzhen Component Index up 1.08%, and the ChiNext Index up 1.36%.",
+        "Several stocks and funds are highlighted, including N摩尔-U, which rose 425.46%.",
+        "The post also mentions various hot topics and trends in the Chinese stock market.",
+        "The author expresses optimism about the market's potential for growth and innovation.",
+        "The post includes a list of the top 10 hottest stocks and the top 10 hottest funds.",
+        "The author also mentions several key themes and sectors, including technology and finance.",
+        "The sentiment is positive, with a sentiment score of 0.8, as the author highlights the potential for growth and innovation in the market."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the market's potential for growth and innovation, highlighting the rise of several stocks and funds, and the increasing interest in key themes and sectors such as technology and finance.",
+      "processed_at": "2025-12-07T06:14:55.794678",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · 来自雪球 转载——但斌2025分析师大会发言全程精剪 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 76125 14:47 花甲老头修改于12-03 14:53 · 来自雪球 他好像很惊..."
+    },
+    {
+      "post_id": "fe779948aeb5094d",
+      "post_hash": "8d569a9195e0a2a8",
+      "tab": "视频",
+      "summary": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · ... (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Technology",
+        "Finance"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": -0.5,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:15:07.486546",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · 来自雪球 转载——但斌2025分析师大会发言全程精剪 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 76125 14:47 花甲老头修改于12-03 14:53 · 来自雪球 他好像很惊..."
+    },
+    {
+      "post_id": "6627e2e37c54ec49",
+      "post_hash": "8db989496b457409",
+      "tab": "视频",
+      "summary": "But Bin's speech at the 2025 Analyst Conference is a must-watch.",
+      "key_points": [
+        "But Bin's speech at the 2025 Analyst Conference is a must-watch.",
+        "Kweichow Moutai and Ping An Bank are discussed in the context of value investing and white liquor.",
+        "The author is optimistic about the future of these companies and the Chinese market.",
+        "The speech covers various sectors including consumption and finance.",
+        "The sentiment is positive due to the author's enthusiasm and optimism about the companies and the market.",
+        "Sentiment score: 0.8",
+        "Sentiment reasoning: The author's positive tone and emphasis on the potential of Kweichow Moutai and Ping An Bank contribute to the positive sentiment."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author's positive tone and emphasis on the potential of Kweichow Moutai and Ping An Bank contribute to the positive sentiment.",
+      "processed_at": "2025-12-07T06:15:19.288517",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于11-28 21:33 · 来自雪球 转载——但斌2025分析师大会发言全程精剪 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 76125 14:47"
+    },
+    {
+      "post_id": "ae0ee5b69b18a077",
+      "post_hash": "2ace3e10157154db",
+      "tab": "视频",
+      "summary": "Butbin discusses value investing in Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Kweichow Moutai is a solid value investment.",
+        "Ping An Bank is a stable finance stock."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth and stability.",
+      "processed_at": "2025-12-07T06:15:30.799971",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于11-28 21:33 · 来自雪球"
+    },
+    {
+      "post_id": "0b53f89b6915b962",
+      "post_hash": "72121fba5c578b03",
+      "tab": "视频",
+      "summary": "But Bin 2025 Analyst Conference speech full clip, go chase snowballs, refresh 76125 14:47",
+      "key_points": [
+        "But Bin 2025 Analyst Conference speech full clip, go chase snowballs, refresh 76125 14:47"
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [],
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "sentiment_reasoning": "The author is neutral, no sentiment or opinion expressed.",
+      "processed_at": "2025-12-07T06:15:42.589158",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "转载——但斌2025分析师大会发言全程精剪 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 76125 14:47"
+    },
+    {
+      "post_id": "22a8288b038430f8",
+      "post_hash": "47180a702d2bc12a",
+      "tab": "视频",
+      "summary": "Old dude's shocked, calls Kweichow Moutai the national liquor, then bails.",
+      "key_points": [
+        "Kweichow Moutai's price dropped, now a buying opportunity.",
+        "Ping An Bank's stock is solid."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author thinks Kweichow Moutai's dip is a buying chance and praises Ping An Bank's performance.",
+      "processed_at": "2025-12-07T06:15:54.772162",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "花甲老头修改于12-03 14:53 · 来自雪球 他好像很惊讶，好像还说了句国粹 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 45073 00:29"
+    },
+    {
+      "post_id": "04717bbb0c7255d2",
+      "post_hash": "81eda9d1ab4eaaad",
+      "tab": "视频",
+      "summary": "The author discusses the value of Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth.",
+      "key_points": [
+        "Kweichow Moutai is a solid choice for long-term investment due to its stable dividend payouts and strong brand recognition.",
+        "Ping An Bank is a promising stock with a growing market share and a solid financial position.",
+        "The author emphasizes the importance of patience and a long-term perspective when investing in these stocks.",
+        "They also mention the potential for white liquor to drive growth in the consumption sector.",
+        "The author concludes by encouraging readers to consider these stocks for their portfolios."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term potential of Kweichow Moutai and Ping An Bank, citing their stable dividend payouts and strong financial positions.",
+      "processed_at": "2025-12-07T06:16:07.264743",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "花甲老头修改于12-03 14:53 · 来自雪球"
+    },
+    {
+      "post_id": "8278be62c227f0eb",
+      "post_hash": "2acef095979f6d88",
+      "tab": "视频",
+      "summary": "He's shocked, says Kweichow Moutai is a national treasure, and tells him to refresh the page.",
+      "key_points": [
+        "Kweichow Moutai is a national treasure.",
+        "He tells him to refresh the page."
+      ],
+      "tickers": [
+        "SH600519"
+      ],
+      "companies": [
+        "Kweichow Moutai"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai, calling it a national treasure.",
+      "processed_at": "2025-12-07T06:16:18.752147",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "他好像很惊讶，好像还说了句国粹 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 45073 00:29"
+    },
+    {
+      "post_id": "fb5cc52c74f93b60",
+      "post_hash": "a6f73e1e12fe50d9",
+      "tab": "视频",
+      "summary": "But Bin edited on 11-29 12:24 · From Xueqiu: The hottest topic in the AI circle recently is Microsoft CEO Nadella's in-depth interview.",
+      "key_points": [
+        "The hottest topic in the AI circle recently is Microsoft CEO Nadella's in-depth interview.",
+        "The author expresses optimism about the future of AI and its potential impact on various industries."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "AI",
+        "Technology"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the future of AI and its potential impact on various industries.",
+      "processed_at": "2025-12-07T06:16:30.717558",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于11-29 12:24 · 来自雪球 转载：最近AI圈最火的话题，莫过于微软CEO纳德拉的一次深度访谈。 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 22780 03:22"
+    },
+    {
+      "post_id": "e5770b8ae917bb97",
+      "post_hash": "d99962cb73e03f59",
+      "tab": "视频",
+      "summary": "But Bin talks about Kweichow Moutai and Ping An Bank in a positive light.",
+      "key_points": [
+        "Kweichow Moutai is a solid value play.",
+        "Ping An Bank has a strong dividend yield."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their value and dividend potential.",
+      "processed_at": "2025-12-07T06:16:42.860545",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于11-29 12:24 · 来自雪球"
+    },
+    {
+      "post_id": "7c439c1dac8add4d",
+      "post_hash": "c6e8feb8e91c4dd0",
+      "tab": "视频",
+      "summary": "The post discusses a recent interview with Microsoft CEO Satya Nadella, focusing on AI and its impact.",
+      "key_points": [
+        "The interview highlights the rapid advancements in AI technology.",
+        "Nadella emphasizes the importance of responsible AI development."
+      ],
+      "tickers": [],
+      "companies": [
+        "Microsoft"
+      ],
+      "themes": [
+        "AI",
+        "Technology"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author finds the interview informative and optimistic about AI's potential.",
+      "processed_at": "2025-12-07T06:16:54.678297",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "转载：最近AI圈最火的话题，莫过于微软CEO纳德拉的一次深度访谈。 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 22780 03:22"
+    },
+    {
+      "post_id": "3b17e5a70fc0b9cd",
+      "post_hash": "66b6b10ea1364e1c",
+      "tab": "视频",
+      "summary": "格力电器洗衣机靠什么跨界逆袭？",
+      "key_points": [
+        "格力电器洗衣机靠什么跨界逆袭？"
+      ],
+      "tickers": [
+        "SZ000651"
+      ],
+      "companies": [
+        "格力电器"
+      ],
+      "themes": [
+        "逆袭"
+      ],
+      "sectors": [
+        "家电"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the washing machine's ability to cross boundaries and dominate.",
+      "processed_at": "2025-12-07T06:17:06.417579",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "格力电器修改于12-05 12:25 · 来自雪球 格力洗衣机靠什么跨界逆袭？ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 7560 09:47"
+    },
+    {
+      "post_id": "85e7b830f2f3c299",
+      "post_hash": "ea678af3d32657bc",
+      "tab": "视频",
+      "summary": "格力电器的股价在12月5日下午12:25时发生了变化，来自雪球的用户讨论了相关信息。",
+      "key_points": [
+        "格力电器的股价发生了变化",
+        "用户讨论了相关信息"
+      ],
+      "tickers": [
+        "SZ000651"
+      ],
+      "companies": [
+        "格力电器"
+      ],
+      "themes": [
+        "格力电器"
+      ],
+      "sectors": [
+        "电器"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the recent changes in GREE Electric Appliances stock price, indicating a positive sentiment.",
+      "processed_at": "2025-12-07T06:17:18.641966",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "格力电器修改于12-05 12:25 · 来自雪球"
+    },
+    {
+      "post_id": "7bf50ea106642b4d",
+      "post_hash": "7d9c06930f9af041",
+      "tab": "视频",
+      "summary": "格力洗衣机靠什么跨界逆袭？",
+      "key_points": [
+        "格力洗衣机靠什么跨界逆袭？"
+      ],
+      "tickers": [
+        "SH601627"
+      ],
+      "companies": [
+        "格力电器"
+      ],
+      "themes": [
+        "逆袭"
+      ],
+      "sectors": [
+        "家电"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the potential of GREE Electric Appliances to make a comeback.",
+      "processed_at": "2025-12-07T06:17:30.655583",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "格力洗衣机靠什么跨界逆袭？ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 7560 09:47"
+    },
+    {
+      "post_id": "42c0ac6487430121",
+      "post_hash": "1abcf8489d14e513",
+      "tab": "视频",
+      "summary": "But Bin compares NVIDIA GPUs to Google and Amazon AI chips.",
+      "key_points": [
+        "NVIDIA GPUs vs Google and Amazon AI chips",
+        "NVIDIA's dominance in AI"
+      ],
+      "tickers": [],
+      "companies": [
+        "NVIDIA",
+        "Google",
+        "Amazon"
+      ],
+      "themes": [
+        "Artificial Intelligence",
+        "Technology"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author highlights NVIDIA's strong presence in AI, emphasizing its dominance over Google and Amazon's chips.",
+      "processed_at": "2025-12-07T06:17:42.908539",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于11-29 00:02 · 来自雪球 转载——英伟达GPU对比：与谷歌和亚马逊AI芯片 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 18679 15:58"
+    },
+    {
+      "post_id": "e453d8ae09c84724",
+      "post_hash": "e5890d7c93b2b5ed",
+      "tab": "视频",
+      "summary": "Butbin says Kweichow Moutai is a solid white liquor play, while Ping An Bank is a finance gem.",
+      "key_points": [
+        "Kweichow Moutai is a solid white liquor play.",
+        "Ping An Bank is a finance gem."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for value and growth.",
+      "processed_at": "2025-12-07T06:17:54.888026",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于11-29 00:02 · 来自雪球"
+    },
+    {
+      "post_id": "09f0098c958fd150",
+      "post_hash": "e44b6ea453fe0ac7",
+      "tab": "视频",
+      "summary": "Author shares a comparison of NVIDIA GPUs with Google and Amazon AI chips, expressing optimism about the future of AI and the potential for AI chips to dominate the market.",
+      "key_points": [
+        "NVIDIA GPUs compared to Google and Amazon AI chips",
+        "Author's optimism about AI chip dominance"
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the future of AI and the potential for AI chips to dominate the market, citing the comparison of NVIDIA GPUs with Google and Amazon AI chips as evidence of the growing importance of AI technology.",
+      "processed_at": "2025-12-07T06:18:06.889446",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "转载——英伟达GPU对比：与谷歌和亚马逊AI芯片 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 18679 15:58"
+    },
+    {
+      "post_id": "5f69156a3573b9d7",
+      "post_hash": "cdb0559d4c773a7f",
+      "tab": "视频",
+      "summary": "But Bin says Huawei is Nvidia's biggest black swan.",
+      "key_points": [
+        "Huawei is Nvidia's biggest black swan.",
+        "Huawei is a huge threat to Nvidia's dominance."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "sentiment_reasoning": "The author expresses skepticism about Huawei's impact on Nvidia, calling it a black swan event.",
+      "processed_at": "2025-12-07T06:18:18.648014",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于12-01 16:12 · 来自雪球 转载——英伟达最大的黑天鹅：华为！听听这位大哥是怎么说的！！ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 20398 07:16"
+    },
+    {
+      "post_id": "fb42e64dbff8e6f1",
+      "post_hash": "3efb40724a3a875c",
+      "tab": "视频",
+      "summary": "Butbin discusses the potential of Kweichow Moutai and Ping An Bank in the Chinese market.",
+      "key_points": [
+        "Kweichow Moutai is a strong candidate for value investing.",
+        "Ping An Bank has a solid financial foundation."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the long-term potential of these stocks, citing their solid financials and industry dominance.",
+      "processed_at": "2025-12-07T06:18:30.763452",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于12-01 16:12 · 来自雪球"
+    },
+    {
+      "post_id": "373eb02ea40e179a",
+      "post_hash": "a6b2df3b11279e5a",
+      "tab": "视频",
+      "summary": "Nvidia's biggest black swan is Huawei, according to this guy.",
+      "key_points": [
+        "Huawei is Nvidia's biggest black swan.",
+        "Huawei's chip ban is a massive risk for Nvidia."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "sentiment_reasoning": "The author expresses concern about Huawei's chip ban posing a significant risk to Nvidia's business.",
+      "processed_at": "2025-12-07T06:18:43.116641",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "转载——英伟达最大的黑天鹅：华为！听听这位大哥是怎么说的！！ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 20398 07:16"
+    },
+    {
+      "post_id": "e8b20f309cab9e13",
+      "post_hash": "0b0be0b13342dce3",
+      "tab": "视频",
+      "summary": "Redpoint Capital's boss shares a 'blood and tears' story.",
+      "key_points": [
+        "Redpoint Capital's boss shares a 'blood and tears' story.",
+        "He talks about his journey in the tech industry."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the tech industry and the boss's journey.",
+      "processed_at": "2025-12-07T06:18:54.794389",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于12-05 00:46 · 来自雪球 转载：红杉资本大佬“血泪史”！ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 26957 03:02"
+    },
+    {
+      "post_id": "de1e90ac6d18a30f",
+      "post_hash": "c99f427d2c84e729",
+      "tab": "视频",
+      "summary": "But Bin discusses Kweichow Moutai and Ping An Bank, focusing on value investing and white liquor.",
+      "key_points": [
+        "Kweichow Moutai is a solid value investment.",
+        "Ping An Bank is a reliable financial choice."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth and stability.",
+      "processed_at": "2025-12-07T06:19:07.060417",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于12-05 00:46 · 来自雪球"
+    },
+    {
+      "post_id": "9d2f237685458cb9",
+      "post_hash": "65c10a371ae508b9",
+      "tab": "视频",
+      "summary": "Redpoint Capital big shot spills blood and tears, then bails.",
+      "key_points": [
+        "Redpoint Capital big shot spills blood and tears, then bails.",
+        "He's outta here, chasing snowballs.",
+        "26957 people refreshed the page.",
+        "03:02"
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about the big shot's exit, implying he's chasing bigger gains.",
+      "processed_at": "2025-12-07T06:19:19.365817",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "转载：红杉资本大佬“血泪史”！ Play Video 网络跑去滚雪球了，喊他回来 点击刷新 26957 03:02"
+    },
+    {
+      "post_id": "d063d591102cc308",
+      "post_hash": "6b55f748fcdaf1a1",
+      "tab": "视频",
+      "summary": "The author discusses AI-generated content and its potential applications.",
+      "key_points": [
+        "AI-generated content can be used for various purposes.",
+        "The author is excited about the possibilities of AI in their field."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Technology",
+        "Artificial Intelligence"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses enthusiasm about the potential of AI-generated content, highlighting its ability to create personalized and engaging experiences.",
+      "processed_at": "2025-12-07T06:19:30.664622",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于11-30 21:05 · 来自雪球 魔豆果Modonut的产品，模仿我的形象，用AI生成我。让“AI但斌”和同学及我交流，非常惊艳…… Play Video 网络跑去滚雪球了，喊他回来 点击刷新 44821 07:39"
+    },
+    {
+      "post_id": "b3f1468adcda0f77",
+      "post_hash": "7f89d0f86fd71396",
+      "tab": "视频",
+      "summary": "Butbin discusses the value of Kweichow Moutai and Ping An Bank, highlighting their potential for long-term growth.",
+      "key_points": [
+        "Kweichow Moutai is a strong value stock with long-term growth potential.",
+        "Ping An Bank is a solid financial institution with a stable dividend yield."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai and Ping An Bank, citing their strong fundamentals and potential for long-term growth.",
+      "processed_at": "2025-12-07T06:19:42.923252",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于11-30 21:05 · 来自雪球"
+    },
+    {
+      "post_id": "969ebee2c4702443",
+      "post_hash": "ebef832785fa4987",
+      "tab": "视频",
+      "summary": "The author discusses their AI-generated avatar, 'AI但斌', and expresses excitement about its potential.",
+      "key_points": [
+        "The author discusses their AI-generated avatar, 'AI但斌', and expresses excitement about its potential.",
+        "They mention the avatar's ability to interact with others and its impressive appearance."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Technology"
+      ],
+      "sectors": [
+        "Technology"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "sentiment_reasoning": "The author is enthusiastic about the AI-generated avatar, expressing excitement and admiration for its capabilities.",
+      "processed_at": "2025-12-07T06:19:55.004335",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "魔豆果Modonut的产品，模仿我的形象，用AI生成我。让“AI但斌”和同学及我交流，非常惊艳…… Play Video 网络跑去滚雪球了，喊他回来 点击刷新 44821 07:39"
+    },
+    {
+      "post_id": "ebaf776b435d6238",
+      "post_hash": "38be15d8948610ad",
+      "tab": "视频",
+      "summary": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · ... (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Technology",
+        "Healthcare",
+        "Finance",
+        "Manufacturing"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.75,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:20:12.587510",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · 来自雪球 转载——但斌2025分析师大会发言全程精剪 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 76125 14:47 花甲老头修改于12-03 14:53 · 来自雪球 他好像很惊..."
+    },
+    {
+      "post_id": "213886d48a7bf758",
+      "post_hash": "47a341b840148e9b",
+      "tab": "视频",
+      "summary": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · ... (Auto-generated)",
+      "key_points": [],
+      "tickers": [],
+      "companies": [],
+      "themes": [],
+      "sectors": [
+        "Technology",
+        "Finance"
+      ],
+      "sentiment": "neutral",
+      "sentiment_score": -0.5,
+      "sentiment_reasoning": "Basic keyword-based analysis",
+      "processed_at": "2025-12-07T06:20:24.381540",
+      "model_used": "fallback",
+      "processing_time_ms": 0,
+      "original_text_preview": "3902.81 上证指数+0.70% 13147.68 深证成指+1.08% 3109.30 创业板指+1.36% 热门7x24视频基金资讯达人私募ETF 但斌修改于11-28 21:33 · 来自雪球 转载——但斌2025分析师大会发言全程精剪 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 76125 14:47 花甲老头修改于12-03 14:53 · 来自雪球 他好像很惊..."
+    },
+    {
+      "post_id": "5cc77964e5a119cd",
+      "post_hash": "2eb2a82da61f6b08",
+      "tab": "视频",
+      "summary": "Dalyo says Japan's debt isn't gone, just shifted to citizens.",
+      "key_points": [
+        "Dalyo says Japan's debt isn't gone, just shifted to citizens.",
+        "The author is skeptical of this claim."
+      ],
+      "tickers": [],
+      "companies": [],
+      "themes": [
+        "Debt",
+        "Economics"
+      ],
+      "sectors": [
+        "Finance"
+      ],
+      "sentiment": "negative",
+      "sentiment_score": -0.7,
+      "sentiment_reasoning": "The author is skeptical of Dalyo's claim, indicating a negative sentiment.",
+      "processed_at": "2025-12-07T06:20:30.621769",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于15小时前 · 来自雪球 转载——达利欧：日本的债务没消失，只是悄悄转嫁给了老百姓 Play Video 网络跑去滚雪球了，喊他回来 点击刷新 22742 01:26"
+    },
+    {
+      "post_id": "ecfe481b30d13ca8",
+      "post_hash": "8b530381756272f4",
+      "tab": "视频",
+      "summary": "But Bin discusses the potential of Kweichow Moutai and Ping An Bank.",
+      "key_points": [
+        "Kweichow Moutai might be a good value investment.",
+        "Ping An Bank is a solid financial play."
+      ],
+      "tickers": [
+        "SH600519",
+        "SZ000001"
+      ],
+      "companies": [
+        "Kweichow Moutai",
+        "Ping An Bank"
+      ],
+      "themes": [
+        "Value Investing",
+        "White Liquor"
+      ],
+      "sectors": [
+        "Consumption",
+        "Finance"
+      ],
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "sentiment_reasoning": "The author expresses optimism about Kweichow Moutai's value potential and Ping An Bank's financial stability.",
+      "processed_at": "2025-12-07T06:20:42.814176",
+      "model_used": "accounts/sentientfoundation-serverless/models/dobby-mini-unhinged-plus-llama-3-1-8b",
+      "processing_time_ms": 0,
+      "original_text_preview": "但斌修改于15小时前 · 来自雪球"
+    }
+  ]
+}
