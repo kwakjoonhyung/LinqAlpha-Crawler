@@ -48,7 +48,7 @@ The solution was built using **Python 3.10** with a modular architecture ensurin
 | **Flexible Tab Selection** | Crawl specific tabs or all 8 available tabs |
 | **Robust Error Handling** | Automatic retries with exponential backoff, graceful failure handling |
 | **Incremental Saving** | Data saved continuously during crawling to prevent data loss |
-| **LLM Integration** | Fireworks API (Llama-3-8b-instruct) for intelligent summarization |
+| **LLM Integration** | Fireworks API (dobby-mini-unhinged-plus-llama-3-1-8b) for intelligent summarization |
 | **Deduplication** | Content-hash based duplicate detection using xxhash |
 | **Comprehensive Reports** | Markdown reports with stock analysis, sentiment trends, and verbatim quotes |
 
@@ -60,7 +60,7 @@ The solution was built using **Python 3.10** with a modular architecture ensurin
 |-----------|------|-------------|
 | **Asynchronous Crawler** | `crawler.py` | Utilizes Playwright and asyncio to handle dynamic JavaScript rendering and infinite scrolling. Implements robust selector strategies to handle varying DOM structures across different tabs (e.g., special handling for the 7x24 news stream). |
 | **Data Modeling** | `models.py` | Employs Pydantic for strict type validation, ensuring data consistency across the pipeline. |
-| **LLM Integration** | `llm_summarizer.py` | Integrated OpenAI SDK compatible with Fireworks AI. Uses Llama-3-8b-instruct for extraction, translation, and sentiment scoring. |
+| **LLM Integration** | `llm_summarizer.py` | Integrated OpenAI SDK compatible with Fireworks AI. Uses dobby-mini-unhinged-plus-llama-3-1-8b for extraction, translation, and sentiment scoring. |
 | **Storage Layer** | `storage.py` | Implements an IncrementalSaver to ensure data persistence during long-running tasks, utilizing JSON for structured storage. |
 | **Reporting** | `report_generator.py` | Automated generation of Markdown reports containing executive summaries, sector analysis, and engagement metrics. |
 
