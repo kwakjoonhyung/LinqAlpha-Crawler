@@ -254,7 +254,7 @@ The generated `final_report.md` includes:
 ### Sample Report Output
 
 ```markdown
-# Xueqiu Discussion Report — run_20251207_103045
+# Xueqiu Discussion Report — run_20251207_150619
 
 **Generated:** 2025-12-07 10:45:23
 **Total Posts Collected:** 423
@@ -343,7 +343,7 @@ If you encounter rate limiting:
 ## 📁 Project Structure
 
 ```
-xueqiu-crawler/
+LinqAlpha-Crawler/
 ├── main.py                   # CLI entry point & pipeline orchestration
 ├── requirements.txt          # Python dependencies (pip)
 ├── environment.yaml          # Conda environment file (recommended)
