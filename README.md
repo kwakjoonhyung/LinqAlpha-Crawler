@@ -23,7 +23,6 @@ A Python-based crawler that captures investor discussions from **Xueqiu (雪球)
 - [Available Tabs](#-available-tabs)
 - [Technical Details](#-technical-details)
 - [Troubleshooting](#-troubleshooting)
-- [License](#-license)
 
 ---
 
@@ -72,7 +71,7 @@ The solution was built using **Python 3.10** with a modular architecture ensurin
 ### Prerequisites
 
 - Python 3.8 or higher
-- Git
+- git
 - Conda (recommended) or pip
 
 ### Option 1: Using Conda (Recommended)
