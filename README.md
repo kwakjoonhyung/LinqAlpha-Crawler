@@ -74,7 +74,7 @@ The solution was built using **Python 3.10** with a modular architecture ensurin
 - git
 - Conda (recommended) or pip
 
-### Option 1: Using Conda (Recommended)
+### Using Conda (Recommended)
 
 The easiest way to set up the environment is using the provided `environment.yaml` file:
 
@@ -87,35 +87,11 @@ cd LinqAlpha-Crawler
 conda env create -f environment.yaml
 
 # 3. Activate the environment
-conda activate xueqiu-crawler
+conda activate linq_env
 
 # 4. Install Playwright browser (REQUIRED)
 playwright install chromium
 ```
-
-### Option 2: Using pip (Alternative)
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/xueqiu-crawler.git
-cd xueqiu-crawler
-
-# 2. Create virtual environment
-python -m venv venv
-
-# 3. Activate virtual environment
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-
-# 4. Install Python dependencies
-pip install -r requirements.txt
-
-# 5. Install Playwright browser (REQUIRED)
-playwright install chromium
-```
-
 ---
 
 ## ⚙️ Configuration
@@ -334,23 +310,6 @@ Each post extracts the following fields:
 | `comment_count` | Number of comments |
 | `retweet_count` | Number of retweets |
 
-### LLM Processing
-
-The LLM (Llama-3-8b-instruct via Fireworks AI) performs:
-
-1. **Summarization**: Concise English summary of Chinese posts
-2. **Entity Extraction**: Stock tickers, company names
-3. **Theme Identification**: Investment themes and market sectors
-4. **Sentiment Analysis**: Positive/Neutral/Negative with confidence score
-
-### Data Quality Measures
-
-- **Validation**: Pydantic models ensure required fields
-- **Deduplication**: xxhash-based content hashing
-- **Incremental Saves**: Data persisted every 30 seconds
-- **Error Tracking**: All failures logged and reported
-
----
 
 ## 🐛 Troubleshooting
 
@@ -361,14 +320,6 @@ The LLM (Llama-3-8b-instruct via Fireworks AI) performs:
 pip install playwright
 playwright install chromium --with-deps
 ```
-
-### Cookie Expiration
-
-Xueqiu cookies expire periodically. If you see authentication errors:
-
-1. Clear browser cookies for xueqiu.com
-2. Visit the site again
-3. Extract fresh cookies using DevTools
 
 ### Rate Limiting
 
@@ -408,12 +359,6 @@ xueqiu-crawler/
     ├── storage.py            # JSON storage & incremental saving
     └── report_generator.py   # Markdown report generation
 ```
-
----
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
