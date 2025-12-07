@@ -80,8 +80,8 @@ The easiest way to set up the environment is using the provided `environment.yam
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/xueqiu-crawler.git
-cd xueqiu-crawler
+git clone https://github.com/kwakjoonhyung/LinqAlpha-Crawler.git
+cd LinqAlpha-Crawler
 
 # 2. Create conda environment from yaml file
 conda env create -f environment.yaml
@@ -91,19 +91,6 @@ conda activate xueqiu-crawler
 
 # 4. Install Playwright browser (REQUIRED)
 playwright install chromium
-```
-
-To update an existing environment:
-
-```bash
-conda env update -f environment.yaml --prune
-```
-
-To remove the environment:
-
-```bash
-conda deactivate
-conda env remove -n xueqiu-crawler
 ```
 
 ### Option 2: Using pip (Alternative)
