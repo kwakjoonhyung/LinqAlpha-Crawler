@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Playwright-Automation-green.svg" alt="Playwright">
   <img src="https://img.shields.io/badge/LLM-Fireworks%20AI-orange.svg" alt="LLM">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
 
 A Python-based crawler that captures investor discussions from **Xueqiu (雪球)** — one of China's leading social investing platforms — and generates structured investor sentiment reports for **Hedge Fund Analysts**.
